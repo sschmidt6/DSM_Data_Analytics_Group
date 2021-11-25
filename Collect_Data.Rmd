@@ -1,0 +1,185 @@
+---
+title: "DSM Project Data Collection: Web Scrapting json using R"
+author: "Chenxi Li"
+date: "10/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Collect Event Attendance Info from API
+
+In this part, we use the Meetup API instead of scrapting data directly from webpage.
+The source of api is at here (https://www.meetup.com/meetup_api/).
+
+
+### Sample of Attendance Data for One Event
+
+```{r}
+# r web / r json - installing jsonlite
+#install.packages("jsonlite")
+rm(list = ls())
+library("jsonlite")
+
+# r web / r json - get json data from url
+json_file <- "https://api.meetup.com/Des-Moines-Data-Analytics/events/243781906/attendance?page=50"
+data <- fromJSON(json_file, flatten = TRUE)
+#head(data %>% bind_rows() %>% mutate(department = rep(names(data), map_dbl(data, nrow))))
+str(as.data.frame(data))
+```
+
+```{r}
+# 2021-10-08 11:31
+tdat <- data$rsvp.updated[5]
+datetime <- as.POSIXct(strptime(tdat, format = "%d/%m/%Y %H:%M:%S"))
+datetime <- as.POSIXct(as.numeric(tdat)/1000, origin='2021-10-08') 
+datetime
+
+format(as.POSIXct("1970-01-01",tz="GMT")+tdat/1000-5*3600, "%Y-%m-%d %H:%M:%S")
+
+t.gmt <- as.POSIXct((tdat)/1000, origin = Sys.Date(), tz = "GMT", format = "%Y-%m-%d %H:%M:%S") 
+t.gmt #"2073-07-28 16:31:21 GMT"
+t.local <- as.POSIXct(format(t.gmt, "%Y-%m-%d %H:%M:%S"))
+t.local
+```
+```{r}
+data$rsvp.updated <- format(as.POSIXct("1970-01-01",tz="GMT")+data$rsvp.updated/1000-5*3600, "%Y-%m-%d %H:%M:%S")
+head(data)
+```
+
+## 
+
+```{r}
+json_file <- "https://api.meetup.com/Des-Moines-Data-Analytics/members/"
+Members <- fromJSON(json_file, flatten = TRUE)
+head(as.data.frame(Members))
+```
+
+
+
+### Loop of Scrapting
+
+```{r}
+df <- read.csv("Event.csv")
+#df <- df[1:1121, ]
+df$ï..EventID[41] <- 281103430
+head(df)
+```
+
+
+```{r}
+lsCol <- c("event.id", "status", "member.id","member.name", "member.bio" ,"member.role", "member.photo.id", "rsvp.response", "rsvp.updated")
+
+data_comb <- data.frame(matrix(ncol = 9, nrow = 0))
+colnames(data_comb) <- lsCol
+
+for (curr_url in df$ï..EventID) {
+  
+  json_file <- paste("https://api.meetup.com/Des-Moines-Data-Analytics/events/", curr_url,"/attendance?page=100", sep="")
+  data <- fromJSON(json_file, flatten = TRUE)
+  data$rsvp.updated <- format(as.POSIXct("1970-01-01",tz="GMT")+data$rsvp.updated/1000-5*3600, "%Y-%m-%d %H:%M:%S")
+  data$event.id <- curr_url
+  if ("status" %in% colnames(data) == FALSE){
+    data$status <- "missing"
+    print(curr_url)
+  }
+  data_comb <- rbind(data_comb, data[,lsCol])
+  
+  print(curr_url)
+  
+  Sys.sleep(1)
+}
+```
+
+```{r}
+write.csv(data_comb, file="event_update.csv")
+```
+
+
+## Collect list of interest from Webpage
+
+The interest cannot be collect via API directly, so we use the web-scraping technique.
+We think that interest may also affect the event attendance, but there are too many interests. We were not able to classify them into different category and use in analysis.
+We put the code here in case you are interesting for further analysis.
+
+
+### Sample of Collection
+
+```{r}
+library(RCurl)
+library(rvest)
+library(stringr)
+
+url <- "http://www.meetup.com/Des-Moines-Data-Analytics/members/224220146/"
+page <- read_html(url)
+
+interest <- 
+  page %>% 
+  html_nodes('li[class="D_group small last"]') %>%
+  html_nodes('a[class="link"]') %>%
+  html_text()
+  
+interest <- paste(interest, collapse=", ")
+interest
+
+```
+
+### Loop of Data Collection
+
+```{r}
+df <- read.csv("Import.csv")
+```
+
+You may remove the comment if you hope to collect Intro and Comment info at the same time.
+It is also possible to collect them via API, which is much easier. 
+
+```{r}
+irow = 1
+
+#vIntro <- c()
+#vComment <- c()
+vInterest <- c()
+
+
+for (curr_url in df$URL.of.Member.Profile) {
+  tryCatch({
+  print(curr_url)
+  Sys.sleep(2)
+  
+  an.error.occured <- FALSE
+  
+  page <- read_html(curr_url)
+
+  }, error=function(e){
+    cat("ERROR: [", irow, "]", conditionMessage(e), "\n")
+    an.error.occured <<- TRUE
+    }) 
+  
+  #intro <- ifelse(an.error.occured, "", html_text(html_nodes(page,'p'), trim = TRUE)[3])
+  #comments <- ifelse(an.error.occured, "", html_text(html_nodes(page,'p'))[4])
+  interest <- ifelse(an.error.occured, "",  
+      page %>% 
+      html_nodes('li[class="D_group small last"]') %>%
+      html_nodes('a[class="link"]') %>%
+      html_text() %>%
+      paste(collapse=", "))
+  
+  
+  #df[irow, "Introduction"] <- intro
+  #df[irow, "Comment"] <- comments
+  df[irow, "Interests"] <- interest
+  
+  irow = irow + 1
+}
+
+
+df[5:10, c("Interests")]
+```
+
+
+
+
+
+

@@ -9,6 +9,77 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Collect Members Profile from API
+
+### Sample of Member in Group
+
+```{r}
+# r web / r json - installing jsonlite
+#install.packages("jsonlite")
+rm(list = ls())
+library("jsonlite")
+
+# r web / r json - get json data from url
+json_file <- "https://api.meetup.com/members/342297642?page=20"
+data <- fromJSON(json_file, flatten = TRUE)
+#head(data %>% bind_rows() %>% mutate(department = rep(names(data), map_dbl(data, nrow))))
+str(as.data.frame(data))
+```
+
+```{r}
+data$joined[1] <- format(as.POSIXct("1970-01-01",tz="GMT")+data$joined[1]/1000-5*3600, "%Y-%m-%d %H:%M:%S")
+data$joined
+```
+
+### Loop of Scrapting
+
+```{r}
+df <- read.csv("Members.csv")
+head(df)
+```
+
+
+```{r}
+data_comb <- data.frame(matrix(ncol = 18, nrow = 0))
+
+for (curr_url in df$MemberID) {
+  
+  tryCatch({
+  json_file <- paste("https://api.meetup.com/members/", curr_url,"?page=20", sep="")
+  data <- fromJSON(json_file, flatten = TRUE)
+  data <- as.data.frame(data)
+  
+  if (length(colnames(data)) != length(colnames(data_comb))){
+    for (col_name in colnames(data_comb)){
+        if (col_name %in% colnames(data) == FALSE){
+        data[col_name] <- NA
+      }
+    }
+  }
+  
+  data$joined <- format(as.POSIXct("1970-01-01",tz="GMT")+data$joined/1000-5*3600, "%Y-%m-%d")
+
+  
+  data_comb <- rbind(data_comb, data)
+  
+  
+  
+  Sys.sleep(1)
+  
+  }
+  , error=function(e) {print(curr_url)})
+}
+```
+
+```{r}
+write.csv(data_comb, file="members_update.csv")
+```
+
+
+
+
+
+
 ## Collect Event Attendance Info from API
 
 In this part, we use the Meetup API instead of scrapting data directly from webpage.
@@ -30,31 +101,10 @@ data <- fromJSON(json_file, flatten = TRUE)
 str(as.data.frame(data))
 ```
 
-```{r}
-# 2021-10-08 11:31
-tdat <- data$rsvp.updated[5]
-datetime <- as.POSIXct(strptime(tdat, format = "%d/%m/%Y %H:%M:%S"))
-datetime <- as.POSIXct(as.numeric(tdat)/1000, origin='2021-10-08') 
-datetime
 
-format(as.POSIXct("1970-01-01",tz="GMT")+tdat/1000-5*3600, "%Y-%m-%d %H:%M:%S")
-
-t.gmt <- as.POSIXct((tdat)/1000, origin = Sys.Date(), tz = "GMT", format = "%Y-%m-%d %H:%M:%S") 
-t.gmt #"2073-07-28 16:31:21 GMT"
-t.local <- as.POSIXct(format(t.gmt, "%Y-%m-%d %H:%M:%S"))
-t.local
-```
 ```{r}
 data$rsvp.updated <- format(as.POSIXct("1970-01-01",tz="GMT")+data$rsvp.updated/1000-5*3600, "%Y-%m-%d %H:%M:%S")
 head(data)
-```
-
-## 
-
-```{r}
-json_file <- "https://api.meetup.com/Des-Moines-Data-Analytics/members/"
-Members <- fromJSON(json_file, flatten = TRUE)
-head(as.data.frame(Members))
 ```
 
 
@@ -177,9 +227,5 @@ for (curr_url in df$URL.of.Member.Profile) {
 
 df[5:10, c("Interests")]
 ```
-
-
-
-
 
 

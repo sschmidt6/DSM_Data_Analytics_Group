@@ -1,0 +1,1353 @@
+id,name,bio,status,joined,city,state,country,lat,lon,photo,is_pro_admin
+224220146,Jenny S.,yes,active,3/21/2017,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+64106522,Alan W.,no,active,9/27/2012,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+231817979,Alma Y.,no,active,7/14/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+232475,David B.,yes,active,3/30/2003,Polk City,IA,USA,41.78,-93.71,yes,FALSE
+212741481,Devin M.,no,active,9/11/2016,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+172351872,Greg W.,no,active,9/20/2014,Des Moines,IA,USA,41.6,-93.52,yes,FALSE
+222495825,Jesse W.,no,active,2/21/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+36826882,Jessie P.,no,active,1/29/2012,Madison,WI,USA,43.12,-89.34,yes,FALSE
+45618602,John K.,no,active,4/23/2012,Clive,IA,USA,41.6,-93.75,yes,FALSE
+219275949,John S.,no,active,1/4/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+200061460,Scott B.,no,active,2/19/2016,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+33346632,Simon G.,no,active,12/23/2011,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+225011354,Stephanie M.,yes,active,4/3/2017,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+236603412,Adam F.,no,active,9/15/2017,Berwick,IA,USA,41.67,-93.54,no,FALSE
+13793936,Brandon C.,no,active,1/17/2011,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+195443221,Cathie Smith F.,no,active,11/11/2015,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+183223680,Chris,no,active,12/31/2014,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+184926002,Jason P.,no,active,3/3/2015,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+62179372,Jeanine S.,no,active,9/12/2012,Santa Barbara,CA,USA,34.42,-119.71,yes,FALSE
+233076487,Jim Z.,no,active,8/1/2017,Ames,IA,USA,42.03,-93.64,yes,FALSE
+236261527,Kim R.,no,active,9/11/2017,Des Moines,IA,USA,41.59,-93.6,yes,FALSE
+227804996,Seven W.,no,active,5/17/2017,Des Moines,IA,USA,41.61,-93.6,yes,FALSE
+11129416,Shah,no,active,1/4/2010,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+78247142,Tim F.,yes,active,1/28/2013,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+12841552,Zach C.,no,active,8/27/2010,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+117405172,Kent V.,yes,active,10/27/2013,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+237855981,Kira B.,no,active,10/1/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+203637769,Kristin,no,active,4/19/2016,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+145558852,Libby A.,no,active,5/7/2014,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+189953580,Rena W.,no,active,7/15/2015,Kirkland,WA,USA,47.69,-122.19,no,FALSE
+12872869,Julie,no,active,8/31/2010,Grimes,IA,USA,41.69,-93.78,yes,FALSE
+232159134,Liz L.,no,active,7/19/2017,Des Moines,IA,USA,41.54,-93.68,yes,FALSE
+230826457,Rob W.,no,active,6/30/2017,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+238041038,Bobby B.,no,active,10/3/2017,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+111127612,Ed Y,no,active,9/13/2013,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+118155852,Raghu M.,yes,active,11/1/2013,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+206170373,Scott A.,no,active,5/30/2016,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+238039275,Venu G,no,active,10/3/2017,Austin,TX,USA,30.21,-97.85,yes,FALSE
+210212597,Connie B.,no,active,8/1/2016,Brimfield,IL,USA,40.83,-89.85,yes,FALSE
+238085305,Dylan R.,no,active,10/4/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+238080493,Ed E.,no,active,10/4/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+238077776,Elizabeth K.,no,active,10/4/2017,Indianapolis,IN,USA,39.77,-86.11,yes,FALSE
+138164612,Jacob L.,no,active,3/20/2014,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+238101542,Jason R.,no,active,10/4/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+184907303,Krisoye,no,active,3/2/2015,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+238100464,Luke,no,active,10/4/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+238099787,Matt B.,no,active,10/4/2017,Grimes,IA,USA,41.69,-93.78,no,FALSE
+13926854,Mike W.,no,active,2/2/2011,Clive,IA,USA,41.6,-93.75,yes,FALSE
+225071424,Nauma001,no,active,4/4/2017,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+208488707,Nick A.,no,active,7/6/2016,Johnston,IA,USA,41.68,-93.71,no,FALSE
+238083174,Tom M.,no,active,10/4/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+200414028,Treye N.,no,active,2/25/2016,Des Moines,IA,USA,41.6,-93.75,yes,FALSE
+238192534,Alanah M.,no,active,10/5/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+238211946,Christopher K.,no,active,10/5/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+232079845,Lauren,no,active,7/18/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+185945702,Mary J.,no,active,4/7/2015,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+238193267,Steven M.,no,active,10/5/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+225852620,Bruce C.,no,active,4/17/2017,Kansas City,MO,USA,39.1,-94.6,yes,FALSE
+196031742,Gotham,yes,active,11/24/2015,San Antonio,TX,USA,29.44,-98.48,yes,FALSE
+238256618,Matthew S.,no,active,10/6/2017,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+238431998,Paige A.,no,active,10/8/2017,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+203307293,Vince,no,active,4/13/2016,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+238489268,Eric K.,no,active,10/9/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+238491333,James R.,no,active,10/9/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+238591425,Dao,no,active,10/10/2017,Alexandria,VA,USA,38.82,-77.06,yes,FALSE
+238668109,Prem K.,no,active,10/11/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+238767925,Anna,no,active,10/12/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+238755577,Perry A.,no,active,10/12/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+238732659,Steph H,no,active,10/12/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+230579406,Tina K.,no,active,6/27/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+18208751,Chetan M.,no,active,6/21/2011,Downers Grove,IL,USA,41.81,-88.02,yes,FALSE
+238822104,Corey F.,no,active,10/13/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+238807435,Erin L.,no,active,10/13/2017,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+239423744,Nathan W.,no,active,10/21/2017,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+222535359,Jorden S.,no,active,2/22/2017,Des Moines,IA,USA,41.63,-93.71,yes,FALSE
+239602866,John S.,no,active,10/23/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+237465088,Deepti C.,no,active,9/26/2017,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+239680542,Guh K.,no,active,10/24/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+40877052,Allison S.,no,active,3/8/2012,Des Moines,IA,USA,41.55,-93.7,yes,FALSE
+239713741,Brandon O,no,active,10/25/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+189100030,Dustin S.,no,active,6/25/2015,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+209296992,Kelly T.,no,active,7/18/2016,Elkhart,IA,USA,41.79,-93.52,yes,FALSE
+203148601,Nicole D.,no,active,4/11/2016,Des Moines,IA,USA,41.54,-93.68,yes,FALSE
+239713843,Ruth H.,no,active,10/25/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+239716112,Shiva Ram C.,no,active,10/25/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+233684116,Adam H.,no,active,8/9/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+200405435,Carl,yes,active,2/25/2016,Des Moines,IA,USA,41.54,-93.58,yes,FALSE
+229315908,Jason G.,no,active,6/8/2017,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+239783613,Joe W.,no,active,10/26/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+239796541,Katie W.,no,active,10/26/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+239796260,Marty,no,active,10/26/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+223811348,Ryan T.,no,active,3/15/2017,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+239803942,Sam H.,no,active,10/26/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+209514993,Shivani K.,no,active,7/21/2016,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+239801902,Chad M.,yes,active,10/26/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+191507001,Chad N.,no,active,8/18/2015,Santa Clara,CA,USA,37.36,-121.95,yes,FALSE
+239859380,Mandy A.,no,active,10/27/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+239555735,Maneesh S.,no,active,10/23/2017,Johnston,IA,USA,41.68,-93.71,no,FALSE
+240028795,Luke M.,no,active,10/29/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+239883256,Nitro,no,active,10/27/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+196432628,MaKenzie,no,active,12/4/2015,Leawood,KS,USA,38.9,-94.63,yes,FALSE
+240091590,Sukhen C.,no,active,10/30/2017,Johnston,IA,USA,41.68,-93.71,no,FALSE
+240083566,Venkat G.,no,active,10/30/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+240156731,Babak D.,no,active,10/31/2017,Ames,IA,USA,42.03,-93.64,yes,FALSE
+187699364,David B.,no,active,5/23/2015,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+240182393,Ramya,no,active,10/31/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+240238225,Brad M.,no,active,11/1/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+240235446,Daniel G.,no,active,11/1/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+240202126,Jimie M.,no,active,11/1/2017,Des Moines,IA,USA,41.57,-93.71,yes,FALSE
+189951702,Kevin W.,no,active,7/15/2015,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+240312954,Martin L.,no,active,11/2/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+240294331,Mike G.,no,active,11/2/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+200670388,Amanda W.,no,active,2/29/2016,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+240698950,Rajiv N.,no,active,11/7/2017,Des Moines,IA,USA,41.68,-93.61,yes,FALSE
+229380835,Suzanne B.,no,active,6/9/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+98449702,Brent A.,no,active,6/18/2013,Johnston,IA,USA,41.59,-93.62,yes,FALSE
+240860630,Erica H.,no,active,11/9/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+240845379,Jason P.,no,active,11/9/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+220631557,Tonio L.,no,active,1/24/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+240950571,Dustin,no,active,11/10/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+241149371,Brett M.,no,active,11/13/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+231238917,Dhruv,no,active,7/6/2017,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+241225306,Scott M.,no,active,11/14/2017,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+231149531,Cevriye H.,no,active,7/5/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+230796259,Erick Y.,no,active,6/30/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+241325876,Lindsey P.,no,active,11/15/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+241314032,Scot H.,no,active,11/15/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+241412164,Ben S.,no,active,11/16/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+241401241,David W.,no,active,11/16/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+241549591,Dolph R.,no,active,11/17/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+241537409,Lizzie E.,no,active,11/17/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+231739041,Shane C.,no,active,7/13/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+241808836,Carrie G.,no,active,11/20/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+241826833,Jason H.,yes,active,11/20/2017,Calgary,AB,Canada,51.03,-114.04,yes,FALSE
+241896537,Ignatius (Budi) W.,no,active,11/21/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+242000836,Fred T.,no,active,11/22/2017,Des Moines,IA,USA,41.64,-93.62,yes,FALSE
+242301167,Bryan,no,active,11/25/2017,Waukee,IA,USA,41.6,-93.87,no,FALSE
+242355005,Jose T.,no,active,11/25/2017,Marshalltown,IA,USA,42.02,-92.92,no,FALSE
+205558200,Vera L,no,active,5/20/2016,Virginia Beach,VA,USA,36.78,-76.08,yes,FALSE
+242480076,Apurva P.,no,active,11/27/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+242435255,Derrick S.,no,active,11/26/2017,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+233738759,Sukanta P.,no,active,8/10/2017,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+242516276,John,no,active,11/27/2017,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+191957178,Tara,no,active,8/28/2015,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+242547083,Tom,no,active,11/27/2017,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+182691079,Jeremy W.,no,active,11/23/2014,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+242597182,Norah M.,no,active,11/28/2017,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+108200182,Bob,no,active,8/24/2013,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+242764390,Betsy F.,no,active,11/30/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+221419527,Raymond J.,no,active,2/5/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+124640222,Tarek,no,active,12/22/2013,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+242859266,Torre G.,no,active,12/1/2017,Denver,CO,USA,39.7,-105.08,no,FALSE
+242995696,Kyle K.,no,active,12/3/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+243033625,Mackenzie R.,no,active,12/3/2017,Des Moines,IA,USA,41.63,-93.67,no,FALSE
+223627834,Jinbo V,yes,active,3/12/2017,Natick,MA,USA,42.29,-71.35,yes,FALSE
+243146711,Queen B.,no,active,12/5/2017,Des Moines,IA,USA,41.63,-93.65,yes,FALSE
+243285488,Jeremy B.,no,active,12/6/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+2857864,Darrell H.,yes,active,5/22/2006,Des Moines,IA,USA,41.59,-93.63,yes,FALSE
+204759615,Paddy H.,no,active,5/8/2016,Des Moines,IA,USA,41.58,-93.64,yes,FALSE
+127993732,Justin M.,no,active,1/13/2014,Clive,IA,USA,41.6,-93.75,no,FALSE
+243623441,Luke K,no,active,12/10/2017,Sherrill,IA,USA,42.61,-90.81,yes,FALSE
+243618784,Matt V,no,active,12/10/2017,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+243764029,Armel,no,active,12/12/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+243762865,Joel R.,no,active,12/12/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+243763776,Nick G,no,active,12/12/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+201874126,Jon K.,no,active,3/20/2016,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+111654322,Dipo T.,no,active,9/17/2013,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+199043774,Matt W.,no,active,2/2/2016,Clive,IA,USA,41.6,-93.75,yes,FALSE
+244039368,Kelly J.,no,active,12/16/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+244229602,DaK J.,no,active,12/19/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+244264802,abhiram d.,no,active,12/20/2017,Des Moines,IA,USA,41.64,-93.62,yes,FALSE
+244347871,Nick C.,no,active,12/21/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+244347258,Sydney C.,no,active,12/21/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+244438943,Jacey H.,no,active,12/23/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+244432689,Kirk O.,no,active,12/22/2017,Urbandale,IA,USA,41.63,-93.8,yes,FALSE
+101535502,Jacob B.,no,active,7/9/2013,Urbandale,IA,USA,41.63,-93.8,no,FALSE
+244598101,Brock B.,no,active,12/25/2017,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+237207690,Luciano C.,no,active,9/23/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+176424042,Aaron,no,active,10/7/2014,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+244636877,Dann,no,active,12/26/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+238658449,Michael C.,no,active,10/11/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+185582747,Kellie F.,no,active,3/26/2015,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+206361347,JohnK,no,active,6/2/2016,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+244924480,Bridgette M.,no,active,12/30/2017,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+238832067,Angela W.,yes,active,10/13/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+245126666,Christian H.,no,active,1/2/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+245123310,Craig S.,no,active,1/2/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+245092518,Whitney L.,no,active,1/2/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+182934410,Aaron B,no,active,12/10/2014,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+163511632,Arun D.,no,active,8/25/2014,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+245192335,Bill C.,no,active,1/3/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+226744450,Colette N.,no,active,5/1/2017,Cedar Rapids,IA,USA,41.95,-91.69,yes,FALSE
+245178214,Hannah P.,no,active,1/3/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+245205453,Jeri R,no,active,1/3/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+245200738,Kody B.,no,active,1/3/2018,Clive,IA,USA,41.6,-93.75,yes,FALSE
+245229221,MKosmicki,yes,active,1/3/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+245196623,Nishant K.,no,active,1/3/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+106812912,Rushi D.,no,active,8/14/2013,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+97654212,Shalyn N.,no,active,6/12/2013,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+245196862,Usha Rani C.,no,active,1/3/2018,Grimes,IA,USA,41.69,-93.78,no,FALSE
+245238653,Smita N.,no,active,1/4/2018,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+245614618,Eric H.,no,active,1/8/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+162415252,Joey H.,no,active,8/19/2014,Ankeny,IA,USA,41.74,-93.59,yes,FALSE
+245596366,Silverado G.,no,active,1/8/2018,Russell,IA,USA,40.98,-93.2,yes,FALSE
+245600566,Victoria W.,no,active,1/8/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+245608358,Shade P.,no,active,1/8/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+234567334,Chris L.,no,active,8/21/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+245839196,Brad H,no,active,1/11/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+245798310,Muris,no,active,1/11/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+193992179,matthew j.,no,active,10/12/2015,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+246086747,Stephanie P.,no,active,1/15/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+246159828,B P,no,active,1/16/2018,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+246144362,Berrett R.,no,active,1/16/2018,Ames,IA,USA,42.03,-93.64,yes,FALSE
+132668872,D. R. A.,no,active,2/10/2014,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+246171721,Dan R.,no,active,1/16/2018,Tiffin,IA,USA,41.71,-91.67,no,FALSE
+8840391,Wayne,no,active,2/7/2009,Arlington,VA,USA,38.89,-77.1,yes,FALSE
+246248813,Alex M.,no,active,1/17/2018,Urbandale,IA,USA,41.63,-93.8,yes,FALSE
+201135200,Pete,no,active,3/8/2016,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+246212643,Sean K,no,active,1/17/2018,Des Moines,IA,USA,41.59,-93.76,no,FALSE
+210016056,Jeff S.,no,active,7/29/2016,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+246297918,Steve B.,no,active,1/18/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+224801826,Kyl J.,no,active,3/31/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+152498072,Susan P.,no,active,6/20/2014,Cambridge,MA,USA,42.37,-71.1,yes,FALSE
+246417809,Katelin S.,no,active,1/20/2018,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+197031977,Nate W.,no,active,12/19/2015,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+246517435,Santha P.,no,active,1/21/2018,Morrisville,NC,USA,35.83,-78.84,yes,FALSE
+11160430,Becky,no,active,1/8/2010,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+246670609,Emily T.,no,active,1/23/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+237105616,Harrison P.,no,active,9/21/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+241233626,Kelly J.,no,active,11/14/2017,Johnston,IA,USA,41.68,-93.71,no,FALSE
+224433252,Anthony L.,no,active,3/25/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+226754566,JamesSchmidt,no,active,5/1/2017,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+204293391,Andrew W.,no,active,4/30/2016,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+99225452,Jason L.,no,active,6/23/2013,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+235055963,Philip M.,no,active,8/27/2017,Omaha,NE,USA,41.26,-95.94,yes,FALSE
+247043794,Vrajesh V,yes,active,1/28/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+247102697,Conor O.,no,active,1/29/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+247250694,PCS,no,active,1/31/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+247347152,Venkat V.,no,active,2/1/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+247390795,Cari B,no,active,2/2/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+178635462,Mritunjay D.,no,active,10/19/2014,South Beloit,IL,USA,42.48,-88.97,yes,FALSE
+125708242,Sarah,no,active,12/30/2013,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+247555010,Tom H.,no,active,2/4/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+247555297,Xinyi P.,no,active,2/4/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+247612709,JB P.,no,active,2/5/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+247576363,Kay,no,active,2/5/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+247604291,Zach V.,no,active,2/5/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+247654178,D.Hargens,no,active,2/6/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+244864433,Matthew V.,no,active,12/29/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+239621671,Venkat G.,no,active,10/24/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+109230562,Alex,no,active,8/31/2013,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+4053374,Craig T.,yes,active,4/16/2007,Des Moines,IA,USA,41.54,-93.58,yes,FALSE
+247764151,MaKenzie K.,no,active,2/7/2018,Clive,IA,USA,41.6,-93.75,no,FALSE
+247724193,Matt C.,yes,active,2/7/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+247173874,Cody C.,no,active,1/30/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+235097629,Ryan V.,no,active,8/28/2017,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+247878239,Pankaj B.,no,active,2/9/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+247810003,Rachelle M.,no,active,2/8/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+248026086,Anthony S.,no,active,2/11/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+248077215,Andrew H.,no,active,2/12/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+248078797,David K.,no,active,2/12/2018,Clive,IA,USA,41.6,-93.75,yes,FALSE
+248101387,Jasmine M.,no,active,2/12/2018,Ankeny,IA,USA,41.72,-93.61,no,FALSE
+248089034,Kendra Lynn K.,no,active,2/12/2018,Ames,IA,USA,42.02,-93.64,yes,FALSE
+248098333,Melissa H.,no,active,2/12/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+248168214,Kori L.,no,active,2/13/2018,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+248258725,Makinsey S.,no,active,2/14/2018,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+248604527,Keegan M.,no,active,2/19/2018,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+248564110,Louis R.,no,active,2/19/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+186286966,Nupur S.,no,active,4/17/2015,Piscataway,NJ,USA,40.55,-74.46,yes,FALSE
+248671310,Jane N.,no,active,2/20/2018,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+248716623,Candice W.,no,active,2/21/2018,Accra,1,Ghana,5.55,-0.22,no,FALSE
+248809612,Bhupinder B.,yes,active,2/22/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+226389709,Douglas F.,no,active,4/25/2017,Des Moines,IA,USA,41.6,-93.75,yes,FALSE
+248873611,Subbu V.,no,active,2/23/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+249087762,Brittany D.,no,active,2/26/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+249063291,Jacquie H.,no,active,2/26/2018,Des Moines,IA,USA,41.58,-93.72,yes,FALSE
+248956701,Madhu,no,active,2/24/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+249232368,ggrum,no,active,2/28/2018,Nevada,IA,USA,42.02,-93.45,no,FALSE
+249231712,Martin B.,no,active,2/28/2018,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+148333582,Andrew S.,no,active,5/25/2014,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+249672835,JD S.,no,active,3/6/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+193326591,Krishna,no,active,9/27/2015,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+240605749,Biji P.,no,active,11/6/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+7331759,Kevin K.,no,active,5/29/2008,Waukee,IA,USA,41.6,-93.87,no,FALSE
+249769703,Michael T.,no,active,3/7/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+249769819,Shawn G,no,active,3/7/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+231100161,Brad A.,no,active,7/4/2017,Pella,IA,USA,41.41,-92.91,yes,FALSE
+249440700,Emily,no,active,3/3/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+249876690,Brett F,no,active,3/9/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+156755372,Heather L.,no,active,7/16/2014,Itasca,IL,USA,41.97,-88.02,yes,FALSE
+198049000,Howard T.,no,active,1/13/2016,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+249906421,Phaedra S.,no,active,3/9/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+14302418,Tammy,no,active,3/21/2011,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+250170911,Chiunta C.,no,active,3/13/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+191394972,Jacob R.,no,active,8/16/2015,Davenport,IA,USA,41.52,-90.58,yes,FALSE
+250146994,Ken B.,no,active,3/13/2018,Des Moines,IA,USA,41.58,-93.72,yes,FALSE
+110388862,Member ID: #.,no,active,9/8/2013,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+250444391,Eric C.,no,active,3/17/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+224895474,Kaul,no,active,4/1/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+250500618,John F.,no,active,3/18/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+189906384,Dave H.,no,active,7/14/2015,Pella,IA,USA,41.41,-92.91,yes,FALSE
+250620779,Joel J.,no,active,3/20/2018,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+250631806,Liz C.,no,active,3/20/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+7849558,Andy B.,no,active,8/14/2008,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+193357707,Tom K.,no,active,9/28/2015,Winterset,IA,USA,41.33,-94.01,yes,FALSE
+219721802,Doug A.,yes,active,1/11/2017,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+11709883,Barry N.,no,active,3/20/2010,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+250930392,Bethanne,no,active,3/24/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+6124689,James B.,no,active,1/12/2008,Clive,IA,USA,41.6,-93.75,yes,FALSE
+214936664,Karthik A.,no,active,10/14/2016,Manchester,IA,USA,42.49,-91.46,no,FALSE
+175106582,Abhijeet S.,no,active,10/3/2014,Stamford,CT,USA,41.09,-73.54,no,FALSE
+142428722,Brigham,no,active,4/16/2014,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+250984870,J.P. S.,no,active,3/25/2018,Clive,IA,USA,41.6,-93.75,yes,FALSE
+250991670,John G.,no,active,3/25/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+250972318,Rudopho V.,no,active,3/25/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+251005585,Sireesha S.,no,active,3/25/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+251135466,Neil L.,no,active,3/27/2018,Des Moines,IA,USA,41.54,-93.62,no,FALSE
+250621873,Michael J.,no,active,3/20/2018,Des Moines,IA,USA,41.61,-93.6,yes,FALSE
+251394482,Cassandra H.,no,active,3/31/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+251390869,Mary,no,active,3/31/2018,Des Moines,IA,USA,41.58,-93.72,yes,FALSE
+216856588,Benjamin H.,no,active,11/17/2016,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+13573626,Grant H.,no,active,12/13/2010,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+251516682,Britni T.,no,active,4/2/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+251515561,Meagan D.,no,active,4/2/2018,Des Moines,IA,USA,41.54,-93.68,yes,FALSE
+251549414,Siddhi S.,no,active,4/2/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+251663279,Joel F.,no,active,4/4/2018,Polk City,IA,USA,41.78,-93.71,yes,FALSE
+251690564,Mike W.,no,active,4/4/2018,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+251884335,C M,no,active,4/7/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+251888000,Laure B.,no,active,4/7/2018,Ames,IA,USA,42.03,-93.64,yes,FALSE
+251963532,Cindy H.,no,active,4/8/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+252047935,Hieu Duc P.,no,active,4/9/2018,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+190190803,Matthew K,no,active,7/20/2015,Columbia,MO,USA,39,-92.32,yes,FALSE
+251651426,Anna G.,no,active,4/4/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+252253327,Don S.,no,active,4/12/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+252256339,Emily M.,no,active,4/12/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+252319633,Vira B.,no,active,4/13/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+10828432,Jason M.,no,active,11/10/2009,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+221999406,Nick L.,no,active,2/13/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+252613648,Stephanie M.,no,active,4/17/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+226620466,Deepak M.,no,active,4/29/2017,Grimes,IA,USA,41.69,-93.78,yes,FALSE
+252797559,Brett,no,active,4/20/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+252811237,Emmanuel,no,active,4/20/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+252936973,Nic S.,no,active,4/22/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+247340649,Amanda R.,no,active,2/1/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+253073371,Bryn C.,no,active,4/24/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+56363732,Claire S.,no,active,7/27/2012,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+253074026,Jay,no,active,4/24/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+253087818,Luke K.,no,active,4/24/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+2006674,Dan B.,yes,active,1/31/2005,Clive,IA,USA,41.6,-93.75,yes,FALSE
+253161444,Junran C.,no,active,4/25/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+253142810,Michelle M.,no,active,4/25/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+253218518,Frank K.,no,active,4/26/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+253223160,Fred G.,no,active,4/26/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+205601767,Jenna,no,active,5/21/2016,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+230705786,Akash,no,active,6/28/2017,Clive,IA,USA,41.6,-93.75,yes,FALSE
+253493228,Amy Van D.,no,active,4/30/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+253482877,bala g.,no,active,4/30/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+253556067,Kelsey C.,no,active,5/1/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+253557036,Mark S.,no,active,5/1/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+226744543,Barbara A.,no,active,5/1/2017,Iowa City,IA,USA,41.67,-91.51,yes,FALSE
+253733983,Lalit G.,no,active,5/3/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+253731342,Lori P.,no,active,5/3/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+125476422,John R.,no,active,12/29/2013,Urbandale,IA,USA,41.63,-93.8,yes,FALSE
+253820620,veera,no,active,5/4/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+195651794,Valon T.,no,active,11/16/2015,Bolingbrook,IL,USA,41.7,-88.08,yes,FALSE
+131035192,Erin,no,active,1/31/2014,Clive,IA,USA,41.6,-93.75,yes,FALSE
+8566504,Carter W.,no,active,12/29/2008,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+254013612,Ebose E.,no,active,5/7/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+253991312,Surendra G.,no,active,5/7/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+235323596,Chris S.,no,active,8/31/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+227706147,Cody M.,no,active,5/16/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+254227379,lynette h.,no,active,5/10/2018,Des Moines,IA,USA,41.6,-93.54,yes,FALSE
+254214509,Scott C.,no,active,5/10/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+254187255,Shawn D.,no,active,5/10/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+254302589,Bryant K.,no,active,5/11/2018,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+254255244,Krisha L.,no,active,5/11/2018,Urbandale,IA,USA,41.63,-93.8,yes,FALSE
+186114113,Matt V.,no,active,4/12/2015,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+220707796,Sheik A.,no,active,1/25/2017,Duluth,GA,USA,34.03,-84.14,no,FALSE
+254264562,Terri A.,no,active,5/11/2018,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+238376024,Jill Christi P.,no,active,10/7/2017,Mason City,IA,USA,43.15,-93.2,yes,FALSE
+193541734,Sudin H.,no,active,10/2/2015,Cedar Rapids,IA,USA,41.97,-91.66,yes,FALSE
+254554595,Miles K.,no,active,5/15/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+254601333,Brandy C.,no,active,5/16/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+254635177,Joe R.,no,active,5/16/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+254588414,Mark S.,no,active,5/15/2018,Altoona,IA,USA,41.65,-93.47,no,FALSE
+10756379,Mike H.,yes,active,10/30/2009,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+254628057,saurabh n.,no,active,5/16/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+242603546,Jonathan L.,no,active,11/28/2017,Des Moines,IA,USA,41.59,-93.63,yes,FALSE
+254739445,Ryan,no,active,5/17/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+254695283,Van M.,no,active,5/17/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+254769543,Joe N.,no,active,5/18/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+254872096,Nicole F.,no,active,5/19/2018,Ames,IA,USA,42.03,-93.64,no,FALSE
+254878013,pativada,no,active,5/19/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+243826143,Josh,no,active,12/13/2017,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+257722738,Anish K.,no,active,6/28/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+259935462,Carlos Velasquez R.,no,active,7/29/2018,Ames,IA,USA,42.03,-93.64,yes,FALSE
+259995974,Daniel R.,no,active,7/30/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+231464328,Jane S.,no,active,7/9/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+259598809,Rob H.,no,active,7/24/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+256000334,Steve M.,no,active,6/4/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+260006697,Travis B.,no,active,7/30/2018,Berwick,IA,USA,41.67,-93.54,no,FALSE
+260064001,Swadeep R.,no,active,7/31/2018,Grimes,IA,USA,41.69,-93.78,yes,FALSE
+260150658,DENGHUI W.,no,active,8/1/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+56012742,Mazen,no,active,7/24/2012,Des Moines,IA,USA,41.59,-93.66,no,FALSE
+260139639,Nick R.,no,active,8/1/2018,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+260167762,Bradley,no,active,8/1/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+255667887,Brian K,no,active,5/31/2018,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+260065550,Cheng P.,no,active,7/31/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+260074149,Mark S.,no,active,7/31/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+260204690,Peter,no,active,8/2/2018,Des Moines,IA,USA,41.58,-93.62,yes,FALSE
+10132825,Quentin D.,yes,active,8/6/2009,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+83707012,Mounica,yes,active,3/6/2013,Johnston,IA,USA,41.68,-93.71,no,FALSE
+257235944,April D.,no,active,6/22/2018,Boone,IA,USA,42.06,-93.89,yes,FALSE
+260401245,Aashish B.,no,active,8/5/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+203253541,Triny,no,active,4/12/2016,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+218158759,Matt H.,no,active,12/13/2016,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+260620184,Connor J.,no,active,8/7/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+233759159,David F.,no,active,8/10/2017,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+193085913,Jeff D.,no,active,9/22/2015,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+193142619,Taylor G.,no,active,9/23/2015,Grimes,IA,USA,41.69,-93.78,yes,FALSE
+226890165,Brent W.,no,active,5/3/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+253544259,Chris G.,no,active,5/1/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+260666792,Scott C.,no,active,8/8/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+260738971,Kevin P.,no,active,8/9/2018,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+226006681,Sigifredo C.,no,active,4/19/2017,Austin,TX,USA,30.22,-97.75,yes,FALSE
+260781911,GIMMIE LOTS OF M.,no,active,8/10/2018,Denver,CO,USA,39.7,-105.08,yes,FALSE
+260878882,Myk G.,yes,active,8/11/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+260964126,Mike B.,no,active,8/12/2018,Des Moines,IA,USA,41.6,-93.54,yes,FALSE
+243701803,Caroline M.,no,active,12/11/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+229392769,Gary B.,no,active,6/9/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+219795123,Megan,no,active,1/12/2017,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+255970438,Rob V.,no,active,6/4/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+201878191,Brandon B.,no,active,3/20/2016,Iowa City,IA,USA,41.66,-91.53,yes,FALSE
+261144708,Chad M.,no,active,8/15/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+261154901,Jonathan,no,active,8/15/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+261385412,Jon N.,no,active,8/18/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+220479411,Chandra,no,active,1/22/2017,Morrisville,NC,USA,35.83,-78.84,no,FALSE
+261522750,Zachary A.,no,active,8/20/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+255095268,Matt M.,no,active,5/22/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+261580448,venkat n,no,active,8/21/2018,Des Moines,IA,USA,41.63,-93.67,no,FALSE
+261646263,Eric M.,no,active,8/22/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+220777410,Nicole T.,no,active,1/26/2017,Chicago,IL,USA,41.88,-87.62,yes,FALSE
+261913997,alexander,no,active,8/26/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+261910125,Najee H.,no,active,8/26/2018,Des Moines,IA,USA,41.59,-93.64,yes,FALSE
+237505806,Praveen Aripirala V.,no,active,9/26/2017,Charlotte,NC,USA,35.32,-80.74,yes,FALSE
+261981410,Sarah,no,active,8/27/2018,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+262136303,John G.,no,active,8/29/2018,Des Moines,IA,USA,41.59,-93.63,yes,FALSE
+262141085,Trent R.,no,active,8/29/2018,Des Moines,IA,USA,41.6,-93.77,no,FALSE
+262213193,Andrew P,no,active,8/30/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+262347438,Caleb U.,no,active,9/1/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+262517861,Jake V.,no,active,9/4/2018,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+262556895,Ryan M.,no,active,9/4/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+262699862,Brett R.,no,active,9/6/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+186481055,Chaitanya,no,active,4/23/2015,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+262699574,Jessica H.,no,active,9/6/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+257479303,Chris K.,no,active,6/25/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+189923929,Jeremiah E.,no,active,7/14/2015,Saint Paul,MN,USA,44.94,-93.16,no,FALSE
+262801138,Jon Y.,no,active,9/7/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+256971088,Matt K.,no,active,6/18/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+257717929,Nick L.,no,active,6/28/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+262775534,Travis M.,no,active,9/7/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+262774754,Tyler B.,no,active,9/7/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+262935600,Carrie G.,no,active,9/9/2018,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+195390651,Nathan K.,no,active,11/10/2015,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+220624217,Shan R.,no,active,1/24/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+263087007,Kyle W.,no,active,9/11/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+256634762,Gauri U.,no,active,6/13/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+4775737,Dusty J.,yes,active,8/11/2007,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+66212352,Josh L.,no,active,10/15/2012,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+263277746,Kristi N.,no,active,9/14/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+215529382,Kyle B.,no,active,10/24/2016,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+191597576,Scott H.,no,active,8/20/2015,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+13668663,Andrew C. L.,no,active,1/2/2011,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+128695232,antrin,no,active,1/17/2014,Boston,MA,USA,42.36,-71.07,yes,FALSE
+263486646,Casey S.,no,active,9/17/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+263507804,Jim S.,no,active,9/17/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+263491418,Joe N.,no,active,9/17/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+263485432,Justin F.,no,active,9/17/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+188126232,Steven,no,active,6/2/2015,Ames,IA,USA,42.03,-93.64,yes,FALSE
+14376729,Tony T.,yes,active,3/30/2011,Des Moines,IA,USA,41.54,-93.68,yes,FALSE
+258833188,Avinash B.,no,active,7/13/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+252733839,Emily,no,active,4/19/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+263596070,Johnny G.,no,active,9/18/2018,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+263574952,Jordyn L.,no,active,9/18/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+259720403,Jussi I.,no,active,7/26/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+196704104,Kumarappan,no,active,12/10/2015,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+175236182,Laura,no,active,10/3/2014,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+263602387,Sergio P.,no,active,9/18/2018,Perry,IA,USA,41.84,-94.1,no,FALSE
+261565041,Cody C.,no,active,8/21/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+185811426,Danielle S.,no,active,4/3/2015,Omaha,NE,USA,41.27,-96,yes,FALSE
+263643565,Niket P.,no,active,9/19/2018,Schaumburg,IL,USA,42.04,-88.08,yes,FALSE
+263722561,Travis R,no,active,9/20/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+191677591,Santhosh,no,active,8/22/2015,Des Moines,IA,USA,41.59,-93.76,yes,FALSE
+264023242,chaitanya,no,active,9/24/2018,Memphis,TN,USA,35.07,-89.96,yes,FALSE
+190764846,Joseph K.,no,active,8/2/2015,Chesterfield,MO,USA,38.63,-90.62,yes,FALSE
+264146115,Sandeep Y.,no,active,9/26/2018,Chicago,IL,USA,41.9,-87.64,yes,FALSE
+264213582,Matt G.,no,active,9/27/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+264279081,Venkat,no,active,9/28/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+219675364,Brian K.,no,active,1/10/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+251181009,Haifeng Z.,no,active,3/28/2018,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+264540879,Nichoel G.,no,active,10/1/2018,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+39257252,Amber J.,no,active,2/21/2012,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+60327592,Kiana,no,active,8/29/2012,El Paso,TX,USA,31.86,-106.44,yes,FALSE
+264593827,Krisha L.,no,active,10/2/2018,Grimes,IA,USA,41.69,-93.78,yes,FALSE
+264622241,Tim F.,no,active,10/2/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+224267177,pj.wiese,no,active,3/22/2017,Chicago,IL,USA,41.89,-87.63,no,FALSE
+264785609,Zach M.,no,active,10/4/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+254128481,Amanda M.,no,active,5/9/2018,Kansas City,KS,USA,39.06,-94.72,yes,FALSE
+264842989,Angela H.,no,active,10/5/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+259795345,Curt C.,no,active,7/27/2018,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+265091714,Patrick W.,no,active,10/8/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+225553837,RecruitR,no,active,4/12/2017,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+265160777,Anil K.,no,active,10/9/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+265208060,Kamal Hadi S.,no,active,10/9/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+265186227,Michael D.,no,active,10/9/2018,San Francisco,CA,USA,37.79,-122.4,no,FALSE
+265160877,Sarah C.,no,active,10/9/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+149742912,Heather,no,active,6/3/2014,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+265394007,Katie M.,no,active,10/12/2018,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+264162819,Catie B.,no,active,9/26/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+265629345,Nick,no,active,10/15/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+265692953,Lisa B.,no,active,10/16/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+9201977,Tyler,no,active,3/25/2009,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+265770180,Karen M.,yes,active,10/17/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+171714442,Tony H.,yes,active,9/17/2014,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+265873130,David De H.,no,active,10/18/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+265863885,Linda,no,active,10/18/2018,Ames,IA,USA,42.03,-93.64,no,FALSE
+231506937,Phillip S.,no,active,7/10/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+265942103,owen r.,no,active,10/19/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+266166087,Bryanna T.,no,active,10/22/2018,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+266171359,Eric C.,no,active,10/22/2018,Des Moines,IA,USA,41.63,-93.71,yes,FALSE
+266239211,Adam B.,no,active,10/23/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+252526797,Jessica,yes,active,4/16/2018,Livingston,MT,USA,45.65,-110.57,yes,FALSE
+266233359,Kurt,no,active,10/23/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+266297151,David R.,no,active,10/24/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+266307087,Will R.,no,active,10/24/2018,Norwalk,IA,USA,41.46,-93.69,yes,FALSE
+266351776,Sona A,no,active,10/25/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+266430663,Natalie,no,active,10/26/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+266429460,Nick S.,no,active,10/26/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+266424461,Rahul,no,active,10/26/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+266576325,Deborah I.,no,active,10/28/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+91135942,Leong,no,active,4/27/2013,Iowa City,IA,USA,41.65,-91.56,yes,FALSE
+103069652,Ed U.,no,active,7/20/2013,London,17,United Kingdom,51.47,-0.18,no,FALSE
+230908763,David H.,no,active,7/1/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+266848814,Andrew B.,no,active,11/1/2018,Grimes,IA,USA,41.69,-93.78,no,FALSE
+182996612,Hemant V.,no,active,12/15/2014,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+251755580,Antonio G.,no,active,4/5/2018,Adel,IA,USA,41.61,-94.02,no,FALSE
+207885802,Ahraz,no,active,6/26/2016,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+3293504,Bob S.,no,active,10/9/2006,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+200417211,Conor O.,no,active,2/25/2016,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+227586670,Hari,no,active,5/14/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+267131288,Joann M.,no,active,11/5/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+3306714,Doug M.,no,active,10/13/2006,Clive,IA,USA,41.6,-93.75,yes,FALSE
+234740431,Janelle Donahue Y.,no,active,8/23/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+213762102,Jenny Wei L.,no,active,9/26/2016,Austin,TX,USA,30.42,-97.71,yes,FALSE
+268134033,Zac S.,no,active,11/19/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+268218865,Michael G.,no,active,11/20/2018,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+268216084,Scott C.,no,active,11/20/2018,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+239705007,Erin,no,active,10/25/2017,Moline,IL,USA,41.49,-90.5,no,FALSE
+4108394,Josh L.,yes,active,4/26/2007,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+268318592,John P.,no,active,11/22/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+79709042,Melissa,no,active,2/7/2013,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+261714519,Chima S.,no,active,8/23/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+265620820,Kara H.,no,active,10/15/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+268577434,Mark M.,no,active,11/26/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+268674768,Roni S.,no,active,11/27/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+268667620,Stacy S.,no,active,11/27/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+264913075,Steph R.,no,active,10/6/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+252164190,Jeffrey S.,no,active,4/11/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+259026173,Jane Campbell B.,no,active,7/16/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+6814395,Troy B.,yes,active,3/24/2008,Norman,OK,USA,35.23,-97.5,yes,FALSE
+269151290,Cody M.,no,active,12/4/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+269174733,Trevor H.,no,active,12/4/2018,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+211106951,Danielle B.,no,active,8/16/2016,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+156233462,Neil P.,no,active,7/13/2014,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+269399681,Michael M.,no,active,12/7/2018,Des Moines,IA,USA,41.59,-93.6,yes,FALSE
+185111289,Rahul S.,no,active,3/9/2015,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+10328334,Rob,yes,active,9/2/2009,Kenner,LA,USA,29.99,-90.25,no,FALSE
+269685926,Jeff T.,no,active,12/12/2018,Clive,IA,USA,41.6,-93.75,yes,FALSE
+251053530,Subbu B.,no,active,3/26/2018,Ashburn,VA,USA,39.04,-77.48,yes,FALSE
+269752680,Pavan G.,no,active,12/13/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+269819018,Cody,no,active,12/14/2018,Ames,IA,USA,42.02,-93.66,yes,FALSE
+269821624,Sowmya Venugopal (.,no,active,12/14/2018,Ames,IA,USA,42.03,-93.64,yes,FALSE
+270048472,Saydie E.,no,active,12/17/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+270132363,Mai,no,active,12/18/2018,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+270523451,Darren J.,no,active,12/25/2018,Des Moines,IA,USA,41.54,-93.62,no,FALSE
+270717538,Colin T.,no,active,12/28/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+240603457,Randle B.,no,active,11/6/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+270798990,Suzy B.,no,active,12/29/2018,Booneville,IA,USA,41.54,-93.89,yes,FALSE
+189648918,Brian M.,no,active,7/8/2015,Des Moines,IA,USA,41.6,-93.54,yes,FALSE
+157517112,Adam B.,no,active,7/21/2014,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+56327392,Dave S.,yes,active,7/27/2012,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+216674351,Alvin J.,no,active,11/14/2016,Cheyenne,WY,USA,41.17,-104.72,yes,FALSE
+197859384,JMW,no,active,1/9/2016,Chicago,IL,USA,41.88,-87.62,yes,FALSE
+240809342,Jessica D.,no,active,11/8/2017,Myrtle Beach,SC,USA,33.63,-78.98,yes,FALSE
+271087023,S.H.,no,active,1/2/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+156777522,David G,no,active,7/16/2014,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+271568648,Jeff M.,no,active,1/8/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+271569693,Jeff M.,no,active,1/8/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+230901847,Shirui W.,no,active,7/1/2017,Ames,IA,USA,42.02,-93.66,yes,FALSE
+271660173,Ethan D.,no,active,1/9/2019,Des Moines,IA,USA,41.68,-93.61,yes,FALSE
+271635120,Toni R.,no,active,1/9/2019,Altoona,IA,USA,41.65,-93.47,yes,FALSE
+209747109,Marcus P.,no,active,7/25/2016,Cumming,IA,USA,41.49,-93.75,yes,FALSE
+243601035,Nick A.,no,active,12/10/2017,Des Moines,IA,USA,41.63,-93.67,no,FALSE
+271694403,Yang H.,no,active,1/10/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+264226703,David F.,no,active,9/27/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+271989470,Jonathan R.,no,active,1/13/2019,New York,NY,USA,40.72,-74,yes,FALSE
+272152925,Alec R.,no,active,1/15/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+272172675,Brad H.,no,active,1/15/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+221683391,Cody B.,no,active,2/8/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+13687474,Ross H.,no,active,1/4/2011,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+272287942,Morgan B.,no,active,1/17/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+272387026,Jon C.,no,active,1/18/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+272485980,Pat H.,no,active,1/19/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+272642644,Greg J.,no,active,1/21/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+260133656,Megan,no,active,8/1/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+262667548,Patrick,no,active,9/5/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+185433666,Vanessa,no,active,3/21/2015,Des Moines,IA,USA,41.59,-93.68,no,FALSE
+271907957,Vik S.,no,active,1/12/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+272758631,Andrew B.,no,active,1/22/2019,Des Moines,IA,USA,41.68,-93.61,yes,FALSE
+272722411,Jake S,no,active,1/22/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+233493601,Josh W.,no,active,8/7/2017,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+272804837,Bill N.,yes,active,1/23/2019,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+272213871,Sheriff J.,no,active,1/16/2019,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+272887922,Steven B.,no,active,1/24/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+272970903,Aaron S.,no,active,1/25/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+272135954,Meghan C.,no,active,1/15/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+224463046,Jake H.,no,active,3/25/2017,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+273325295,John S.,no,active,1/29/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+273249610,Paul H.,no,active,1/29/2019,Runnells,IA,USA,41.55,-93.4,yes,FALSE
+273328453,Ryan,no,active,1/29/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+273296170,Wade D.,no,active,1/29/2019,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+4821259,Warren A.,no,active,8/16/2007,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+217472085,AJ Y.,no,active,11/29/2016,Boston,MA,USA,42.35,-71.07,yes,FALSE
+273513970,Lukas E.,no,active,2/1/2019,Madison,WI,USA,43.07,-89.38,no,FALSE
+273497221,Nazareen Sikkandar B.,no,active,2/1/2019,Vernon Rockville,CT,USA,41.85,-72.44,yes,FALSE
+273508583,Stephen Biermann (.,no,active,2/1/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+260494049,Cainon L.,no,active,8/6/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+247818200,Lisa K.,no,active,2/8/2018,Omaha,NE,USA,41.21,-96.12,no,FALSE
+273857830,Robert,no,active,2/6/2019,Coon Rapids,IA,USA,41.88,-94.68,yes,FALSE
+273869067,Roni H.,no,active,2/6/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+267373571,Asante G.,no,active,11/8/2018,Clive,IA,USA,41.6,-93.75,yes,FALSE
+274310321,Boris M.,no,active,2/12/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+274353495,Stacey W.,no,active,2/13/2019,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+274538116,Sreedhar R.,no,active,2/15/2019,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+12786680,erik,no,active,8/19/2010,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+275249016,Husam Y,no,active,2/24/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+275306195,shreeya s.,no,active,2/25/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+273510245,Leslie M.,no,active,2/1/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+275450738,Marcia L.,no,active,2/27/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+275549237,Christopher G.,no,active,2/28/2019,Des Moines,IA,USA,41.58,-93.62,yes,FALSE
+275581395,Dan K.,no,active,3/1/2019,Ankeny,IA,USA,41.72,-93.61,no,FALSE
+275655093,Deborah,no,active,3/2/2019,Des Moines,IA,USA,41.63,-93.71,yes,FALSE
+275655951,Kaba,no,active,3/2/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+205213404,Lee,no,active,5/15/2016,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+111104522,Tate,no,active,9/13/2013,Des Moines,IA,USA,41.59,-93.69,yes,FALSE
+275849028,Jennifer R.,no,active,3/5/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+275863171,Lanmiao,no,active,3/5/2019,Ames,IA,USA,42.03,-93.64,yes,FALSE
+272140919,Steve L.,no,active,1/15/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+276171795,venkat m,no,active,3/8/2019,Johnston,IA,USA,41.68,-93.71,no,FALSE
+276347086,Adam R.,no,active,3/11/2019,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+57663542,David M.,no,active,8/7/2012,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+276357948,Elliott F.,no,active,3/11/2019,Des Moines,IA,USA,41.59,-93.63,yes,FALSE
+276359297,Lakshmanan K.,no,active,3/11/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+276417492,Cy S.,no,active,3/12/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+260532195,Sheila B.,no,active,8/6/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+276511939,Katelyn E.,no,active,3/13/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+276505268,Phill E.,no,active,3/13/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+246618951,Drew L.,yes,active,1/22/2018,Des Moines,IA,USA,41.54,-93.58,yes,FALSE
+276559794,Jay S.,no,active,3/14/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+276662849,anisul h.,no,active,3/15/2019,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+276874152,Erin,no,active,3/18/2019,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+276938871,Matt H.,no,active,3/19/2019,Ames,IA,USA,42.03,-93.64,yes,FALSE
+219864480,Megan A.,no,active,1/13/2017,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+277019391,Kerry S.,no,active,3/20/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+8629985,Bryan,no,active,1/8/2009,Clive,IA,USA,41.6,-93.75,yes,FALSE
+200666132,Jaime M.,no,active,2/29/2016,Dallas,TX,USA,32.78,-96.88,yes,FALSE
+277353274,Travis B.,no,active,3/25/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+277650680,Abby B.,no,active,3/29/2019,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+277669349,Scott S.,no,active,3/29/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+277952092,Kristina M.,no,active,3/31/2019,Ames,IA,USA,42.02,-93.66,yes,FALSE
+278126054,Blake R.,no,active,4/1/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+262436124,Sagar S.,no,active,9/3/2018,Des Moines,IA,USA,41.59,-93.76,yes,FALSE
+278105398,Steven L.,no,active,4/1/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+262293883,Adrija,no,active,8/31/2018,Cedar Falls,IA,USA,42.51,-92.46,yes,FALSE
+14636770,Joe R.,no,active,5/3/2011,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+62017882,Ryan S.,no,active,9/11/2012,Overland Park,KS,USA,38.99,-94.68,yes,FALSE
+204886022,Ryan S.,no,active,5/10/2016,Des Moines,IA,USA,41.64,-93.62,yes,FALSE
+273804916,Harrison P.,no,active,2/5/2019,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+278260437,Sheri H.,no,active,4/3/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+228198318,Joshua D.,no,active,5/23/2017,Des Moines,IA,USA,41.54,-93.68,no,FALSE
+278407643,Carol Ann A.,no,active,4/5/2019,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+278551280,Holly K.,no,active,4/7/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+256664072,Chris H.,no,active,6/13/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+10719681,D. Scott D.,yes,active,10/25/2009,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+278625427,Jackie R.,no,active,4/8/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+8301674,Kyle,no,active,11/3/2008,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+278631546,Nagaraj K.,no,active,4/8/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+278616750,Quentin C.,no,active,4/8/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+278608911,Sarah W.,no,active,4/8/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+278656901,Alka M.,no,active,4/9/2019,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+191547585,Ben G.,no,active,8/19/2015,Ames,IA,USA,42.02,-93.64,yes,FALSE
+278697700,deepesh m.,no,active,4/9/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+135669632,Emily S.,no,active,3/4/2014,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+278763806,Marielle M.,no,active,4/10/2019,Ames,IA,USA,42.02,-93.66,yes,FALSE
+278773309,Shelly W.,no,active,4/10/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+278822943,John M.,no,active,4/11/2019,Pella,IA,USA,41.41,-92.91,no,FALSE
+276387382,Mahanthi B.,no,active,3/11/2019,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+278958030,Tammy S.,no,active,4/13/2019,Altoona,IA,USA,41.65,-93.47,yes,FALSE
+279088169,Nick R.,no,active,4/15/2019,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+279327200,john,no,active,4/18/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+279477220,Jay M.,no,active,4/20/2019,Des Moines,IA,USA,41.57,-93.71,yes,FALSE
+279616848,Lisa B.,no,active,4/22/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+279680747,Bo B.,no,active,4/23/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+279724863,Phillip L.,no,active,4/24/2019,Lehi,UT,USA,40.39,-111.85,yes,FALSE
+260789951,Kevin J.,no,active,8/10/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+279777040,Trey N.,no,active,4/25/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+279888930,Daniel B.,no,active,4/26/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+279856930,Emmanuel,no,active,4/26/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+279193820,Joe T.,no,active,4/16/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+262699886,Ryan M.,no,active,9/6/2018,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+279935073,Brianna A.,no,active,4/27/2019,Panama City,FL,USA,30.2,-85.66,yes,FALSE
+280055526,Bo A.,no,active,4/29/2019,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+280028213,sam,no,active,4/29/2019,Ames,IA,USA,42.02,-93.66,yes,FALSE
+280113947,Jordan K.,no,active,4/30/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+280249030,Peter C.,no,active,5/2/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+273803107,Manni B.,yes,active,2/5/2019,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+280428756,Tyler M.,no,active,5/4/2019,Grimes,IA,USA,41.69,-93.78,yes,FALSE
+280505314,Koti K.,no,active,5/5/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+256445789,Michael,no,active,6/10/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+280445347,Natalie J.,no,active,5/5/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+251175011,Aubri W.,no,active,3/28/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+280532524,Chris O.,no,active,5/6/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+246281626,Matthew F.,no,active,1/18/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+280552195,Mike S.,no,active,5/6/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+280635305,Alok K.,no,active,5/7/2019,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+14402015,Mason,no,active,4/3/2011,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+280676965,Alexander R.,no,active,5/8/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+280819033,Lexi S.,no,active,5/10/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+234755942,Michael W,no,active,8/23/2017,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+256187049,Jeong Hoon C.,no,active,6/7/2018,Seoul,NA,Korea (South),37.56,126.99,yes,FALSE
+281522430,Darren G.,no,active,5/21/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+281576909,H A,no,active,5/21/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281671296,Ali A.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+281678500,Brady A.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281687844,Eric H.,no,active,5/23/2019,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+281671166,Jonathon D.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281671933,Jordan B.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281671479,Justin C.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281689884,Karen D.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+102247232,Kristin,no,active,7/14/2013,Springfield,MO,USA,37.17,-93.31,no,FALSE
+281674926,Kyle J.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281671388,Mary B.,no,active,5/23/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+281674779,Randy V.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281671427,Sarah N.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281673385,tanvi,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+281680885,Tej D.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+27013292,Wade B.,no,active,10/4/2011,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+265258988,Colleen W.,no,active,10/10/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+281831940,Lacey,no,active,5/25/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+20715401,John A.,no,active,7/21/2011,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+205905029,Tony B.,no,active,5/26/2016,Ames,IA,USA,42.03,-93.64,no,FALSE
+282103910,Jason H.,no,active,5/29/2019,Waukee,IA,USA,41.6,-93.87,no,FALSE
+282146687,Jessica S.,no,active,5/30/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+281266483,Kaitlin W.,no,active,5/17/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+282135525,Zach D.,no,active,5/30/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+26696442,Alex R.,yes,active,9/30/2011,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+282305077,Matt A.,no,active,6/1/2019,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+282350292,Tony S.,no,active,6/2/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+278623481,Anthony K.,no,active,4/8/2019,Clive,IA,USA,41.6,-93.75,no,FALSE
+281667796,Pamela W.,no,active,5/23/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+270543106,Jennifer T.,no,active,12/25/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+282579940,Chen-Yeou Y.,no,active,6/5/2019,Ames,IA,USA,42.03,-93.64,no,FALSE
+282537070,Heather,no,active,6/5/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+231144680,Rebecca H.,yes,active,7/5/2017,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+282678591,Adam,no,active,6/7/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+282711084,Chandra G.,no,active,6/7/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+282755581,A,no,active,6/8/2019,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+282762399,Evan H.,no,active,6/8/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+227546692,Ted S.,no,active,5/13/2017,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+282834450,Daniel W.,no,active,6/9/2019,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+282811465,Saapree Yaw A.,no,active,6/9/2019,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+282870130,Sarah B.,no,active,6/10/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+282941981,Jackie M.,no,active,6/11/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+282941032,Mary B.,no,active,6/11/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+282957132,Mike and Kathleen R.,no,active,6/11/2019,Norwalk,IA,USA,41.46,-93.69,yes,FALSE
+283085384,Dalton F.,no,active,6/13/2019,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+283160698,Adam B.,no,active,6/14/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+283174455,Kristin P.,no,active,6/14/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+283241974,Justin W.,no,active,6/15/2019,Des Moines,IA,USA,41.59,-93.64,yes,FALSE
+2458397,Andy P.,no,active,12/6/2005,West Des Moines,IA,USA,41.58,-93.8,yes,FALSE
+4963142,Charles B.,no,active,9/3/2007,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+212861911,Brian V.,no,active,9/13/2016,Grimes,IA,USA,41.69,-93.78,yes,FALSE
+276487824,Drew N.,no,active,3/13/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+283379566,Kelsey P.,no,active,6/17/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+283442840,Megan K.,no,active,6/18/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+244027324,Sigurd the G.,yes,active,12/16/2017,Bevington,IA,USA,41.36,-93.79,yes,FALSE
+283861578,Anugrah S.,no,active,6/24/2019,Ames,IA,USA,42.03,-93.64,yes,FALSE
+283861620,Karen R.,no,active,6/24/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+283944824,Luke,no,active,6/25/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+283578296,Curt W.,no,active,6/20/2019,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+284060851,Shannon N.,no,active,6/27/2019,Pella,IA,USA,41.41,-92.91,no,FALSE
+284079233,Tisha W.,no,active,6/27/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+284133027,Sloan,no,active,6/28/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+284222671,Luke,no,active,6/29/2019,Des Moines,IA,USA,41.58,-93.62,yes,FALSE
+284323875,Daniel B.,no,active,7/1/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+234728315,John F.,no,active,8/23/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+284382886,Joe C.,no,active,7/2/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+284405096,Jun Ru Y.,no,active,7/2/2019,Ames,IA,USA,42.02,-93.66,yes,FALSE
+284279099,Marcus G.,no,active,6/30/2019,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+284412557,Sophonie D.,no,active,7/2/2019,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+284448450,Anuprit M.,no,active,7/3/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+284637703,Cody,no,active,7/6/2019,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+284779838,Ed U.,no,active,7/8/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+284797649,Addie B.,no,active,7/8/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+273790149,Rachel G.,no,active,2/5/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+284330009,John S.,no,active,7/1/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+282302515,K,no,active,6/1/2019,Des Moines,IA,USA,41.53,-93.57,no,FALSE
+285298791,Sara G,no,active,7/15/2019,Parker,CO,USA,39.47,-104.77,yes,FALSE
+285361622,Daniel A.,no,active,7/16/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+11435824,Christiana,no,active,2/12/2010,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+285461742,Neil F.,no,active,7/18/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+267027306,satya s.,no,active,11/3/2018,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+285474003,Zach,no,active,7/18/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+272159123,Kole J.,no,active,1/15/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+286090333,Carolina,no,active,7/27/2019,Pella,IA,USA,41.41,-92.91,no,FALSE
+286081245,Matthew O.,no,active,7/27/2019,Urbandale,IA,USA,41.63,-93.8,yes,FALSE
+286381075,milap p.,no,active,7/30/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+284597475,Scott G.,yes,active,7/5/2019,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+10674930,Bill,no,active,10/19/2009,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+233594806,Tala,no,active,8/8/2017,Johnston,IA,USA,41.68,-93.7,yes,FALSE
+154977302,David W.,no,active,7/6/2014,American Fork,UT,USA,40.42,-111.57,yes,FALSE
+182009912,Safal Rana M.,no,active,11/6/2014,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+286804564,Farhat Med A.,no,active,8/4/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+286897130,Jordan H.,no,active,8/5/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+286876993,LakshminTirumala,no,active,8/5/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+286990688,Jeremy L,no,active,8/6/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+22686151,Josh T.,no,active,8/13/2011,Omaha,NE,USA,41.29,-96.13,yes,FALSE
+183084621,Julie,no,active,12/22/2014,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+264818346,Dawn C.,no,active,10/4/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+235114042,Jonas P.,no,active,8/28/2017,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+287291350,Liz R.,no,active,8/10/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+72855952,Morayo,no,active,12/15/2012,Des Moines,IA,USA,41.59,-93.63,yes,FALSE
+287363812,Jessica,no,active,8/11/2019,Redmond,WA,USA,47.68,-122.12,no,FALSE
+278507736,Jeremy E.,no,active,4/6/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+287378713,Madelyn M.,no,active,8/12/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+280548484,Ankit M.,no,active,5/6/2019,Johnston,IA,USA,41.68,-93.71,no,FALSE
+283453844,Nick R.,no,active,6/18/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+251812334,Andrew M.,no,active,4/6/2018,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+282344981,Joel,no,active,6/2/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+287676728,Luis L.,no,active,8/15/2019,Des Moines,IA,USA,41.64,-93.62,yes,FALSE
+287660943,Travis S.,no,active,8/15/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+224705352,William K.,no,active,3/29/2017,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+101280162,Dan,no,active,7/8/2013,Clive,IA,USA,41.6,-93.75,yes,FALSE
+287856056,Jimmy J.,no,active,8/18/2019,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+287291323,Molly P.,no,active,8/10/2019,Des Moines,IA,USA,41.63,-93.67,no,FALSE
+287930591,Amra B.,no,active,8/19/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+288143775,Alex R.,no,active,8/21/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+288120414,Leong An G.,yes,active,8/21/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+288213627,Aaron M.,no,active,8/22/2019,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+288218069,Alex M.,no,active,8/22/2019,Ames,IA,USA,42.02,-93.65,yes,FALSE
+287497089,Esteban,yes,active,8/13/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+288113349,Luke B.,no,active,8/21/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+288439351,Arthur C.,no,active,8/25/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+288536661,Jason H.,no,active,8/26/2019,Clive,IA,USA,41.6,-93.75,yes,FALSE
+288509675,Mike W.,no,active,8/26/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+288644741,Amber R.,no,active,8/27/2019,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+288599007,Andrew R.,no,active,8/27/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+88062052,Beth,no,active,4/6/2013,Iowa City,IA,USA,41.66,-91.53,no,FALSE
+288604195,Bryan S.,no,active,8/27/2019,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+288594413,Kylie,no,active,8/27/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+288852889,Garret G.,no,active,8/30/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+288909091,Tom,no,active,8/30/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+243319368,Shivani S.,no,active,12/6/2017,Ames,IA,USA,42.03,-93.64,yes,FALSE
+281085534,Lindsey L.,no,active,5/14/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+289566007,William P.,no,active,9/5/2019,Clive,IA,USA,41.6,-93.75,no,FALSE
+289652637,Tami O.,no,active,9/5/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+259590547,Nick M.,no,active,7/24/2018,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+290408470,Kathryn Van H.,no,active,9/10/2019,Colfax,IA,USA,41.68,-93.27,yes,FALSE
+290310260,Nichole M.,no,active,9/10/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+192287890,Abigail,no,active,9/5/2015,Indianola,IA,USA,41.32,-93.57,yes,FALSE
+290550508,Sai R.,no,active,9/11/2019,Ames,IA,USA,42.02,-93.66,yes,FALSE
+290679470,Nermin K.,no,active,9/12/2019,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+290993813,Koku Mawuko D.,no,active,9/14/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+291034313,Erick M V.,yes,active,9/15/2019,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+291067672,Skyline B.,no,active,9/15/2019,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+291189292,Jenna H.,no,active,9/16/2019,Johnston,IA,USA,41.68,-93.71,no,FALSE
+260008978,Chelsie L.,no,active,7/30/2018,Ogden,IA,USA,42.04,-94.03,yes,FALSE
+262997822,Heather,no,active,9/10/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+291272715,Taylor O.,no,active,9/17/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+291402453,Alexander H.,no,active,9/18/2019,Ames,IA,USA,42.03,-93.64,no,FALSE
+291545764,AJ W.,no,active,9/19/2019,Waukee,IA,USA,41.6,-93.87,no,FALSE
+291637591,Christine P.,no,active,9/20/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+254491766,Derrick A.,no,active,5/14/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+300254074,Thomas Jose J.,no,active,1/12/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+166916902,Tracy,no,active,9/5/2014,Johnston,IA,USA,41.68,-93.71,no,FALSE
+300363435,Peter,no,active,1/13/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+297232432,Jeremy E.,no,active,11/22/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+300457260,Shawn S.,no,active,1/14/2020,Pella,IA,USA,41.41,-92.91,no,FALSE
+251265034,Addison S.,no,active,3/29/2018,Grand Rapids,MI,USA,42.96,-85.66,no,FALSE
+300506768,Andy D.,no,active,1/15/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+300504999,Anni I.,no,active,1/15/2020,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+300521164,Chloe C.,no,active,1/15/2020,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+41112682,Chris D.,no,active,3/10/2012,Pella,IA,USA,41.41,-92.91,no,FALSE
+12654647,Juvy,no,active,8/1/2010,Des Moines,IA,USA,41.54,-93.58,yes,FALSE
+300527766,Kaitlin S.,no,active,1/15/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+300540792,purna,no,active,1/15/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+300568046,Brent A.,no,active,1/16/2020,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+300584260,Nikki C.,no,active,1/16/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+300759296,Dan E.,no,active,1/18/2020,Ankeny,IA,USA,41.72,-93.61,no,FALSE
+300923997,Clyde F.,yes,active,1/21/2020,Papillion,NE,USA,41.13,-96,yes,FALSE
+300950736,Cory K.,no,active,1/21/2020,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+185456920,Joshi,no,active,3/22/2015,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+220018252,Santos,no,active,1/15/2017,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+301224661,Jasmeet,no,active,1/25/2020,Johnston,IA,USA,41.67,-93.7,yes,FALSE
+301387701,Nick,no,active,1/27/2020,Altoona,IA,USA,41.65,-93.47,yes,FALSE
+201918078,Priya,no,active,3/21/2016,Johnston,IA,USA,41.68,-93.7,yes,FALSE
+301435323,Scott R.,no,active,1/28/2020,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+301520726,Katie P.,no,active,1/29/2020,Urbandale,IA,USA,41.63,-93.8,yes,FALSE
+147102732,Craig E.,no,active,5/17/2014,Des Moines,IA,USA,41.54,-93.68,no,FALSE
+301564250,Dipali S.,no,active,1/30/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+204730073,Wendy S,no,active,5/7/2016,Truro,IA,USA,41.21,-93.85,yes,FALSE
+301585683,Boris M,no,active,1/30/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+10924890,Keith,yes,active,11/25/2009,Oklahoma City,OK,USA,35.49,-97.56,yes,FALSE
+301783497,CJ F.,no,active,2/2/2020,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+301793991,Greg,no,active,2/2/2020,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+269082489,Nandy S.,no,active,12/3/2018,Stow,OH,USA,41.19,-81.49,yes,FALSE
+301921490,Alyssa M.,no,active,2/4/2020,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+302019863,MasonHarestad,no,active,2/6/2020,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+269093396,Ian E.,no,active,12/3/2018,Houston,TX,USA,29.72,-95.42,yes,FALSE
+301381127,Mike R.,no,active,1/27/2020,Des Moines,IA,USA,41.59,-93.63,no,FALSE
+302118646,Yolanda,no,active,2/7/2020,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+302292659,Heather M.,no,active,2/10/2020,Granger,IA,USA,41.76,-93.77,yes,FALSE
+70306462,vikas j.,no,active,11/20/2012,Ames,IA,USA,42.03,-93.64,yes,FALSE
+302459838,Justin G.,no,active,2/12/2020,Clive,IA,USA,41.6,-93.75,yes,FALSE
+163137882,Alec O.,yes,active,8/23/2014,Ames,IA,USA,42.03,-93.64,yes,FALSE
+301643151,Catie B.,no,active,1/31/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+302461189,Colin R.,no,active,2/12/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+302506879,Matt B.,no,active,2/13/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+302590830,Junior I.,no,active,2/14/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+206204178,Pearl F.,no,active,5/31/2016,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+302996970,C K,no,active,2/20/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+292473865,Jesse S.,no,active,9/29/2019,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+14294902,Wanda,no,active,3/21/2011,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+303262337,Matthew S.,no,active,2/24/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+52340322,Adam,no,active,6/23/2012,Des Moines,IA,USA,41.59,-93.68,no,FALSE
+303357967,Sylwia G.,no,active,2/25/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+303371808,Noel,no,active,2/26/2020,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+281001331,Amici H.,no,active,5/13/2019,Ames,IA,USA,42.03,-93.64,yes,FALSE
+303465858,Greg B.,no,active,2/27/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+14517394,Joe R.,yes,active,4/17/2011,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+303669084,Valentina H.,no,active,3/1/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+303760229,Trish N.,no,active,3/3/2020,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+303793540,Clair W.,no,active,3/3/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+64278662,Emily B.,no,active,9/29/2012,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+303926396,Shelbi J.,no,active,3/5/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+303344390,John M.,no,active,2/25/2020,Cranbury,NJ,USA,40.31,-74.53,no,FALSE
+303977923,Amanda,no,active,3/6/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+304017241,Jonathan,no,active,3/6/2020,Dallas Center,IA,USA,41.69,-93.97,yes,FALSE
+255565471,James P.,no,active,5/29/2018,Ames,IA,USA,42.02,-93.66,yes,FALSE
+302589912,Ike O,no,active,2/14/2020,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+304180855,Wesley H.,no,active,3/9/2020,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+168055342,Ana Ramos G.,no,active,9/7/2014,Des Moines,IA,USA,41.6,-93.68,no,FALSE
+304523306,Constance W.,no,active,3/15/2020,Des Moines,IA,USA,41.58,-93.62,yes,FALSE
+304954049,Chris J.,no,active,3/18/2020,West Des Moines,IA,USA,41.57,-93.78,yes,FALSE
+305147603,sedi,no,active,3/22/2020,Ames,IA,USA,42.03,-93.64,yes,FALSE
+305292044,Joe Y.,no,active,3/26/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+305715808,???????? ??.,no,active,4/7/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+305781108,hongxu w.,no,active,4/9/2020,Ames,IA,USA,42.02,-93.66,yes,FALSE
+306027454,Steph T.,no,active,4/16/2020,Des Moines,IA,USA,41.54,-93.62,no,FALSE
+306058326,Clint S.,no,active,4/17/2020,Indianola,IA,USA,41.32,-93.57,no,FALSE
+291193545,Nandkishor P.,no,active,9/16/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+62913492,Dawniece T.,no,active,9/18/2012,Richmond,VA,USA,37.56,-77.48,yes,FALSE
+306481025,Kevin K,no,active,4/24/2020,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+265658217,Paul P.,no,active,10/15/2018,Boise,ID,USA,43.62,-116.32,yes,FALSE
+231236568,Sean Christopher D.,no,active,7/6/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+310194413,Angela R.,no,active,5/11/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+227702815,Kalista T.,no,active,5/16/2017,Colorado Springs,CO,USA,38.85,-104.76,yes,FALSE
+310337989,Mandi H.,no,active,5/15/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+310348020,Corey E.,no,active,5/15/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+310392964,Robin N.,no,active,5/16/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+293291039,supreempokhrel,no,active,10/5/2019,Winnipeg,MB,Canada,49.88,-97.26,yes,FALSE
+108790292,Mitch D.,no,active,8/28/2013,Cedar Rapids,IA,USA,41.97,-91.66,yes,FALSE
+310452948,Mark D.,no,active,5/18/2020,Pella,IA,USA,41.41,-92.91,yes,FALSE
+5099126,Joel but U can call me J.,yes,active,9/18/2007,North York,ON,Canada,43.73,-79.44,yes,FALSE
+310454525,Chelsey C.,no,active,5/18/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+310454388,Mark H.,no,active,5/18/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+310454329,Stephanie H.,no,active,5/18/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+310456576,Ben W.,no,active,5/18/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+310461735,Jacob,no,active,5/18/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+310474401,Luke D.,no,active,5/18/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+310612484,Kaitlyn,no,active,5/22/2020,Des Moines,IA,USA,41.6,-93.54,yes,FALSE
+310702162,Jess W.,no,active,5/24/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+302120873,Anna N.,no,active,2/7/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+186813281,Anand M.,no,active,5/1/2015,Bentonville,AR,USA,36.33,-94.22,yes,FALSE
+311020411,Amy,no,active,6/1/2020,New York,NY,USA,40.72,-74,yes,FALSE
+182971320,Charlotte,no,active,12/13/2014,Saint Louis,MO,USA,38.64,-90.25,no,FALSE
+311186614,Adam M.,no,active,6/5/2020,Des Moines,IA,USA,41.64,-93.62,yes,FALSE
+311233365,Sindhu R.,no,active,6/7/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+311304754,William P.,no,active,6/8/2020,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+311129030,Ethan M.,no,active,6/4/2020,Flemington,NJ,USA,40.52,-74.85,no,FALSE
+221073433,Teja M.,no,active,1/31/2017,Buffalo,NY,USA,43,-78.79,yes,FALSE
+204433163,Robert O.,no,active,5/2/2016,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+312013065,Chris B.,no,active,6/24/2020,Des Moines,IA,USA,41.54,-93.62,yes,FALSE
+312025755,?????????,no,active,6/25/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+312254185,Adrienne W.,no,active,6/30/2020,Chicago,IL,USA,41.92,-87.65,yes,FALSE
+312340215,James L.,no,active,7/2/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+312779541,Colton M.,no,active,7/13/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+312782207,Jeff P,no,active,7/13/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+312771633,Jennifer,no,active,7/13/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+312770838,Will,no,active,7/13/2020,Ankeny,IA,USA,41.72,-93.62,no,FALSE
+257900797,Andrew P.,no,active,7/1/2018,Okoboji,IA,USA,43.38,-95.16,yes,FALSE
+312819577,David P.,no,active,7/14/2020,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+312817905,Ella G.,no,active,7/14/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+179416832,Francine,yes,active,10/24/2014,Des Moines,IA,USA,41.59,-93.65,yes,FALSE
+300215789,Jake D.,no,active,1/11/2020,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+312829637,Jennifer Z.,no,active,7/14/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+162770452,John C.,no,active,8/21/2014,Franklin,TN,USA,35.92,-86.89,yes,FALSE
+312816774,Kristine A.,no,active,7/14/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+74367852,Renee K.,no,active,1/1/2013,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+312819554,Zach,no,active,7/14/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+312820551,Brendan M.,no,active,7/14/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+312819978,Melanie C.,no,active,7/14/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+312901425,Caroline J.,no,active,7/16/2020,Des Moines,IA,USA,41.54,-93.58,no,FALSE
+36302742,Hedi A.,no,active,1/24/2012,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+233780043,Siddartha B.,no,active,8/10/2017,Irving,TX,USA,32.89,-96.94,yes,FALSE
+313042185,Amber R.,no,active,7/20/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+313056013,Ann Melissa C.,no,active,7/20/2020,Iowa City,IA,USA,41.66,-91.53,yes,FALSE
+313031100,Fabiola P.,no,active,7/20/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+305861326,Yong-Xin Y.,no,active,4/11/2020,Ames,IA,USA,42.03,-93.64,yes,FALSE
+313027712,Zach W.,no,active,7/19/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+284285027,Charchit S.,no,active,6/30/2019,Ames,IA,USA,42.03,-93.64,yes,FALSE
+313083873,Christopher G.,no,active,7/21/2020,Marshalltown,IA,USA,42.06,-92.94,yes,FALSE
+282885400,Cooper J.,no,active,6/10/2019,Santiago,NA,Chile,-33.46,-70.64,yes,FALSE
+313094671,Geena R,no,active,7/21/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+313083309,Heather R.,no,active,7/21/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+313096616,Kevin S.,no,active,7/21/2020,Ames,IA,USA,42.03,-93.64,yes,FALSE
+60244502,Krys P.,no,active,8/28/2012,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+274833121,Linda K.,no,active,2/19/2019,Des Moines,IA,USA,41.63,-93.67,no,FALSE
+95017222,Lupita A.,no,active,5/25/2013,Des Moines,IA,USA,41.6,-93.68,no,FALSE
+313083306,Marco R.,no,active,7/21/2020,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+313087207,Scott Vander H.,no,active,7/21/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+313083304,Carolina R.,no,active,7/21/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+9195111,Greg M,no,active,3/24/2009,Port Orchard,WA,USA,47.5,-122.62,yes,FALSE
+17072991,Jennifer K.,no,active,6/7/2011,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+268589147,Karen R.,no,active,11/26/2018,Des Moines,IA,USA,41.59,-93.68,no,FALSE
+313125627,Skyler M.,no,active,7/22/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+7227791,Diana C.,no,active,5/16/2008,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+311659288,Skylar M.,no,active,6/16/2020,Charlottesville,VA,USA,38,-78.46,no,FALSE
+274453184,Ethan J.,no,active,2/14/2019,Silvis,IL,USA,41.5,-90.42,yes,FALSE
+313135777,Joey L.,no,active,7/22/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+313418642,Ann S.,no,active,7/29/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+313432833,Jeram A.,no,active,7/29/2020,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+220719704,Travis S.,no,active,1/25/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+313735663,Juana O.,no,active,8/5/2020,Montr??al,QC,Canada,45.65,-73.5,yes,FALSE
+279237905,Jeremy S.,no,active,4/17/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+313782061,Alysa Y.,no,active,8/6/2020,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+245611907,Mike L.,no,active,1/8/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+313803509,Willie C.,no,active,8/6/2020,Russell,IA,USA,40.98,-93.2,yes,FALSE
+313804602,John H.,no,active,8/6/2020,Ames,IA,USA,42.02,-93.66,no,FALSE
+313826477,Dan C.,no,active,8/7/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+208729081,Akhil Y.,no,active,7/10/2016,Pune,NA,India,18.53,73.84,no,FALSE
+313944094,Andy J.,no,active,8/9/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+313960440,Jessica,no,active,8/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+313967650,Karen T.,no,active,8/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+313987378,Rebecca J.,no,active,8/10/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+250779346,Muzo,yes,active,3/22/2018,Charlotte,NC,USA,35.22,-80.85,yes,FALSE
+314073621,David L.,no,active,8/12/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+314154402,Chris R.,no,active,8/14/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+308464746,Carlye W.,no,active,5/4/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+314362684,John H.,no,active,8/18/2020,Colo,IA,USA,42.02,-93.32,yes,FALSE
+300214392,Becky H.,no,active,1/11/2020,Iowa City,IA,USA,41.66,-91.54,yes,FALSE
+312821363,Becky H.,no,active,7/14/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+314426160,Breanne K.,no,active,8/19/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+58654712,Amy J.,no,active,8/15/2012,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+314479022,Johanna,no,active,8/20/2020,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+314469318,Ravi K.,no,active,8/20/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+314657289,Sam B.,no,active,8/24/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+314727974,'wale O.,no,active,8/25/2020,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+287474098,Mark K.,no,active,8/13/2019,Chicago,IL,USA,41.88,-87.64,no,FALSE
+183132337,Rita,no,active,12/26/2014,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+315452745,Brian,no,active,9/7/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+292510708,Mark K.,no,active,9/29/2019,Chicago,IL,USA,41.88,-87.64,no,FALSE
+294853910,Pamela M.,no,active,10/21/2019,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+315627708,Ali S.,no,active,9/10/2020,Dubuque,IA,USA,42.56,-90.69,no,FALSE
+301646259,Abigail L.,no,active,1/31/2020,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+315631770,Erin K.,no,active,9/10/2020,Cedar Falls,IA,USA,42.53,-92.45,no,FALSE
+316048143,John A.,no,active,9/15/2020,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+281624835,Amrutha r,no,active,5/22/2019,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+313378053,Kent C.,no,active,7/28/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+317129757,Mark D.,no,active,9/26/2020,Pella,IA,USA,41.41,-92.91,yes,FALSE
+317148606,Sarah W.,no,active,9/26/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+317309921,Teig L.,no,active,9/28/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+317338269,Virginia,no,active,9/28/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+317309920,Himavarsh M.,no,active,9/28/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+317411128,Pallavi B.,no,active,9/29/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+285488304,Jon C.,no,active,7/18/2019,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+317413245,Park,no,active,9/29/2020,Waukee,IA,USA,41.6,-93.87,no,FALSE
+318076261,MIchael C.,no,active,10/7/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+318248451,Kimberly W.,no,active,10/10/2020,Waukee,IA,USA,41.6,-93.87,no,FALSE
+318414410,melindy,no,active,10/12/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+318506059,Monica B.,no,active,10/13/2020,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+318486538,Chris B.,no,active,10/13/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+137681772,Alissa M.,no,active,3/17/2014,Carmichael,CA,USA,38.63,-121.33,yes,FALSE
+318558853,Tony T.,no,active,10/14/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+193074434,Minh N.,no,active,9/22/2015,Clive,IA,USA,41.6,-93.75,yes,FALSE
+270598518,Brian N.,no,active,12/26/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+318558269,Jeff H.,no,active,10/14/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+171707452,Matt,yes,active,9/17/2014,Omaha,NE,USA,41.24,-96,yes,FALSE
+273429414,Bhaskar M.,no,active,1/31/2019,Pune,NA,India,18.53,73.84,yes,FALSE
+318603512,Todd K.,no,active,10/15/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318609751,Stephanie H.,no,active,10/15/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+318627148,Connor,no,active,10/15/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318633702,Abdisamat A.,no,active,10/15/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318648105,Shreya M.,no,active,10/16/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318648091,Radha,no,active,10/16/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318596303,Nicolas S.,no,active,10/15/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318560534,Drew C.,no,active,10/14/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318667600,Libby N.,no,active,10/16/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318617751,Emily Z.,no,active,10/15/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+262980511,Danielle H.,no,active,9/10/2018,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+318876368,JOSE DE JESUS ROCHA S.,no,active,10/19/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318885732,Lisa H.,no,active,10/19/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318924990,adis,no,active,10/20/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318803401,Liza,no,active,10/18/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+235181307,Liza H.,no,active,8/29/2017,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+318941739,Brendan S.,no,active,10/20/2020,Iowa City,IA,USA,41.66,-91.53,yes,FALSE
+318943145,Justin M.,no,active,10/20/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+318951449,Jakob O.,no,active,10/20/2020,Mount Vernon,IA,USA,41.94,-91.44,no,FALSE
+318952201,Olivia H.,no,active,10/20/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+193538832,dinesh,no,active,10/2/2015,Hyderabad,NA,India,17.4,78.48,yes,FALSE
+318536471,DJ,no,active,10/14/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+319000498,Srikaran R.,no,active,10/21/2020,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+319003989,Sam M.,no,active,10/21/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+316147181,shreeya s.,no,active,9/17/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+319007546,Stephanie H.,no,active,10/21/2020,Seattle,WA,USA,47.61,-122.33,no,FALSE
+319003615,Jeanne K.,no,active,10/21/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+319075630,Melissa N.,no,active,10/22/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+53517772,Visar Z.,no,active,7/4/2012,Skopje,NA,Macedonia,42,21.47,yes,FALSE
+115090992,David R.,no,active,10/10/2013,Madison,WI,USA,43.08,-89.38,yes,FALSE
+319009437,Dalia S.,no,active,10/21/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320099232,Wen-Chieh C.,no,active,11/9/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320097921,Tom R.,no,active,11/9/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+12176493,Patrick S.,no,active,5/26/2010,Madison,WI,USA,43.03,-89.5,no,FALSE
+320103643,Chris W.,no,active,11/9/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+319831256,Philip H.,no,active,11/4/2020,Johnston,IA,USA,41.68,-93.71,yes,FALSE
+320122071,Aaron M.,no,active,11/9/2020,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+320185085,Justin W.,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320194950,Matt,no,active,11/10/2020,Cedar Rapids,IA,USA,41.97,-91.66,no,FALSE
+300581176,Natalie B.,no,active,1/16/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320198087,Wes,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320201267,Matt S,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320203459,Megan T.,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320204823,Solomon S.,no,active,11/10/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+320204456,Francisco O.,no,active,11/10/2020,Iowa City,IA,USA,41.66,-91.53,no,FALSE
+94857962,Dharmesh P.,no,active,5/24/2013,Bettendorf,IA,USA,41.57,-90.46,no,FALSE
+320208037,Yoko T.,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+203676196,Paul F.,no,active,4/19/2016,Fishers,IN,USA,39.95,-85.97,no,FALSE
+194491081,Bo S.,no,active,10/22/2015,Des Moines,IA,USA,41.58,-93.49,yes,FALSE
+320240774,tjaden a.,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320251164,Melvin S.,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+264596700,Theodore H.,no,active,10/2/2018,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+320277079,Tom C.,no,active,11/10/2020,Minneapolis,MN,USA,44.95,-93.34,yes,FALSE
+320321349,Alexander D.,no,active,11/11/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320329098,Josh H.,no,active,11/11/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320221843,Tim M.,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+319551015,Krystal M.,no,active,10/30/2020,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+320337582,Joe S.,no,active,11/11/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+310223022,John,no,active,5/12/2020,Clive,IA,USA,41.6,-93.75,no,FALSE
+320337286,Scott F,no,active,11/11/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320336193,Mohamed S.,no,active,11/11/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+282268267,Devin B.,no,active,6/1/2019,Moline,IL,USA,41.49,-90.5,yes,FALSE
+320336726,Hannah D.,no,active,11/11/2020,Grimes,IA,USA,41.69,-93.78,yes,FALSE
+185139384,Jsinh,yes,active,3/10/2015,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+320196067,John B.,no,active,11/10/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+320782298,Jordan M.,no,active,11/16/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+321551550,sukriti j.,no,active,11/28/2020,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+321662077,yazan,no,active,11/30/2020,Schaumburg,IL,USA,42.04,-88.08,yes,FALSE
+202436951,Tim P.,no,active,3/30/2016,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+272800258,Joey S.,no,active,1/23/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+322719645,Stacey V.,no,active,12/15/2020,Clive,IA,USA,41.6,-93.75,no,FALSE
+322830856,Monique S.,no,active,12/17/2020,Panora,IA,USA,41.69,-94.36,no,FALSE
+323411042,CyberGuy (.,no,active,12/28/2020,Scranton,IA,USA,42.02,-94.54,yes,FALSE
+324065248,GENC,no,active,1/7/2021,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+324268629,Austin B.,no,active,1/11/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+324270713,Gaylia O.,no,active,1/11/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+323939320,Jenny,no,active,1/5/2021,Kitchener,ON,Canada,43.44,-80.43,yes,FALSE
+322057409,John H.,no,active,12/7/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+169511132,Joshua C.,no,active,9/10/2014,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+324269033,Stuart T.,no,active,1/11/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+324264499,Tony,no,active,1/11/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+324281764,Trent W,no,active,1/11/2021,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+324416448,Brooke J.,no,active,1/13/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+3583147,Tim G.,no,active,1/7/2007,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+324084974,Alex P.,no,active,1/8/2021,New York,NY,USA,40.74,-74,yes,FALSE
+324459233,Sarah G.,no,active,1/14/2021,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+324515460,Ken A.,no,active,1/15/2021,Chicago,IL,USA,41.88,-87.62,no,FALSE
+272323072,Steven P.,no,active,1/17/2019,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+199779893,Amy J.,no,active,2/15/2016,Rhodes,IA,USA,41.91,-93.18,no,FALSE
+301326064,Nik A.,no,active,1/26/2020,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+324424332,Sunitha,yes,active,1/14/2021,Houston,TX,USA,29.72,-95.22,yes,FALSE
+324738871,Chris J.,no,active,1/19/2021,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+324754664,James H.,no,active,1/19/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+324728616,Rachel R.,no,active,1/19/2021,Paris,NA,France,48.86,2.34,yes,FALSE
+324813788,Liz R.,no,active,1/20/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+324826003,thorsten b.,no,active,1/20/2021,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+8597456,Tim S.,yes,active,1/4/2009,Ames,IA,USA,42.02,-93.66,no,FALSE
+323840536,Abigail S.,no,active,1/4/2021,San Luis Obispo,CA,USA,35.26,-120.65,no,FALSE
+325321035,Darrien,no,active,1/25/2021,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+325651362,Akeil P.,no,active,1/30/2021,Jamaica,IA,USA,41.83,-94.34,yes,FALSE
+326036180,Brett F.,no,active,2/4/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+326169658,Stephanie B,no,active,2/6/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+316983208,Charlott Schwartz L.,no,active,9/24/2020,Bettendorf,IA,USA,41.57,-90.46,yes,FALSE
+326270636,Jenni C.,no,active,2/8/2021,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+326399877,Alex S.,no,active,2/10/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+326371906,Erin A.,no,active,2/10/2021,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+326380937,Jason G.,no,active,2/10/2021,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+326384158,kat v.,no,active,2/10/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+243194429,Kate R.,no,active,12/5/2017,Ames,IA,USA,42.03,-93.64,yes,FALSE
+81762102,Peg M.,yes,active,2/22/2013,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+326372982,Willow B.,no,active,2/10/2021,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+326462462,Crystal D.,no,active,2/11/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+265331344,Peter H.,no,active,10/11/2018,San Bernardino,CA,USA,34.18,-117.34,yes,FALSE
+183321032,Bethany P.,no,active,1/4/2015,Nashville,TN,USA,36.18,-86.81,yes,FALSE
+240316380,Greg L.,no,active,11/2/2017,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+326660113,Hannah,no,active,2/15/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+326658883,Kaitlin W.,no,active,2/15/2021,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+326749495,Carolina M.,no,active,2/16/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+326657524,Jenifer B.,no,active,2/15/2021,Madison,WI,USA,43.07,-89.38,no,FALSE
+326803129,Quinton R.,no,active,2/17/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+85333412,tamim,no,active,3/18/2013,Ann Arbor,MI,USA,42.27,-83.81,yes,FALSE
+326924847,Logan,no,active,2/19/2021,Ames,IA,USA,42.03,-93.64,no,FALSE
+326914514,Victor Z.,yes,active,2/19/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+327088740,Jim M.,no,active,2/22/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+238901245,J Scott R.,no,active,10/14/2017,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+327617401,Jaclyn De V.,no,active,3/3/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+327605376,Sloan W.,no,active,3/3/2021,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+327514244,Spandana k,no,active,3/1/2021,Eden Prairie,MN,USA,44.86,-93.45,no,FALSE
+295848294,Dhathri,no,active,11/5/2019,Hyderabad,NA,India,17.4,78.48,no,FALSE
+327954137,Robert C.,no,active,3/9/2021,Adair,IA,USA,41.5,-94.65,yes,FALSE
+327966849,Steve W.,no,active,3/9/2021,Grinnell,IA,USA,41.77,-92.77,yes,FALSE
+325944311,Don A.,no,active,2/3/2021,Omaha,NE,USA,41.26,-95.93,yes,FALSE
+328006861,Erin W.,no,active,3/10/2021,Pella,IA,USA,41.41,-92.91,yes,FALSE
+254945502,Jim G.,no,active,5/20/2018,Willowbrook,IL,USA,41.84,-87.95,yes,FALSE
+328066440,Cait A.,no,active,3/11/2021,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+188553032,David,no,active,6/12/2015,Atlanta,GA,USA,33.85,-84.36,yes,FALSE
+247912804,David Q.,no,active,2/10/2018,Des Moines,IA,USA,41.58,-93.49,yes,FALSE
+32483492,W,no,active,12/9/2011,Ames,IA,USA,42.02,-93.66,yes,FALSE
+317089235,Mel,no,active,9/25/2020,Washington,DC,USA,38.92,-77.04,yes,FALSE
+328744943,Janelle M.,no,active,3/22/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+328736119,Jim M.,no,active,3/22/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+326634318,Justin C.,no,active,2/14/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+328772204,Brad L.,no,active,3/23/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+328785264,Matthew Z.,no,active,3/23/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+328718814,Mike N.,no,active,3/22/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+328765828,Richard L.,no,active,3/23/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+328773959,Tyler Z.,no,active,3/23/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+11037934,Jeff,no,active,12/16/2009,Des Moines,IA,USA,41.6,-93.68,no,FALSE
+301018293,joe f.,no,active,1/22/2020,Urbandale,IA,USA,41.63,-93.73,no,FALSE
+317480305,Michael G.,no,active,9/30/2020,Denver,CO,USA,39.75,-104.99,no,FALSE
+302779552,Annette S.,no,active,2/17/2020,Des Moines,IA,USA,41.59,-93.62,no,FALSE
+328897175,Haley S.,no,active,3/25/2021,Des Moines,IA,USA,41.6,-93.68,yes,FALSE
+329251912,Tai D.,no,active,3/31/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+329585528,Aditi D.,no,active,4/6/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+226448371,Chris M.,no,active,4/26/2017,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+329660781,Emily M.,no,active,4/7/2021,Rock Island,IL,USA,41.49,-90.57,no,FALSE
+319932099,Jackie K.,no,active,11/6/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+329669900,Kavya,no,active,4/7/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+329678228,Kelly T.,no,active,4/7/2021,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+311961466,Marcus e,no,active,6/23/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+329699933,David S.,no,active,4/8/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+329698669,Josh B.,no,active,4/8/2021,West Des Moines,IA,USA,41.59,-93.77,no,FALSE
+123371232,abdullah.khan.msc@gmail.com,no,active,12/11/2013,Mississauga,ON,Canada,43.7,-79.66,no,FALSE
+329765062,Greg N.,no,active,4/9/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+295963387,Mike M.,no,active,11/7/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+194085516,Jo,no,active,10/14/2015,Hanover,MD,USA,39.16,-76.72,yes,FALSE
+330094773,David B.,no,active,4/14/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+330119226,JR T.,no,active,4/15/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+183269532,Gen,no,active,1/2/2015,Lincoln,NE,USA,40.82,-96.78,yes,FALSE
+329189116,Anna V.,no,active,3/30/2021,Ashburn,VA,USA,39.03,-77.49,no,FALSE
+128097952,Lindsay G.,no,active,1/14/2014,Bloomington,IN,USA,39.19,-86.58,yes,FALSE
+330387249,Christopher H.,no,active,4/19/2021,Sunnyvale,CA,USA,37.37,-122.03,yes,FALSE
+330398599,Emily B.,no,active,4/19/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+330425841,Ramie,no,active,4/19/2021,Polk City,IA,USA,41.78,-93.71,no,FALSE
+87099492,Trevor,yes,active,3/31/2013,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+330536552,Shreeya S.,no,active,4/21/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+11394090,Shane,no,active,2/7/2010,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+269072914,Mike K.,no,active,12/3/2018,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+3176754,Bob,yes,active,9/3/2006,Chicago,IL,USA,41.94,-87.7,no,FALSE
+332282348,David M.,no,active,5/17/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+318114212,Bala g.,no,active,10/8/2020,Denver,CO,USA,39.64,-104.9,yes,FALSE
+291042710,Ben D.,no,active,9/15/2019,Madison,WI,USA,43.03,-89.39,yes,FALSE
+332530055,Christopher,no,active,5/21/2021,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+199379797,Halda121,no,active,2/8/2016,Grimes,IA,USA,41.67,-93.76,yes,FALSE
+202745017,Rhiannon H.,no,active,4/4/2016,Cedar Falls,IA,USA,42.53,-92.45,no,FALSE
+332772685,Kathy M.,no,active,5/24/2021,Ankeny,IA,USA,41.72,-93.61,no,FALSE
+332830498,Sean,no,active,5/25/2021,Ankeny,IA,USA,41.72,-93.61,yes,FALSE
+214123602,Steve B.,no,active,10/1/2016,Des Moines,IA,USA,41.59,-93.68,yes,FALSE
+332854029,Kara L.,no,active,5/25/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+332901021,Anthony H.,no,active,5/26/2021,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+333399546,Melissa,no,active,6/2/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+333470787,Oscar  A.,no,active,6/3/2021,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+333631135,Meron,no,active,6/5/2021,Waukee,IA,USA,41.6,-93.87,yes,FALSE
+281630039,Randal N.,no,active,5/22/2019,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+5969858,Darvish Lee S.,no,active,12/27/2007,Ankeny,IA,USA,41.72,-93.62,yes,FALSE
+187868410,Karen F.,yes,active,5/27/2015,Altoona,IA,USA,41.66,-93.49,yes,FALSE
+303790471,Tina H.,no,active,3/3/2020,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+297450151,Veronica,no,active,11/26/2019,Minneapolis,MN,USA,44.98,-93.27,yes,FALSE
+212148139,Andrew R.,no,active,9/2/2016,Des Moines,IA,USA,41.64,-93.62,no,FALSE
+334614873,HalahZee,no,active,6/18/2021,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+319476452,Ziwei Z.,no,active,10/29/2020,Tokyo,NA,Japan,35.67,139.77,yes,FALSE
+335351522,Katie N.,no,active,6/28/2021,Des Moines,IA,USA,41.63,-93.67,no,FALSE
+335421704,John G.,no,active,6/29/2021,Urbandale,IA,USA,41.63,-93.73,yes,FALSE
+335955719,DAMA I.,no,active,7/6/2021,Des Moines,IA,USA,41.61,-93.6,no,FALSE
+334600184,Jake O.,no,active,6/18/2021,Pella,IA,USA,41.41,-92.91,yes,FALSE
+332095963,Brian S.,no,active,5/15/2021,Des Moines,IA,USA,41.59,-93.62,yes,FALSE
+336346011,Chol Mashar K.,no,active,7/12/2021,Des Moines,IA,USA,41.63,-93.67,yes,FALSE
+336436409,Cynthia T.,no,active,7/13/2021,Indianola,IA,USA,41.32,-93.57,yes,FALSE
+336703081,Paul H.,no,active,7/17/2021,Waukee,IA,USA,41.6,-93.87,no,FALSE
+336705182,Maya M.,no,active,7/17/2021,Ames,IA,USA,42.02,-93.66,no,FALSE
+336917924,Michael K,no,active,7/20/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+337371640,Allen T.,no,active,7/26/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+337450080,Keyleigh F.,no,active,7/27/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+337480225,dennis h.,no,active,7/28/2021,West Des Moines,IA,USA,41.58,-93.76,yes,FALSE
+337569142,Rustina K.,no,active,7/29/2021,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+291951430,Andrea M.,no,active,9/23/2019,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+182833928,Liam,no,active,12/3/2014,Astoria,NY,USA,40.77,-73.92,no,FALSE
+337842298,Millie B.,no,active,8/2/2021,Clive,IA,USA,41.6,-93.75,no,FALSE
+338066349,Lynne B.,no,active,8/5/2021,Mound,MN,USA,44.94,-93.66,no,FALSE
+338105213,Gary M.,no,active,8/6/2021,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+320332078,Joel R,no,active,11/11/2020,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+338214634,Michael c.,no,active,8/7/2021,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+183959273,Diamond,no,active,1/27/2015,Chicago,IL,USA,41.88,-87.62,yes,FALSE
+338253650,Stephi T.,no,active,8/8/2021,Ames,IA,USA,42.03,-93.64,yes,FALSE
+11410306,Anitha,no,active,2/9/2010,Coppell,TX,USA,32.96,-96.98,yes,FALSE
+338424443,Beverly R.,no,active,8/10/2021,Des Moines,IA,USA,41.54,-93.58,yes,FALSE
+338454377,Casey H.,no,active,8/11/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+338528858,Kaela N.,no,active,8/12/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+292170076,Usman G.,no,active,9/25/2019,Ames,IA,USA,42.03,-93.64,yes,FALSE
+67653622,Julia C.,no,active,10/27/2012,Saint Cloud,FL,USA,28.13,-81.24,yes,FALSE
+338780705,Brandon T.,no,active,8/16/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+313724230,Austin P.,no,active,8/5/2020,Des Moines,IA,USA,41.6,-93.63,no,FALSE
+338849241,Syd,no,active,8/17/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+338902608,Joanie B.,no,active,8/18/2021,Des Moines,IA,USA,41.6,-93.63,yes,FALSE
+133801322,Jim M.,no,active,2/18/2014,Minneapolis,MN,USA,44.98,-93.27,yes,FALSE
+338920685,Gene H.,no,active,8/18/2021,Ankeny,IA,USA,41.72,-93.61,no,FALSE
+339251890,Gabriel M.,no,active,8/23/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+339515508,Carly C.,no,active,8/27/2021,Ames,IA,USA,42.02,-93.66,yes,FALSE
+340434531,Angie B.,no,active,9/10/2021,West Des Moines,IA,USA,41.59,-93.77,yes,FALSE
+340717227,Kelly J.,no,active,9/14/2021,West Des Moines,IA,USA,41.58,-93.76,no,FALSE
+321943386,Francis Angelo Diokno J.,no,active,12/5/2020,Iowa City,IA,USA,41.65,-91.56,yes,FALSE
+183276727,Richard M.,no,active,1/3/2015,Z??rich,NA,Switzerland,47.38,8.54,yes,FALSE
+105032912,Shawn D.,no,active,8/2/2013,Ankeny,IA,USA,41.75,-93.6,yes,FALSE

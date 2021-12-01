@@ -1,0 +1,22 @@
+---
+title: "Members"
+author: "MunjuKam"
+date: "11/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# r web / r json - installing jsonlite
+#install.packages("jsonlite")
+rm(list = ls())
+library("jsonlite")
+
+# r web / r json - get json data from url
+json_file <- "https://api.meetup.com/Des-Moines-Data-Analytics/events/243781906/attendance?page=50"
+data <- fromJSON(json_file, flatten = TRUE)
+#head(data %>% bind_rows() %>% mutate(department = rep(names(data), map_dbl(data, nrow))))
+str(as.data.frame(data))

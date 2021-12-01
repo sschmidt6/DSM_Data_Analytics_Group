@@ -1,0 +1,149 @@
+---
+title: "Final data cleaning"
+author: "MunjuKam"
+date: "11/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# r web / r json - installing jsonlite
+#install.packages("jsonlite")
+rm(list = ls())
+library("jsonlite")
+
+# r web / r json - get json data from url
+json_file <- "https://api.meetup.com/Des-Moines-Data-Analytics/events/243781906/attendance?page=50"
+data <- fromJSON(json_file, flatten = TRUE)
+#head(data %>% bind_rows() %>% mutate(department = rep(names(data), map_dbl(data, nrow))))
+str(as.data.frame(data))
+```
+
+```{r}
+# 2021-10-08 11:31
+tdat <- data$rsvp.updated[5]
+datetime <- as.POSIXct(strptime(tdat, format = "%d/%m/%Y %H:%M:%S"))
+datetime <- as.POSIXct(as.numeric(tdat)/1000, origin='2021-10-08') 
+datetime
+
+format(as.POSIXct("1970-01-01",tz="GMT")+tdat/1000-5*3600, "%Y-%m-%d %H:%M:%S")
+
+t.gmt <- as.POSIXct((tdat)/1000, origin = Sys.Date(), tz = "GMT", format = "%Y-%m-%d %H:%M:%S") 
+t.gmt #"2073-07-28 16:31:21 GMT"
+t.local <- as.POSIXct(format(t.gmt, "%Y-%m-%d %H:%M:%S"))
+t.local
+```
+
+```{r}
+data$rsvp.updated <- format(as.POSIXct("1970-01-01",tz="GMT")+data$rsvp.updated/1000-5*3600, "%Y-%m-%d %H:%M:%S")
+head(data)
+```
+
+```{r}
+df <- read.csv("Event.csv")
+#df <- df[1:1121, ]
+df$ï..EventID[41] <- 281103430
+head(df)
+```
+```{r}
+lsCol <- c("event.id", "status", "member.id","member.name", "member.bio" ,"member.role", "member.photo.id", "rsvp.response", "rsvp.updated")
+
+data_comb <- data.frame(matrix(ncol = 9, nrow = 0))
+colnames(data_comb) <- lsCol
+
+for (curr_url in df$ï..EventID) {
+  
+  json_file <- paste("https://api.meetup.com/Des-Moines-Data-Analytics/events/", curr_url,"/attendance?page=100", sep="")
+  data <- fromJSON(json_file, flatten = TRUE)
+  data$rsvp.updated <- format(as.POSIXct("1970-01-01",tz="GMT")+data$rsvp.updated/1000-5*3600, "%Y-%m-%d %H:%M:%S")
+  data$event.id <- curr_url
+  if ("status" %in% colnames(data) == FALSE){
+    data$status <- "missing"
+    print(curr_url)
+  }
+  data_comb <- rbind(data_comb, data[,lsCol])}
+  
+  print(curr_url)
+  print(data_comb)
+
+```
+
+```{r}
+data_comb <- data_comb[, c("event.id","member.id","rsvp.updated","rsvp.response","status")]
+print(data_comb)
+```
+
+```{r}
+data_comb$rsvp.updatedDate<-substr(data_comb$rsvp.updated,1,10)
+data_comb$rsvp.updatedHour<-substr(data_comb$rsvp.updated,12,13)
+print(data_comb)
+```
+
+
+```{r}
+data_comb <- data_comb[,c("event.id","member.id","rsvp.updated","rsvp.updatedDate","rsvp.updatedHour","rsvp.response","status")]
+print(data_comb)
+```
+```{r}
+write.csv(data_comb, file="Attendance.csv")
+```
+
+```{r}
+members <- read.csv("members.csv")
+```
+
+
+```{r}
+library(tidyverse)
+json_file <- "https://api.meetup.com/Des-Moines-Data-Analytics/members?page=1000"
+Members <- fromJSON(json_file, flatten = TRUE)
+Members<- Members %>% 
+  rename(
+    Member.ID = id,
+    )
+head(as.data.frame(Members))
+```
+
+```{r}
+lsCol <- c("event.id", "status", "member.id","member.name", "member.bio" ,"member.role", "member.photo.id", "rsvp.response", "rsvp.updated")
+
+data_comb1 <- data.frame(matrix(ncol = 9, nrow = 0))
+colnames(data_comb1) <- lsCol
+
+for (curr_url in members$Member.ID) {
+  json_file <- paste("https://api.meetup.com/Des-Moines-Data-Analytics/members/", curr_url,"/profile/?returnPage=1", sep="")
+  members2 <- fromJSON(json_file, flatten = TRUE)
+
+  members2$Member.ID <- curr_url
+
+  data_comb1 <- rbind(data_comb1, members2[,lsCol])}
+  
+  print(curr_url)
+  print(data_comb1)
+
+```
+
+
+
+```{r}
+members1 = merge(x=members,y=Members,by="Member.ID",all.x=TRUE)
+members1 <- subset(members1, ï..Name!="")
+members1 <- members1[order(members1$ï..Name), ]
+members1
+
+```
+
+```{r}
+my_cols <- c("ï..Name", "Member.ID", "city","state", "Joined.On", "Duplicate.",
+    "LinkedIn.Title", "Company", "Categorization", "Looking.or.Hiring.")
+members1 <- members1[, my_cols]
+
+```
+
+
+```{r}
+write.csv(members1, file="Members.csv")
+```

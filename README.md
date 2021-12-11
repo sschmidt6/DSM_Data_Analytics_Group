@@ -1,4 +1,4 @@
-GitHub repository for DSM Data Analytics Group project
+# GitHub repository for DSM Data Analytics Group project
 
 This project is done by Canny Li, Stephen Schmidt, Munju Kam, and Josh Hjelmaas.
 Here is a list of our final delivery.

@@ -1,0 +1,725 @@
+Iowa Company Number,NAIC Number,Phone,Company Name,Address,City,State,ZIP,New Georeferenced Column
+2875,42390,,AmGUARD Insurance Company,PO Box AH,Wilkes-Barre,PA,18703-0020,
+2434,29424,,Hartford Casualty Insurance Company,One Hartford Plaza,Hartford,CT,06115,
+0892,25976,,Utica Mutual Insurance Company,P. O. Box 530,Utica,NY,13503,
+1763,19046,,Travelers Casualty Insurance Company of America,One Tower Square,Hartford,CT,06183,
+1803,28401,,American National Property and Casualty Company,"1949 E. Sunshine, Corporate Ctr.",Springfield,MO,65899,
+0791,25534,,TIG Insurance Company,"250 Commercial Street, Suite 5000",Manchester,NH,03101,POINT (-71.468413 42.990076)
+2061,22659,,Indiana Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+3263,12319,,Bondsman Insurance Company,350 10th Avenue Suite 1450,San Diego,CA,92101,POINT (-117.155558 32.708925)
+1626,23752,,Ascot Insurance Company,"55 West 46th Street, 26th Floor",New York,NY,10036,POINT (-73.981129 40.756921)
+3107,39608,,Nutmeg Insurance Company,One Hartford Plaza,Hartford,CT,06155-0001,
+1889,32077,,Heritage Casualty Insurance Company,"7101 College Blvd, Suite 1400",Overland Park,KS,66210,POINT (-94.668797 38.9274)
+1715,22292,,Hanover Insurance Company (The),440 Lincoln Street,Worcester,MA,01653,POINT (-71.780784 42.291928)
+3016,42376,,"Technology Insurance Company, Inc.","59 Maiden Lane, 43rd Floor",New York,NY,10038,POINT (-74.008478 40.708501)
+0419,13773,,Farm Bureau Property & Casualty Insurance Company,5400 University Avenue,West Des Moines,IA,50266-5997,POINT (-93.779306 41.600454)
+0406,13714,800-247-5690,Pharmacists Mutual Insurance Company,P.O. Box 370,Algona,IA,50511,
+1888,16608,,New York Marine and General Insurance Company,"412 Mt. Kemble Avenue, Suite 300C",Morristown,NJ,07960,POINT (-74.505736 40.772021)
+0872,25712,800-343-7262,Esurance Insurance Company,"3075 Sanders Road, Suite G4E",Northbrook,IL,60062-7127,POINT (-87.873947 42.093908)
+2093,34789,800-245-2425,21st Century Centennial Insurance Company,"21st Century Plaza, 3 Beaver Valley Road",Wilmington,DE,19803,
+1957,31089,,Repwest Insurance Company,2721 North Central Avenue,Phoenix,AZ,85004,POINT (-112.073711 33.478425)
+1722,25844,800-235-2942,Union Insurance Company,P.O. Box 1594,Urbandale,IA,50306-1594,
+1792,31208,,Oakwood Insurance Company,"628 Hebron Avenue, Suite 106",Glastonbury,CT,06033,POINT (-72.588865 41.714452)
+1390,22578,,Horace Mann Insurance Company,1 Horace Mann Plaza,Springfield,IL,62715,POINT (-89.64359 39.80163)
+2557,21229,800-222-6424,MemberSelect Insurance Company,One Auto Club Drive,Dearborn,MI,48126,
+3095,31534,,Citizens Insurance Company of America,440 Lincoln Street,Worcester,MA,01653,POINT (-71.780784 42.291928)
+2353,18619,800 475-4450,Platte River Insurance Company,PO Box 5900,Madison,WI,53705-0900,
+2716,39926,,Selective Insurance Company of the Southeast,40 Wantage Avenue,Branchville,NJ,07890,POINT (-74.74656 41.152318)
+2620,33022,,AXA Insurance Company,"200 Liberty Street, 22nd Floor",New York,NY,10281-1037,POINT (-74.015373 40.711401)
+3054,28649,800-897-2299,Eastern Atlantic Insurance Company,5300 Derry Street,Harrisburg,PA,17111,POINT (-76.795621 40.25941)
+0635,24724,,First National Insurance Company of America,175 Berkeley St.,Boston,MA,02116,POINT (-71.072399 42.349966)
+0706,16691,,Great American Insurance Company,301 E. Fourth Street,Cincinnati,OH,45202-4201,POINT (-84.507376 39.100759)
+3096,31325,800-773-4300,Acadia Insurance Company,PO Box 9010,Westbrook,ME,04092,
+2681,32620,800-929-1500,National Interstate Insurance Company,3250 Interstate Drive,Richfield,OH,44286-9000,POINT (-81.63098 41.225978)
+1928,18279,,Bankers Standard Insurance Company,PO Box 1000,Philadelphia,PA,19106,
+1961,35157,,Fair American Insurance and Reinsurance Company,One Liberty Plaza,New York,NY,10006,
+2280,11592,,International Fidelity Insurance Company,"4200 Six Forks Rd., Suite 1400",Raleigh,NC,27609,POINT (-78.639427 35.835675)
+1886,10227,,"Munich Reinsurance America, Inc.","555 College Road East, PO Box 5241",Princeton,NJ,08543,POINT (-74.593587 40.351455)
+2550,37931,,"YCI, Inc.",PO Box 24000,Oklahoma City,OK,73124-4000,
+0871,19887,,Trinity Universal Insurance Company,12926 Gran Bay Parkway West,Jacksonville,FL,32258,POINT (-81.52825 30.133439)
+3140,14958,,Peninsula Insurance Company,"1195 River Road, P.O. Box 302",Marietta,PA,17547-0302,POINT (-76.549013 40.062676)
+2634,25135,,State Automobile Mutual Insurance Company,518 East Broad St.,Columbus,OH,43216,POINT (-82.986563 39.963871)
+2649,39136,,Finial Reinsurance Company,"1314 Douglas Street, Suite 1400",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+0887,25909,,Unitrin Preferred Insurance Company,12926 Gran Bay Parkway,Jacksonville,FL,32258,
+3281,16070,,Cronus Insurance Company,"370 Las Colinas Blvd. W., Suite 108",Irving,TX,75039,POINT (-96.94372 32.874602)
+3067,12294,,Southwest Marine and General Insurance Company,"412 Mt. Kemble Avenue, Suite 300C",Morristown,NJ,07960,POINT (-74.505736 40.772021)
+2790,26379,800-432-2799,"Accredited Surety and Casualty Company, Inc.",PO Box 140855,Orlando,FL,32814-0855,
+3244,16116,,JM Specialty Insurance Company,24 Jewelers Park Drive,Neenah,WI,54956,POINT (-88.484679 44.162411)
+1431,11630,,Jefferson Insurance Company,9950 Maryland Drive,Richmond,VA,23233,POINT (-77.576171 37.642248)
+2821,10819,,American Equity Specialty Insurance Company,One Tower Square,Hartford,CT,06183,
+2841,29017,,Professionals Advocate Insurance Company,225 International Circle,Hunt Valley,MD,21030,POINT (-76.665423 39.498843)
+3219,15756,,Radnor Specialty Insurance Company,1170 Devon Park Drive,Wayne,PA,19087,POINT (-75.395981 40.080593)
+2973,38865,,California Insurance Company,PO Box 3646,Omaha,NE,68103-0646,
+0790,20346,,Pacific Indemnity Company,202B Hall's Mill Road,Whitehouse Station,NJ,08889,POINT (-74.764901 40.644875)
+2706,40193,,"XL Insurance Company of New York, Inc.",70 Seaview Ave.,Stamford,CT,06902-6040,POINT (-73.523237 41.041676)
+1777,29874,,North American Specialty Insurance Company,1200 Main Street Suite 800,Kansas City,MO,64105,POINT (-94.583196 39.09961)
+0830,20931,,Wellfleet New York Insurance Company,5814 Reed Road,Fort Wayne,IN,46835,POINT (-85.081556 41.132103)
+2854,24279,800-776-4737,Progressive Max Insurance Company,"6300 Wilson Mills Road, W33",Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+0576,20230,,Central Mutual Insurance Company,800 South Washington St.,Van Wert,OH,45891,POINT (-84.583012 40.860967)
+0444,13021,,United Fire & Casualty Company,P. O. Box 73909,Cedar Rapids,IA,52407-3909,
+2428,15563,,Clear Spring Property and Casualty Company,"227 West Monroe, Suite 3950",Chicago,IL,60606,POINT (-87.63472 41.880635)
+1376,22306,,Massachusetts Bay Insurance Company,440 Lincoln Street,Worcester,MA,01653,POINT (-71.780784 42.291928)
+2516,19640,,Columbia National Insurance Company,10820 Harney Circle,Omaha,NE,68154,POINT (-96.080131 41.256591)
+1287,19240,,Allstate Indemnity Company,"3075 Sanders Rd., Suite G4E",Northbrook,IL,60065,POINT (-87.873947 42.093908)
+2085,39845,,Westport Insurance Corporation,"1200 Main Street, Suite 800",Kansas City,MO,64105,POINT (-94.583196 39.09961)
+1995,22594,800-558-9900,MGIC Assurance Corporation,P. O. Box 756,Milwaukee,WI,53201-0756,
+2658,40258,,AIG Assurance Company,"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+0642,24414,,General Casualty Company of Wisconsin,One General Drive,Sun Prairie,WI,53596,
+2409,14060,,Grange Insurance Company,617 S. High Street,Columbus,OH,43206,POINT (-82.998168 39.949468)
+3205,15831,,"Grinnell Compass, Inc.","4215 Highway 146, PO Box 790",Grinnell,IA,50112-0790,POINT (-92.727228 41.684603)
+3110,24503,,Root Property & Casualty Insurance Company,"80 E Rich Street, Suite 500",Columbus,OH,43215,POINT (-82.997431 39.957776)
+2522,22551,800-388-1802,Mitsui Sumitomo Insurance USA Inc.,15 Independence Blvd.,Warren,NJ,07059,POINT (-74.573779 40.651745)
+3071,10690,,Allied World National Assurance Company,"199 Water Street, 24th Floor",New York,NY,10038,POINT (-74.004621 40.707097)
+0557,19402,,AIG Property Casualty Company,"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+0617,25682,,Travelers Indemnity Company of Connecticut (The),One Tower Square,Hartford,CT,06183,
+1725,26298,800-422-4272,Farmers Property and Casualty Insurance Company,700 Quaker Lane,Warwick,RI,02886-6669,POINT (-71.500068 41.678771)
+2947,37940,800-951-2663,Lexington National Insurance Corporation,PO Box 6098,Lutherville,MD,21094,
+0520,20427,,"American Casualty Company of Reading, Pennsylvania",151 N. Franklin St.,Chicago,IL,60606,POINT (-87.635367 41.884568)
+2762,19984,,ACIG Insurance Company,"2600 N Central Expressway, Suite 800",Richardson,TX,75080,POINT (-96.709121 32.993567)
+2420,15105,888-995-5300,Safety National Casualty Corporation,1832 Schuetz Road,St. Louis,MO,63146,POINT (-90.428235 38.694215)
+2108,40371,,Columbia Mutual Insurance Company,P. O. Box 618,Columbia,MO,65205,
+1710,26220,,Yosemite Insurance Company,"411 5th Avenue, 5th Floor",New York,NY,10016,POINT (-73.983082 40.750509)
+0686,19429,,Insurance Company of the State of Pennsylvania (The),"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+1432,13439,,Partners Mutual Insurance Company,20935 Swenson Drive,Waukesha,WI,53186-2057,POINT (-88.174015 43.031998)
+3098,22586,,Atlantic States Insurance Company,"1195 River Road, P.O. Box 302",Marietta,PA,17547-0302,POINT (-76.549013 40.062676)
+2174,21180,,Sentry Select Insurance Company,1800 North Point Drive,Stevens Point,WI,54481-1283,POINT (-89.572353 44.541214)
+3049,25180,,Stillwater Insurance Company,"4905 Belfort Rd., Suite 110",Jacksonville,FL,32256,POINT (-81.58308 30.245403)
+2476,10030,,Westchester Fire Insurance Company,PO Box 1000,Philadelphia,PA,19106,
+1735,41394,800-283-0622,Benchmark Insurance Company,150 Lake Street W,Wayzata,MN,55391,POINT (-93.525228 44.970808)
+2482,30104,,Hartford Underwriters Insurance Company,One Hartford Plaza,Hartford,CT,06155,
+1882,32808,,Illinois EMCASCO Insurance Company,PO Box 712,Des Moines,IA,50306-0712,
+1448,10499,800-782-9164,CorePointe Insurance Company,"800 Superior Ave E, 21st Fl",Cleveland,OH,44141,POINT (-81.689017 41.502022)
+1990,32786,800-776-4737,Progressive Specialty Insurance Company,6300 Wilson Mills Road,Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+1316,23779,,Nationwide Mutual Fire Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2582,10006,,Cerity Insurance Company,PO Box 1389,Austin,TX,78767,
+2710,36684,800-449-7707,Riverport Insurance Company,PO Box 1594,Des Moines,IA,50306-1594,
+2684,28886,,"TransGuard Insurance Company of America, Inc.","4200 Six Forks Rd., Suite 1400",Raleigh,NC,27609,POINT (-78.639427 35.835675)
+2659,32190,,Constitution Insurance Company,PO Box 8424,Omaha,NE,68108-8424,
+2589,36153,800-872-3862,Aetna Insurance Company of Connecticut,151 Farmington Avenue,Hartford,CT,06156,POINT (-72.688425 41.768046)
+0727,14508,,Michigan Millers Mutual Insurance Company,P. O. Box 30060,Lansing,MI,48909,
+2020,37907,,Allstate Vehicle and Property Insurance Company,"3075 Sanders Rd., Suite G4E",Northbrook,IL,60065,POINT (-87.873947 42.093908)
+1605,30830,,Arch Indemnity Insurance Company,"300 Plaza Three, 3rd Floor",Jersey City,NJ,07311-1107,
+2266,42986,,Standard Guaranty Insurance Company,"260 Interstate North Circle, SE",Atlanta,GA,30339-2110,POINT (-84.463627 33.898602)
+2800,13986,,Frankenmuth Mutual Insurance Company,One Mutual Avenue,Frankenmuth,MI,48787-0001,
+2746,40150,,"MGA Insurance Company, Inc.",PO Box 199023,Dallas,TX,75219-9023,
+2246,42803,,GuideOne Elite Insurance Company,1111 Ashworth Road,West Des Moines,IA,50265-3538,POINT (-93.719132 41.584614)
+2879,20176,,Celina Mutual Insurance Company (The),1 Insurance Square,Celina,OH,45822-1690,
+0408,21415,,Employers Mutual Casualty Company,P. O. Box 712,Des Moines,IA,50306-0712,
+2599,18821,,General Casualty Insurance Company,One General Drive,Sun Prairie,WI,53596,
+1815,20060,,National Indemnity Company of Mid-America,"1314 Douglas Street, Suite 1400",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+1844,23450,800-543-2644,American Family Home Insurance Company,P. O. Box 5323,Cincinnati,OH,45201-5323,
+1172,11371,,Great West Casualty Company,1100 West 29th St.,South Sioux City,NE,68776-0277,POINT (-96.427308 42.462514)
+1281,19704,,American States Insurance Company,175 Berkeley St.,Boston,MA,02116,POINT (-71.072399 42.349966)
+0626,13935,,Federated Mutual Insurance Company,121 East Park Square,Owatonna,MN,55060,POINT (-93.225466 44.084027)
+0725,24899,,Alea North America Insurance Company,"5 Batterson Park Rd, 3rd Floor",Farmington,CT,06032,POINT (-72.798263 41.708558)
+1877,33499,,Dorinco Reinsurance Company,2211 H.H. Dow Way Sylvia Stoesser Center,Midland,MI,48674,
+3036,14850,507-423-6262,North Star Mutual Insurance Company,PO Box 48,Cottonwood,MN,56229,
+1870,35424,800-331-3780,Old Republic Security Assurance Company,307 North Michigan Avenue,Chicago,IL,60601,POINT (-87.624455 41.887502)
+2227,10669,,Church Insurance Company (The),19 East 34th Street,New York,NY,10016,POINT (-73.983745 40.7481)
+2083,36552,,Coliseum Reinsurance Company,"3 West 35th Street, 11th Floor",New York,NY,10001,POINT (-73.98473 40.749382)
+1195,23388,,Shelter Mutual Insurance Company,1817 West Broadway,Columbia,MO,65218,POINT (-92.367171 38.953504)
+0568,10243,800-776-4737,National Continental Insurance Company,6300 Wilson Mills Road,Mayfield Village,OH,44113-2182,POINT (-81.450826 41.538891)
+0414,14117,800-362-2041,Grinnell Mutual Reinsurance Company,"4215 Highway 146, P.O. Box 790",Grinnell,IA,50112-0790,POINT (-92.727228 41.684603)
+2015,14303,,Integrity Insurance Company,671 South High Street,Columbus,OH,43206,POINT (-82.998044 39.948796)
+3017,10909,,Sun Surety Insurance Company,PO Box 2373,Rapid City,SD,57709,
+3279,34711,,Digital Advantage Insurance Company,"76 St. Paul Street, Suite 500",Burlington,VT,05401,POINT (-73.214146 44.477724)
+2421,40282,,Travelers Commercial Casualty Company,One Tower Square,Hartford,CT,06183,
+1921,34339,800-422-4272,Farmers Group Property and Casualty Insurance Company,700 Quaker Lane,Warwick,RI,02886-6669,POINT (-71.500068 41.678771)
+0779,24074,,Ohio Casualty Insurance Company (The),175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2447,18287,,Assured Guaranty Municipal Corp.,1633 Broadway,New York,NY,10019,POINT (-73.983786 40.761828)
+2382,10120,8002696660,Everest National Insurance Company,Warren Corporate Center,Warren,NJ,07059,
+2867,29513,,Bar Plan Mutual Insurance Company (The),1717 Hidden Creek Court,St. Louis,MO,63131,POINT (-90.454975 38.608864)
+0798,14974,800-752-1895,Pennsylvania Lumbermens Mutual Insurance Company,One Commerce Square,Philadelphia,PA,19103-7008,
+0533,10200,,Hiscox Insurance Company Inc.,"104 S Michigan Ave., Suite 600",Chicago,IL,60603,POINT (-87.624435 41.880701)
+2673,15580,800-423-7675,Scottsdale Indemnity Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+3086,19488,,Amerisure Insurance Company,PO Box 2060,Farmington Hills,MI,48333-2060,
+2981,10069,,"Housing Authority Property Insurance, A Mutual Company",PO Box 189,Cheshire,CT,06410-0189,
+2744,34630,,Oak River Insurance Company,"1314 Douglas Street, Suite 1300",Omaha,NE,68102,POINT (-95.93386 41.258631)
+1687,24775,,St. Paul Guardian Insurance Company,One Tower Square,Hartford,CT,06183,
+1307,10472,,Capitol Indemnity Corporation,P. O. Box 5900,Madison,WI,53705,
+1816,32352,,LM Property and Casualty Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2457,42889,614-249-1545,Victoria Fire & Casualty Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+0917,11185,,Foremost Insurance Company,"Farmers Ins Group, Regulatory Affairs Dept.",Grand Rapids,MI,49501,
+3073,43494,800-866-0047,American Hallmark Insurance Company of Texas,"5420 Lyndon B. Johnson Frwy, Ste 1100",Dallas,TX,75240-2345,POINT (-96.817518 32.923085)
+2495,42749,,Traders Insurance Company,P. O. Box 5374,Kansas City,MO,64131,
+2341,26085,,Warner Insurance Company,"200 East Randolph Street, Suite 3300",Chicago,IL,60601,POINT (-87.621619 41.884493)
+2380,40649,800-422-4272,Economy Premier Assurance Company,700 Quaker Lane,Warwick,RI,02886,POINT (-71.500068 41.678771)
+0618,11967,,General Star National Insurance Company,120 Long Ridge Road,Stamford,CT,06902,POINT (-73.553308 41.077632)
+1698,21881,,National Surety Corporation,"225 W. Washington St., Suite 1800",Chicago,IL,60606,POINT (-87.634988 41.883208)
+1656,20044,,Berkshire Hathaway Homestate Insurance Company,"1314 Douglas Street, Suite 1300",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+2548,33600,,LM Insurance Corporation,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2701,15954,800-925-1887,AmTrust Insurance Company,P.O. Box 650771,Dallas,TX,75265-0771,
+1596,22276,,Berkshire Hathaway Specialty Insurance Company,"1314 Douglas Street, Suite 1400",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+2727,27120,,Trumbull Insurance Company,One Hartford Plaza,Hartford,CT,06155,
+1920,31968,800-523-3796,Merastar Insurance Company,"200 East Randolph Street, Suite 3300",Chicago,IL,60601,POINT (-87.621619 41.884493)
+0856,20370,,AXIS Reinsurance Company,"11680 Great Oaks Way, Suite 500",Alpharetta,GA,30022,POINT (-84.269624 34.062147)
+1555,24961,,Everspan Insurance Company,One World Trade Center  41st Floor,New York,NY,10007,
+2559,23612,877-975-2667,Midwest Employers Casualty Company,"14755 North Outer Forty Drive, #300",Chesterfield,MO,63017,
+2648,43974,800-245-2425,21st Century Indemnity Insurance Company,"21st Century Plaza, 3 Beaver Valley Road",Wilmington,DE,19803,
+1864,35386,,Fidelity and Guaranty Insurance Company,One Tower Square,Hartford,CT,06183,
+0796,24198,,Peerless Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2566,36234,,Preferred Professional Insurance Company,"11605 Miracle Hills Drive, #200",Omaha,NE,68154-4467,POINT (-96.095591 41.268098)
+2654,25224,,Great Divide Insurance Company,PO Box 1594,Des Moines,IA,50306,
+2713,19992,,American Select Insurance Company,P. O. Box 5001,Westfield Center,OH,44251-5001,
+1121,21164,,Dairyland Insurance Company,1800 North Point Drive,Stevens Point,WI,54481,POINT (-89.572644 44.541214)
+0814,26344,,Great American Assurance Company,301 E. Fourth Street,Cincinnati,OH,45202-4201,POINT (-84.507376 39.100759)
+2274,39322,,General Security National Insurance Company,"199 Water Street, 21st Floor",New York,NY,10038,POINT (-74.004621 40.707097)
+2187,37915,,Essentia Insurance Company,"10275 W. Higgins Road, Suite 750",Rosemont,IL,60018,POINT (-87.882804 41.997794)
+2901,22608,817-265-2000,National Specialty Insurance Company,1900 L. Don Dodson Drive,Bedford,TX,76021,POINT (-97.14012 32.84179)
+2888,10220,,Accelerant National Insurance Company,"400 Northridge Road, Suite 800",Sandy Springs,GA,30350,POINT (-84.346218 33.981871)
+1756,31925,800-852-8208,Falls Lake National Insurance Company,PO Box 97488,Raleigh,NC,27624,
+0529,26247,,American Guarantee & Liability Insurance Company,1299 Zurich Way,Schaumburg,IL,60196,
+2930,10749,,Intrepid Insurance Company,"10851 Mastin Blvd., Suite 200",Overland Park,KS,66210,POINT (-94.702318 38.931811)
+0554,13420,,Badger Mutual Insurance Company,"1134 North 9th Street , Suite 150",Milwaukee,WI,53233,POINT (-87.922916 43.044661)
+0799,14982,,Penn Millers Insurance Company,436 Walnut Street,Philadelphia,PA,19106,POINT (-75.148957 39.947451)
+0739,22012,,Motors Insurance Corporation,"500 Woodward Ave, 14th Floor",Detroit,MI,48226,POINT (-83.04504 42.329525)
+2953,32867,800-874-8742,Universal Fire & Casualty Insurance Company,3214 Chicago Drive,Hudsonville,MI,49426,POINT (-85.861942 42.870197)
+0669,21873,,Fireman's Fund Insurance Company,"1465 N. McDowell Blvd., Suite 100",Petaluma,CA,94954,POINT (-122.669374 38.280346)
+2754,38954,,ProAssurance Casualty Company,100 Brookwood Place,Birmingham,AL,35209,POINT (-86.772904 33.465808)
+2243,40118,,Trustgard Insurance Company,"617 S High Street, P. O. Box 1218",Columbus,OH,43216-1218,POINT (-82.998168 39.949468)
+1954,35769,800 950-6060,Protective Property & Casualty Insurance Company,"14755 N. Outer Forty Drive, #400",St. Louis,MO,63017,
+0728,23396,,Amerisure Mutual Insurance Company,P.O. Box 2060,Farmington Hills,MI,48333-2060,
+3154,18961,,Crestbrook Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+1754,31577,,Iowa American Insurance Company,471 East Broad Street,Columbus,OH,43215,POINT (-82.988063 39.963698)
+2018,38067,800-422-4272,Economy Preferred Insurance Company,700 Quaker Lane,Warwick,RI,02886,POINT (-71.500068 41.678771)
+0681,14265,,Indiana Lumbermens Mutual Insurance Company,"2005 Market Street, Sutie 1200",Philadelphia,PA,19103-7008,POINT (-75.174679 39.953762)
+2696,11851,800-776-4737,Progressive Advanced Insurance Company,6300 Wilson Mills Rd.,Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+2563,40398,,Ashmere Insurance Company,"401 E. Las Olas Blvd, Suite 1540",Fort Lauderdale,FL,33301,POINT (-80.139212 26.119216)
+0930,24554,800-327-1414,"XL Insurance America, Inc.",70 Seaview Avenue,Stamford,CT,06902,POINT (-73.523237 41.041676)
+2674,26433,,Harco National Insurance Company,"4200 Six Forks Rd., Suite 1400",Raleigh,NC,27609,POINT (-78.639427 35.835675)
+2996,26310,800-440-5953,"Granite Re, Inc.",14001 Quailbrook Drive,Oklahoma City,OK,73134,POINT (-97.599768 35.612352)
+0625,20281,,Federal Insurance Company,202B Hall's Mill Road,Whitehouse Station,NJ,08889,POINT (-74.764901 40.644875)
+2914,26638,,Home-Owners Insurance Company,PO Box 30660,Lansing,MI,48909-8160,
+2529,38733,,Alaska National Insurance Company,7001 Jewell Lake Road,Anchorage,AK,99502,POINT (-149.951736 61.157036)
+2310,16624,,Allied World Specialty Insurance Company,"1690 New Britain Avenue, Suite 101",Farmington,CT,06032,POINT (-72.860203 41.708039)
+0525,20613,877-772-7824,SPARTA Insurance Company,"5 Batterson Park Road, 3rd Floor",Farmigton,CT,06032,POINT (-72.798263 41.708558)
+1321,22810,,Chicago Insurance Company,"225 W. Washington St., Suite 1800",Chicago,IL,60606,POINT (-87.634988 41.883208)
+2983,42706,,"Roche Surety and Casualty Company, Inc.","4107 North Himes Avenue, 2nd Floor",Tampa,FL,33607,POINT (-82.501358 27.976816)
+2165,19917,,Liberty Insurance Underwriters Inc.,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+0599,21032,,GLOBAL Reinsurance Corporation of America,"Two Logan Square, Suite 600",Philadelphia,PA,19103,
+2778,33006,,American Physicians Assurance Corporation,1301 N. Hagadorn Road,East Lansing,MI,48823,POINT (-84.462341 42.748912)
+1208,23418,800-722-4994,Mid-Continent Casualty Company,P. O. Box 1409,Tulsa,OK,74101,
+2610,28258,,Continental Indemnity Company,PO Box 3646,Omaha,NE,68103-0646,
+1959,22241,800 356-6886,MEDMARC Casualty Insurance Company,4795 Meadow Wood Lane Suite 335 West,Chantilly,VA,20151,POINT (-77.440922 38.871143)
+2687,32778,800-338-0753,Washington International Insurance Company,"1200 Main Street, Suite 800",Kansas City,MO,64105,POINT (-94.583196 39.09961)
+2954,32301,,TNUS Insurance Company,"Three Bala Plaza East, Suite 400",Bala,PA,19004,
+3250,16262,(800) 225-5636,Midwest Family Advantage Insurance Company,4401 Westown Parkway Ste 305,West Des Moines,IA,50266,POINT (-93.764241 41.595501)
+2549,33588,,First Liberty Insurance Corporation (The),175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+0504,10014,,Affiliated FM Insurance Company,PO Box 7500,Johnston,RI,02919,
+1733,26611,,Blackboard Insurance Company,"120 Broadway, 17th Floor",New York,NY,10271,
+0584,18767,,"Church Mutual Insurance Company, S.I.",3000 Schuster Lane,Merrill,WI,54452,POINT (-89.659702 45.190278)
+2055,21911,,"Allianz Reinsurance America, Inc.","1465 North McDowell Blvd, Suite 100",Petaluma,CA,94954,POINT (-122.669374 38.280346)
+2556,34738,,ARAG Insurance Company,"500 Grand Avenue, Suite 100",Des Moines,IA,50309,POINT (-93.624391 41.587962)
+0759,23841,,New Hampshire Insurance Company,"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+2779,10358,,Encompass Insurance Company,"3075 Sanders Road, Suite G4E",Northbrook,IL,60062,POINT (-87.873947 42.093908)
+3215,11134,,Rural Trust Insurance Company,"6301 Ivy Lane, Suite 506",Greenbelt,MD,20770,POINT (-76.897793 39.009291)
+2452,23680,,Odyssey Reinsurance Company,300 First Stamford Place,Stamford,CT,06902,POINT (-73.546913 41.045519)
+2092,25321,800-422-4272,Farmers Direct Property and Casualty Insurance Company,700 Quacker Lane,Warwick,RI,02886-6669,POINT (-71.500068 41.678771)
+2401,20982,,Country Casualty Insurance Company,P. O. Box 2100,Bloomington,IL,61702-2100,
+0196,14257,800-274-3531,IMT Insurance Company,P. O. Box 1336,Des Moines,IA,50306-1336,
+2805,31895,800-256-9052,American Interstate Insurance Company,2301 Highway 190 West,DeRidder,LA,70634-6005,POINT (-93.320071 30.846871)
+0765,25364,,Swiss Reinsurance America Corporation,175 King Street,Armonk,NY,10504,POINT (-73.727832 41.100545)
+2904,20362,800-388-1802,Mitsui Sumitomo Insurance Company of America,"15 Independence Blvd., PO Box 4602",Warren,NJ,07059,POINT (-74.573779 40.651745)
+1584,19860,,Argonaut Great Central Insurance Company,PO Box 469011,San Antonio,TX,78246-9011,
+0431,14559,,GuideOne Specialty Insurance Company,1111 Ashworth Road,West Des Moines,IA,50265-3538,POINT (-93.719132 41.584614)
+3190,19526,800-332-7977,UFG Specialty Insurance Company,PO Box 73909,Cedar Rapids,IA,52407-3909,
+1915,10936,,"Seneca Insurance Company, Inc.","199 Water ST, 20th Floor",New York,NY,10038,POINT (-74.004621 40.707097)
+3011,26794,,Plans' Liability Insurance Company,"265 Franklin Street, 9th Floor",Boston,MA,02110,POINT (-71.053555 42.356801)
+0621,23787,,Nationwide Mutual Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2517,40444,,Old Republic Surety Company,P. O. Box 1635,Milwaukee,WI,53201,
+2802,40843,,Universal Underwriters of Texas Insurance Company,1299 Zurich Way,Schaumburg,IL,60196,
+1360,24449,,Regent Insurance Company,One General Drive,Sun Prairie,WI,53596,
+3216,11932,,White Pine Insurance Company,"550 West Merrill Street, Suite 200",Birmingham,MI,48009,POINT (-83.219742 42.545052)
+0899,26093,800-421-3535,Nationwide Affinity Insurance Company of America,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2731,42331,,GuideOne America Insurance Company,1111 Ashworth Road,West Des Moines,IA,50265-3538,POINT (-93.719132 41.584614)
+0967,21253,,Garrison Property and Casualty Insurance Company,9800 Fredericksburg Road,San Antonio,TX,78288,POINT (-98.57653 29.537142)
+2069,40509,,EMC Reinsurance Company,P.O. Box 712,Des Moines,IA,50306-0712,
+2613,18058,,Philadelphia Indemnity Insurance Company,"One Bala Plaza, Suite 100",Bala Cynwyd,PA,19004,
+2712,19879,800-926-1887,Security National Insurance Company,P.O. Box 650771,Dallas,TX,75265-0771,
+2102,40517,888-595-8750,WCF National Insurance Company,PO Box 571918,Salt Lake City,UT,84157-1918,
+1392,22187,,Greater New York Mutual Insurance Company,200 Madison Ave.,New York,NY,10016,POINT (-73.982262 40.748761)
+1558,25666,,Travelers Indemnity Company of America (The),One Tower Square,Hartford,CT,06183,
+1565,20710,,Century Indemnity Company,PO Box 1000,Philadelphia,PA,19106,
+0849,25143,,State Farm Fire and Casualty Company,One State Farm Plaza,Bloomington,IL,61710-0001,
+2245,38970,800-431-1270,Markel Insurance Company,4521 Highwoods Parkway,Glen Allen,VA,23060,POINT (-77.578345 37.662466)
+2995,12305,866-206-5851,Accident Fund National Insurance Company,PO Box 40790,Lansing,MI,48901-7990,
+2046,22640,,Consolidated Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+0922,26077,,Lancer Insurance Company,PO Box 9004,Long Beach,NY,11561-9004,
+1148,19941,,American Commerce Insurance Company,3590 Twin Creeks Drive,Columbus,OH,43204,POINT (-83.101305 39.980119)
+1365,15571,800-445-3726,Illinois Casualty Company,P. O. Box 5018,Rock Island,IL,61204-5018,
+1934,10677,,Cincinnati Insurance Company (The),P. O. Box 145496,Cincinnati,OH,45214,
+3226,38997,,Sompo America Fire & Marine Insurance Company,"1221 Avenue of the Americas, 18th Floor",New York,NY,10020,POINT (-73.981102 40.758957)
+2680,35955,,California Casualty General Insurance Company of Oregon,P. O. Box M,San Mateo,CA,94402-0080,
+2008,38318,,Starr Indemnity & Liability Company,"399 Park Avenue, 3rd Floor",New York,NY,10022,POINT (-73.972195 40.75942)
+2200,38601,,MIC Property and Casualty Insurance Corporation,"500 Woodward Ave, 14th Floor",Detrpot,MI,48226,POINT (-83.04504 42.329525)
+0788,22748,,Pacific Employers Insurance Company,PO Box 1000,Philadelphia,PA,19106,
+2965,27154,,Atlantic Specialty Insurance Company,"605 Highwat 169 North, Suite 800",Plymouth,MN,55441,
+2688,13984,,GuideOne Property & Casualty Insurance Company,1111 Ashworth Road,West Des Moines,IA,50265-3538,POINT (-93.719132 41.584614)
+2572,29700,,North American Elite Insurance Company,1200 Main Street Suite 800,Kansas City,MO,64105,POINT (-94.583196 39.09961)
+1678,13889,,Farmers Mutual Insurance Company of Nebraska,501 S. 13th St,Lincoln,NE,68508-2703,POINT (-96.702656 40.808842)
+1368,24082,,Ohio Security Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2017,37540,,"Beazley Insurance Company, Inc.",30 Batterson Park Road,Farmington,CT,06032,POINT (-72.797842 41.708978)
+1168,21407,,EMCASCO Insurance Company,P.O. Box 712,Des Moines,IA,50306-0712,
+0665,22357,,Hartford Accident and Indemnity Company,One Hartford Plaza,Hartford,CT,06115,
+1293,19283,,American Standard Insurance Company of Wisconsin,6000 American Parkway,Madison,WI,53783,POINT (-89.285375 43.155727)
+2735,43753,,Republic Indemnity Company of California,4500 Park Granada Blvd Suite 300,Calabasas,CA,91302,POINT (-118.64626 34.149926)
+1893,35289,,Continental Insurance Company (The),151 N. Franklin Street,Chicago,IL,60606,POINT (-87.635367 41.884568)
+2761,16322,800-776-4737,Progressive Direct Insurance Company,6300 Wilson Mills Road,Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+2363,11770,800-776-4737,United Financial Casualty Company,6300 Wilson Mills Road,Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+3202,44768,,Vantapro Specialty Insurance Company,"1690 New Britain Avenue, Suite 101",Farmington,CT,06032,POINT (-72.860203 41.708039)
+2866,27987,,Northfield Insurance Company,One Tower Square,Hartford,CT,06183,
+1913,31194,,Travelers Casualty and Surety Company of America,One Tower Square,Hartford,CT,06183,
+2183,37257,,Praetorian Insurance Company,One General Drive,Sun Prairie,WI,53596,
+0862,19453,,Transatlantic Reinsurance Company,One Liberty Plaza,New York,NY,10006,
+2881,17558,,Old Guard Insurance Company,PO Box 5001,Westfield Center,OH,44251-5001,
+1284,23361,,Shelter General Insurance Company,1817 West Broadway,Columbia,MO,65218,POINT (-92.367171 38.953504)
+0889,25933,,Universal Surety Company,"601 S. 12th St., P. O. Box 80468",Lincoln,NE,68501,POINT (-96.704092 40.807721)
+0810,24295,,Providence Washington Insurance Company,"411 5th Avenue, 5th Floor",New York,NY,10016,POINT (-73.983082 40.750509)
+2583,29530,,Digital Affect Insurance Company,"76 St. Paul Street, Suite 500",Burlington,VT,05401,POINT (-73.214146 44.477724)
+0903,13188,800-331-6053,Western Surety Company,151 N. Franklin St.,Chicago,IL,60606,POINT (-87.635367 41.884568)
+2936,10348,,Arch Reinsurance Company,PO Box 1988,Morristown,NJ,07962-1988,
+2502,40436,,Stratford Insurance Company,"300 Kimball Drive, suite 500",Parsippany,NJ,07054,POINT (-74.407587 40.859509)
+0695,23035,,Liberty Mutual Fire Insurance Company,175 Berkeley St.,Boston,MA,02116,POINT (-71.072399 42.349966)
+2587,36137,,Travelers Commercial Insurance Company,One Tower Square,Hartford,CT,06183,
+0896,15350,,West Bend Mutual Insurance Company,1900 South 18th Ave.,West Bend,WI,53095,POINT (-88.200952 43.398727)
+1859,12262,,Pennsylvania Manufacturers' Association Insurance Company,380 Sentry Parkway,Blue Bell,PA,19422-2328,POINT (-75.270967 40.132553)
+2959,28535,800-894-5020,"Triangle Insurance Company, Inc.",PO Box 1189,Enid,OK,73702-1189,
+1745,28223,800-228-6700,Nationwide Agribusiness Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2889,28860,,Clear Blue Insurance Company,B7 Tabonuco Street Suite 912,Guaynabo,PR,00968,
+2860,30120,,ZNAT Insurance Company,21233 Califa Street,Woodland Hills,CA,91367,POINT (-118.594568 34.17709)
+0503,20699,,ACE Property and Casualty Insurance Company,PO Box 1000,Philadelphia,PA,19106,
+3032,38911,,Berkley National Insurance Company,PO Box 1594,Des Moines,IA,50306-1594,
+2882,11123,888-372-7512,Safety First Insurance Company,1832 Schuetz Rd.,St. Louis,MO,63146,POINT (-90.428235 38.694215)
+2042,29688,,Allstate Fire and Casualty Insurance Company,"3075 Sanders Road, Suite G4E",Northbrook,IL,60062,POINT (-87.873947 42.093908)
+3299,11162,800-888-2738,Insurance Company of the South,"10751 Deerwood Park Blvd., Suite 200",Jacksonville,FL,32256,POINT (-81.534283 30.247782)
+2100,11835,,PartnerRe America Insurance Company,"200 First Stamford Place, Suite 400",Stamford,CT,06902,POINT (-73.547823 41.04522)
+0844,19070,,Standard Fire Insurance Company (The),One Tower Square,Hartford,CT,06183,
+2834,11014,,BHHC Special Risks Insurance Company,"1314 Douglas Street, Suite 1300",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+2265,42978,800-852-2244,American Security Insurance Company,"260 Interstate North Circle, SE",Atlanta,GA,30339,POINT (-84.463627 33.898602)
+2500,32603,800 866-2308,Berkley Insurance Company,"475 Steamboat Road, 1st Floor",Greenwich,CT,06830,POINT (-73.62342 41.01857)
+0668,11452,,Hartford Steam Boiler Inspection & Insurance Company (The),One State St.,Hartford,CT,06102,
+3236,16044,,Everest Denali Insurance Company,Warren Corporate Center,Warren,NJ,07059,
+3234,35629,,Association Casualty Insurance Company,P.O. Box 618,Columbia,MO,65205,
+2672,35181,,Executive Risk Indemnity Inc.,202B Hall's Mill Road,Whitehouse,NJ,08889,
+1962,32220,800-245-2425,21st Century North America Insurance Company,"21st Century Plaza, 3 Beaver Valley Road",Wilmington,DE,19803,
+1302,25879,,"Fidelity and Guaranty Insurance Underwriters, Inc.",One Tower Square,Hartford,CT,06183,
+2578,37621,,Toyota Motor Insurance Company,"6565 Headquarters Drive, PM351",Plano,TX,75024-5965,POINT (-96.840753 33.080405)
+2158,35408,,Imperium Insurance Company,"800 Gessner, Suite 600",Houston,TX,77024,POINT (-95.544397 29.777413)
+3000,12758,,"CUMIS Specialty Insurance Company, Inc.",PO Box 1084,Madison,WI,53701,
+1404,24228,,Pekin Insurance Company,2505 Court St.,Pekin,IL,61558,POINT (-89.60973 40.554442)
+2609,33723,,Great American Spirit Insurance Company,301 E. Fourth Street,Cincinnati,OH,45202-4201,POINT (-84.507376 39.100759)
+2345,37834,800-776-4737,Progressive Preferred Insurance Company,6300 Wilson Mills Road,Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+3306,22225,,Trisura Insurance Company,"210 Park Avenue, Suite 1400",Oklahoma City,OK,73102,POINT (-97.517325 35.468792)
+3006,10051,800-888-2738,Lyndon Southern Insurance Company,"10751 Deerwood Park Blvd, Suite 200",Jacksonville,FL,32256,POINT (-81.534283 30.247782)
+1993,26050,,Response Worldwide Insurance Company,"200 East Randolph Street, Suite 3300",Chicago,IL,60601,POINT (-87.621619 41.884493)
+2424,29157,800-258-2667,United Wisconsin Insurance Company,PO Box 40790,Lansing,MI,48901-7990,
+2848,33391,,"ProAssurance Indemnity Company, Inc.",PO Box 590009,Birmingham,AL,35259-0009,
+0663,24988,,Sentry Insurance Company,1800 North Point Drive,Stevens Point,WI,54481,POINT (-89.572644 44.541214)
+2435,29459,,Twin City Fire Insurance Company,One Hartford Plaza,Hartford,CT,06115,
+1105,22063,,Government Employees Insurance Company,GEICO Plaza,Washington,DC,20076,
+0429,14494,,Merchants Bonding Company (Mutual),PO Box 14498,Des Moines,IA,50306-3498,
+2638,12831,800-877-4567,"State National Insurance Company, Inc.",1900 L. Don Dodson Drive,Bedford,TX,76021,POINT (-97.14012 32.84179)
+1604,23434,,Middlesex Insurance Company,1800 North Point Drive,Stevens Point,WI,54481,POINT (-89.572644 44.541214)
+2796,21962,,Pennsylvania Insurance Company,P.O. Box 3646,Omaha,NE,68103-0646,
+2791,23574,,Midwest Family Mutual Insurance Company,4401 Westown Parkway Ste 305,West Des Moines,IA,50266,POINT (-93.764241 41.595501)
+1454,22004,,CIM Insurance Corporation,"500 Woodward Ave, 14th Floor",Detroit,MI,48226,POINT (-83.04504 42.329525)
+1887,35300,800-421-0504,Allianz Global Risks US Insurance Company,"225 W. Washington St., #1800",Chicago,IL,60606,POINT (-87.634988 41.883208)
+3149,10127,,Allied Insurance Company of America,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+0919,10510,,Carolina Casualty Insurance Company,"5011 Gate Parkway, Building 200, Suite 200",Jacksonville,FL,32256,POINT (-81.535737 30.246241)
+2103,39306,,Fidelity and Deposit Company of Maryland (The),1299 Zurich Way,Schaumburg,IL,60196-1056,
+2372,17230,,Allstate Property and Casualty Insurance Company,"3075 Sanders Rd., Suite G4E",Northbrook,IL,60062,POINT (-87.873947 42.093908)
+3257,16356,,Chiron Insurance Company,PO Box 370,Algona,IA,50511,
+2422,36781,,FMH Ag Risk Insurance Company,6785 Westown Parkway,West Des Moines,IA,50266,POINT (-93.802226 41.595104)
+3261,40088,,American Inter-Fidelity Exchange,"9223 Broadway, Suite A",Merrillvill,IN,46410,POINT (-87.33635 41.459628)
+2326,30058,,Scor Reinsurance Company,"28 Liberty Street, Suite 5400",New York,NY,10005,POINT (-74.008768 40.708114)
+2477,34347,,Colonial American Casualty and Surety Company,1299 Zurich Way,Schaumburg,IL,60196-1056,
+2378,13137,,Viking Insurance Company of Wisconsin,1800 North Point Drive,Stevens Point,WI,54481,POINT (-89.572644 44.541214)
+2968,10799,(800) 324-6020,GeoVera Insurance Company,1455 Oliver Road,Fairfield,CA,94534,POINT (-122.068989 38.259143)
+2581,10324,,Addison Insurance Company,118 2nd Avenue SE,Cedar Rapids,IA,52407-3909,POINT (-91.668096 41.977646)
+2375,16217,800-347-1961,National Farmers Union Property and Casualty Company,PO Box 3199,Winston-Salem,NC,27102,
+1631,11255,800-248-4228,Caterpillar Insurance Company,2120 West End Avenue,Nashville,TN,37203-0001,POINT (-86.802881 36.149639)
+2527,29742,,Integon National Insurance Company,"5630 University Parkway, Mail Code 4A05",Winston-Salem,NC,27105,POINT (-80.275533 36.176773)
+0723,24767,,St. Paul Fire and Marine Insurance Company,One Tower Square,Hartford,CT,06183,
+2864,11000,,"Sentinel Insurance Company, Ltd.",One Hartford Plaza,Hartford,CT,06115,
+3280,11089,,Rock Ridge Insurance Company,"B-& Tobonuco Street, Suite 912",Guaynabo,PR,00968,
+3268,12356,,CM Regent Insurance Company,"300 Sterling Parkway, Suite 1400",Mechanicsburg,PA,17050,
+0918,21687,,Mid-Century Insurance Company,"Farmers Ins Group, Regulatory Affairs Dept.",Grand Rapids,MI,49501,
+2908,25585,,Watford Insurance Company,"445 South St., Suite 220",Morristown,NJ,07962,POINT (-74.467138 40.775805)
+2978,39551,,Continental Heritage Insurance Company,"200 Park Avenue, Suite 400",Orange Village,OH,44122,
+2809,10829,,Markel Global Reinsurance Company,10275 W. Higgins Rd. Suite 750,Rosemont,IL,60018,POINT (-87.882804 41.997794)
+2253,22837,,AGCS Marine Insurance Company,"225 W. Washington Street, Suite 1800",Chicago,IL,60606,POINT (-87.634988 41.883208)
+2019,36455,,Allstate Northbrook Indemnity Company,"3075 Sanders Rd., Suite G4E",Northbrook,IL,60062-7127,POINT (-87.873947 42.093908)
+2240,41491,,GEICO Casualty Company,One Geico Plaza,Washington,DC,20047-0001,
+2774,10054,,Securian Casualty Company,400 Robert Street North,St. Paul,MN,55101,POINT (-93.092013 44.948629)
+2843,25780,,Williamsburg National Insurance Company,26255 American Drive,Southfield,MI,48034,POINT (-83.303424 42.490653)
+1598,22233,,Select Insurance Company,One Tower Square,Hartford,CT,06183,
+1638,22039,,General Reinsurance Corporation,120 Long Ridge Road,Stamford,CT,06902,POINT (-73.553308 41.077632)
+2543,24066,,American Fire and Casualty Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+1479,24813,800-854-6115,Balboa Insurance Company,4101 MacArthur Blvd,Newport Beach,CA,92660,POINT (-117.863662 33.662811)
+2605,11800,,Foremost Property and Casualty Insurance Company,"Farmers Ins Group, Regulatory Affairs Dept.",Grand Rapids,MI,49501,
+1279,10847,,"CUMIS Insurance Society, Inc.",P. O. Box 1084,Madison,WI,53701,
+1188,12416,,Protective Insurance Company,"111 Congressional Blvd., Suite 500",Carmel,IN,46032,POINT (-86.153469 39.958281)
+2817,10178,800 226-3224,FCCI Insurance Company,6300 University Parkway,Sarasota,FL,34240-8424,POINT (-82.435564 27.38635)
+2829,10957,,Alamance Insurance Company,CityPlace II. 185 Asylum Street. 7th Floor,Hartford,CT,06103-3408,
+3115,11595,,"Merchants National Bonding, Inc.",PO box 14498,Des Moines,IA,50306-3498,
+0502,19038,,Travelers Casualty and Surety Company,One Tower Square,Hartford,CT,06183,
+0936,19615,,American Reliable Insurance Company,"8667 East Hartford Drive, Suite 225",Scottsdale,AZ,85255,POINT (-111.89366 33.641932)
+2553,42404,,Liberty Insurance Corporation,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+1503,20702,,ACE Fire Underwriters Insurance Company,PO Box 1000,Philadelphia,PA,19106,
+0747,20478,,National Fire Insurance Company of Hartford,151 N. Franklin St.,Chicago,IL,60606,POINT (-87.635367 41.884568)
+0426,14338,,Iowa Mutual Insurance Company,471 East Broad Street,Columbus,OH,43215,POINT (-82.988063 39.963698)
+2824,10216,,American Contractors Indemnity Company,"801 South Figueroa Street, Suite 700",Los Angeles,CA,90017,POINT (-118.261568 34.047533)
+3142,38300,,"Samsung Fire & Marine Insurance Co., Ltd. (U.S. Branch)","105 Challenger Road, 5th Floor",Ridgefield Park,NJ,07660,POINT (-74.011917 40.853011)
+2822,18694,800-829-8165,Great Midwest Insurance Company,"800 Gessner, Suite 600",Houston,TX,77024-1206,POINT (-95.544376 29.776003)
+3238,16109,,Starr Specialty Insurance Company,399 Park Avenue 3rd floor,New York,NY,10022,POINT (-73.972195 40.75942)
+2218,42498,,Cameron National Insurance Company,PO Box 768,Cameron,MO,64429,
+2413,31232,,Work First Casualty Company,"1100 East 6600 South, Suite 260",Salt Lake City,UT,84121,POINT (-111.861197 40.631575)
+2109,32700,888-841-6472,Owners Insurance Company,"5925 Council St., NE, Suite 100",Cedar Rapids,IA,52402,POINT (-91.658313 42.037165)
+2806,19720,,American Alternative Insurance Corporation,555 College Road East,Princeton,NJ,08543,POINT (-74.593587 40.351455)
+2591,21830,,New England Insurance Company,100 High Street,Boston,MA,02110,POINT (-71.055165 42.354177)
+0736,23582,,Harleysville Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+3004,20516,,Euler Hermes North America Insurance Company,800 Red Brook Blvd.,Owings Mills,MD,21117,POINT (-76.809078 39.413085)
+2993,10758,,Colonial Surety Company,"123 Tice Boulevard, Suite 250",Woodcliff Lake,NJ,07677,POINT (-74.077798 41.043518)
+3181,24465,,Western National Assurance Company,4700 W 77th Street,Edina,MN,55435-4818,POINT (-93.344951 44.863179)
+2350,17221,,Homesite Insurance Company,"One Federal Street, Suite 400",Boston,MA,02110,
+2346,42919,800-776-4737,Progressive Northwestern Insurance Company,6300 Wilson Mills Road,Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+3118,11050,800-257-1900,Amerisure Partners Insurance Company,26777 Halsted Road,Farmington Hills,MI,48331-3586,POINT (-83.416831 42.48971)
+2856,10642,800-201-0450,Cherokee Insurance Company,34200 Mound Road,Sterling Heights,MI,48310,POINT (-83.047894 42.544945)
+2945,21113,,United States Fire Insurance Company,PO Box 1973,Morristown,NJ,07962,
+0510,19224,,St. Paul Protective Insurance Company,One Tower Square,Hartford,CT,06183,
+1689,21989,,Compass Insurance Company,"3116 W. Montgomery Road, Ste C, Box 305",Maineville,OH,45039,
+0717,11843,,Medical Protective Company (The),5814 Reed Road,Ft. Wayne,IN,46835,POINT (-85.081556 41.132103)
+0574,20532,,Clarendon National Insurance Company,"411 5th Avenue, Floor 5",New York,NY,10016,POINT (-73.983082 40.750509)
+1637,19062,,"Automobile Insurance Company of Hartford, Connecticut (The)",One Tower Square,Hartford,CT,06183,
+2189,41181,,Universal Underwriters Insurance Company,1299 Zurich Way,Schaumburg,IL,60196,
+0607,22926,800-422-4272,Economy Fire & Casualty Company,700 Quaker Lane,Warwick,RI,02886,POINT (-71.500068 41.678771)
+1856,11177,,First Financial Insurance Company,"185 Asylum Street, 7th Floor",Hartford,CT,06103,POINT (-72.676359 41.767253)
+2192,38660,,MIC General Insurance Corporation,"5630 University Parkway, Mail Code 4A05",Winston-Salem,NC,27105,POINT (-80.275533 36.176773)
+2792,19623,800-749-6419,American Summit Insurance Company,PO Box 130059,Dallas,TX,75313,
+3048,12986,,Integrity Property & Casualty Insurance Company,671 S. High Street,Columbus,OH,43206,POINT (-82.998044 39.948796)
+2909,10071,800-588-7400,Encompass Insurance Company of America,"3075 Sanders Road, Suite G4E",Northbrook,IL,60062,POINT (-87.873947 42.093908)
+3318,11090,,Incline Casualty Company,"13215 Bee Cave Parkway, Suite B-150",Austin,TX,73783,POINT (-97.945246 30.314051)
+3078,20184,800-552-5181,National Mutual Insurance Company (The),1 Insurance Square,Celina,OH,45822-1690,
+2990,41998,800-543-2644,American Southern Home Insurance Company,PO Box 5323,Cincinnati,OH,45201-5323,
+0910,24740,,SAFECO Insurance Company of America,175 Berkeley St.,Boston,MA,02116,POINT (-71.072399 42.349966)
+2994,12304,866-206-5851,Accident Fund General Insurance Company,PO Box 40790,Lansing,MI,48901-7990,
+2643,40029,,Explorer Insurance Company,PO Box 509039,San Diego,CA,92150-9039,
+1237,22322,,Greenwich Insurance Company,70 Seaview Avenue,Stamford,CT,06902,POINT (-73.523237 41.041676)
+3312,16651,,Pekin Select Insurance Company,2505 Court Street,Pekin,IL,61558,POINT (-89.60973 40.554442)
+2764,10212,,Allmerica Financial Alliance Insurance Company,440 Lincoln Street,Worcester,MA,01653,POINT (-71.780784 42.291928)
+0869,25658,,Travelers Indemnity Company (The),One Tower Square,Hartford,CT,06183,
+2637,42234,800-422-1370,Minnesota Lawyers Mutual Insurance Company,"333 South 7th Street, #2200",Minneapolis,MN,55402,POINT (-93.26724 44.974787)
+1177,19801,,Argonaut Insurance Company,PO Box 469011,San Antonio,TX,78246-9011,
+1325,25151,,State Farm General Insurance Company,One State Farm Plaza,Bloomington,IL,61710-0001,
+0654,23809,,Granite State Insurance Company,"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+3008,21784,,"Firemen's Insurance Company of Washington, D.C.",PO Box 61038,Richmond,VA,23261,
+2247,42587,,Depositors Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2571,19780,,Specialty Risk of America,401 Fayette Avenue,Springfield,IL,62704,POINT (-89.659143 39.791567)
+0770,24015,,Northland Insurance Company,One Tower Square,Hartford,CT,06183,
+0619,13722,888-333-8198,KnightBrook Insurance Company,"4751 Wilshire Blvd., Suite 111",Los Angeles,CA,90010,POINT (-118.333824 34.062024)
+2703,37060,,Old United Casualty Company,P. O. Box 795,Shawnee Mission,KS,66201,
+1904,42439,,Toa Reinsurance Company of America (The),"177 Madison Ave., CN 1930",Morristown,NJ,07962,POINT (-74.457714 40.789131)
+1768,36919,,Hawkeye-Security Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2294,22268,800-852-8208,Infinity Insurance Company,2201 4th Avenue North,Birmingham,AL,35203,POINT (-86.804285 33.518757)
+2780,10357,866-752-8731,Renaissance Reinsurance U.S. Inc.,"140 Broadway, 42nd Floor",New York,NY,10005,POINT (-74.010646 40.709042)
+1663,24260,800-776-4737,Progressive Casualty Insurance Company,6300 Wilson Mills Road,Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+2683,43460,,Aspen American Insurance Company,"175 Capital Blvd, Suite 300",Rocky Hill,CT,06067,POINT (-72.666356 41.648689)
+2831,40045,800 866-2308,StarNet Insurance Company,PO Box 9190,Des Moines,IA,50306,
+2803,36650,,Guarantee Company of North America USA (The),"One Towne Square, Suite 1470",Southfield,MI,48706,
+2167,11126,,Sompo America Insurance Company,"1221 Avenue of the Americas, 18th Floor",New York,NY,10020,POINT (-73.981102 40.758957)
+1273,13528,,Brotherhood Mutual Insurance Company,P. O. Box 2227,Ft. Wayne,IN,46801,
+3298,16561,,Digital Edge Insurance Company,"76 St. Paul Street, Suite 500",Burlington,VT,05401,POINT (-73.214146 44.477724)
+2449,10340,,Stonington Insurance Company,One General Drive,Sun Prairie,WI,53596,
+2635,28207,,"Anthem Insurance Companies, Inc.",220 Virginia Avenue,Indianapolis,IN,46204,POINT (-86.1514 39.762993)
+1328,23248,,Occidental Fire & Casualty Company of North Carolina,"4200 Six Forks Rd., Suite 1400",Raleigh,NC,27609,POINT (-78.639427 35.835675)
+2651,44393,,West American Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+0597,25623,,Phoenix Insurance Company (The),One Tower Square,Hartford,CT,06183,
+1880,16810,800-503-3724,American Mercury Insurance Company,P. O. Box 728847,Oklahoma City,OK,73172-8847,
+1820,26921,,Everest Reinsurance Company,100 Everest Way,Warren,NJ,07059,
+2222,40169,800-422-4272,Farmers Casualty Insurance Company,700 Quaker Lane,Warwick,RI,02886-6669,POINT (-71.500068 41.678771)
+2852,12866,,T.H.E. Insurance Company,70 Searview Avenue,Stamford,CT,06902,POINT (-73.523237 41.041676)
+3237,36226,,United Casualty and Surety Insurance Company,292 Newbury Street Suite 105,Boston,MA,02115,POINT (-71.084743 42.349001)
+2216,42765,,Centurion Casualty Company,"9800 Health Care Lane, MN006-W500",Minnetonka,MN,55343,POINT (-93.403887 44.895294)
+2851,20990,,Country Mutual Insurance Company,PO Box 2100,Bloomington,IL,61702-2100,
+1931,23833,,AtHome Insurance Company,"581 Main Street, Suite 400",Woodbridge,NJ,07095,POINT (-74.30074 40.54511)
+2759,34037,800-486-5616,Hallmark Insurance Company,"5420 Lyndon B. Johnson Frwy, Suite 1100",Dallas,TX,75240-2345,POINT (-96.817518 32.923085)
+2331,37877,,Nationwide Property and Casualty Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+1336,21172,800-325-3619,Vanliner Insurance Company,National Interstate Companies,Richfield,OH,44286-9000,
+0609,21296,,Pinnacle National Insurance Company,1900 L. Don Dodson Drive,Bedford,TX,76021,POINT (-97.14012 32.84179)
+2474,29580,,Berkley Regional Insurance Company,PO Box 9190,Des Moines,IA,50306,
+3245,42617,,MAG Mutual Insurance Company,"3535 Piedmont Rd. Building 14, Suite 1000",Atlanta,GA,30305-1518,POINT (-84.378578 33.850515)
+1711,10952,800-625-4212,Transamerica Casualty Insurance Company,6400 C Street SW,Cedar Rapids,IA,52499,POINT (-91.637236 41.915311)
+2573,26069,,Wausau Business Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+1109,13978,,Florists' Mutual Insurance Company,1 Horticultural Lane,Edwardsville,IL,62025,POINT (-89.88847 38.794216)
+0752,19445,,"National Union Fire Insurance Company of Pittsburgh, Pa.","1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+1249,25186,,EMC Property & Casualty Company,P. O. Box 712,Des Moines,IA,50306-0712,
+2494,18023,800-482-2726,Star Insurance Company,26255 American Drive,Southfield,MI,48034,POINT (-83.303424 42.490653)
+0696,23043,,Liberty Mutual Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+1833,26832,,Great American Alliance Insurance Company,301 E. Fourth Street,Cincinnati,OH,45202-4201,POINT (-84.507376 39.100759)
+0558,20095,800-475-4477,BITCO General Insurance Corporation,3700 Market Square Circle,Davenport,IA,52807-2309,
+2536,27065,,Rockford Mutual Insurance Company,"527 Colman Center Dr., P. O. Box 5626",Rockford,IL,61125-0626,POINT (-88.962663 42.267047)
+0653,22098,800-258-5310,Grain Dealers Mutual Insurance Company,55 West Street,Keene,NH,03431,POINT (-72.280415 42.933382)
+0924,21326,,Empire Fire and Marine Insurance Company,1299 Zurich Way,Schaumburg,IL,60196,
+1434,23795,800-245-2425,21st Century Pacific Insurance Company,"21st Century Plaza, 3 Beaver Valley Road",Wilmington,DE,19803-1115,
+3055,35009,877-737-2245,"Financial Casualty & Surety, Inc.","3131 Eastside St., Suite 600",Houston,TX,77098,POINT (-95.42479 29.737317)
+2722,23442,,Patriot General Insurance Company,1800 North Point Drive,Stevens Point,WI,54481,POINT (-89.572644 44.541214)
+0664,13331,,Motorists Commercial Mutual Insurance Company,471 East Broad Street,Columbus,OH,43215,POINT (-82.988063 39.963698)
+1773,23515,,Midwestern Indemnity Company (The),175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+3304,17043,,Everett Cash Mutual Insurance Co.,10591 Lincoln Highway,Everett,PA,15537,POINT (-78.427478 40.023887)
+2012,37214,,American States Preferred Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2588,36161,,Travelers Property Casualty Insurance Company,One Tower Square,Hartford,CT,06183,
+2105,28665,,Cincinnati Casualty Company (The),P. O. Box 145496,Cincinnati,OH,45250-5496,
+2223,42579,,Allied Property and Casualty Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2367,41211,800-316-5607,Triton Insurance Company,3001 Meacham Blvd. Suite 100,Ft. Worth,TX,76137,POINT (-97.303333 32.824393)
+2785,27740,,North Pointe Insurance Company,One General Drive,Sun Prairie,WI,53596,
+2816,16535,,Zurich American Insurance Company,1299 Zurich Way,Schaumburg,IL,60196,
+1314,24139,,Old Republic General Insurance Corporation,307 North Michigan Ave.,Chicago,IL,60601,POINT (-87.624455 41.887502)
+2789,16063,,Unitrin Auto and Home Insurance Company,12926 Gran Bay Parkway West,Jacksonville,FL,32258,POINT (-81.52825 30.133439)
+1810,27138,,Midvale Indemnity Company,6000 American Parkway,Madison,WI,53783,POINT (-89.285375 43.155727)
+2359,39152,,Service American Indemnity Company,PO Box 26850,Austin,TX,78755,
+0855,12777,,Chubb Indemnity Insurance Company,202B Hall's Mill Road,Whitehouse Station,NJ,08889,POINT (-74.764901 40.644875)
+3041,21903,(800) 878-7389,ProCentury Insurance Company,"550 Polaris Parkway, Suite 300",Westerville,OH,43082,POINT (-82.947516 40.1459)
+2694,13200,,Universal Surety of America,151 N. Franklin St.,Chicago,IL,60604,POINT (-87.635367 41.884568)
+2459,29599,,U.S. Specialty Insurance Company,13403 Northwest Freeway,Houston,TX,77040-6094,POINT (-95.508397 29.850147)
+2286,39217,,QBE Insurance Corporation,One General Drive,Sun Prairie,WI,53596,
+1907,22772,,Integon Indemnity Corporation,"5630 University Parkway, Mail Code 4A05",Winston-Salem,NC,27105,POINT (-80.275533 36.176773)
+0413,13897,,Farmers Mutual Hail Insurance Company of Iowa,6785 Westown Parkway,West Des Moines,IA,50266,POINT (-93.802226 41.595104)
+2219,41750,,Travelers Constitution State Insurance Company,One Tower Squar,Hartford,CT,06183,
+0436,12718,,Developers Surety and Indemnity Company,P. O. Box 19725,Irvine,CA,92623-9725,
+2505,26565,800-628-8581,Ohio Indemnity Company,"250 East Broad St., 7th Floor",Columbus,OH,43215-3708,POINT (-82.993835 39.963036)
+3186,21210,,Auto Club Group Insurance Company,1 Auto Club Drive,Dearborn,MI,48126-4213,POINT (-83.220018 42.32354)
+0850,25178,,State Farm Mutual Automobile Insurance Company,One State Farm Plaza,Bloomington,IL,61701-0001,
+1275,14990,,Pennsylvania National Mutual Casualty Insurance Company,Two North Second Street,Harrisburg,PA,17105,
+2236,37478,,Hartford Insurance Company of the Midwest,One Hartford Plaza,Hartford,CT,06155-0001,
+3300,16510,,"Beazley American Insurance Company, Inc.",30 Batterson Park Road,Farmington,CT,06032,POINT (-72.797842 41.708978)
+1922,25054,,Hudson Insurance Company,"100 William Street, 5th Floor",New York,NY,10038,POINT (-74.007668 40.708325)
+2736,22179,,Republic Indemnity Company of America,"4500 Park Granada Blvd, Suite 300",Calabasas,CA,91302,POINT (-118.64626 34.149926)
+1327,23760,,Nationwide General Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+0445,10804,,Continental Western Insurance Company,P.O. Box 1594,Des Moines,IA,50306,
+3089,12260,,"CampMed Casualty & Indemnity Company, Inc.",440 Lincoln Street,Worcester,MA,20190,POINT (-71.780784 42.291928)
+1167,19100,,AMCO Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2711,36587,800-245-2425,Plymouth Rock Assurance Preferred Corporation,695 Atlantic Avenue,Boston,MA,02111,POINT (-71.056024 42.351487)
+2339,13234,800-525-7486,Wilshire Insurance Company,"4200 Six Forks Road, Suite 1400",Raleigh,NC,27609,POINT (-78.639427 35.835675)
+2404,20133,,Response Worldwide Direct Auto Insurance Company,"200 East Randolph Street, Ste. 3300",Chicago,IL,60601,
+2794,12572,,Selective Insurance Company of America,40 Wantage Avenue,Branchville,NJ,07890,POINT (-74.74656 41.152318)
+2162,40827,,"Virginia Surety Company, Inc.",175 W Jackson,Chicago,IL,60604,POINT (-87.633187 41.878118)
+0532,21857,(888) 466-7883,American Insurance Company (The),"225 W Washington Street, Suite 1800",Chicago,IL,60606,POINT (-87.634988 41.883208)
+3172,21075,,Transverse Insurance Company,"155 Village Blvd, Suite 205",Princeton,NJ,08540,POINT (-74.61196 40.355576)
+2423,38962,,Genesis Insurance Company,120 Long Ridge Road,Stamford,CT,06902,POINT (-73.553308 41.077632)
+2878,44318,,Admiral Indemnity Company,"301 Route 17 North, Suite 900",Rutherford,NJ,07070,
+0926,15377,,Western National Mutual Insurance Company,Edina Corporate Center,Edina,MN,55435-4818,
+2892,10985,,Fortuity Insurance Company,One Mutual Avenue,Frankenmuth,MI,48787-0001,
+0531,19518,203-964-5200,"Catlin Insurance Company, Inc.",70 Seaview Avenue,Stanford,CT,06902,POINT (-73.523237 41.041676)
+0780,24112,,Westfield Insurance Company,P. O. Box 5001,Westfield Center,OH,44251-5001,
+1862,24821,800 854-6115,Meritplan Insurance Company,P.O. Box 19702,Irvine,CA,92623-9702,
+3285,10946,,Arch Property Casualty Insurance Company,"Harborside 3, 210 Hudson Street, Suite 300",Jersey City,NJ,07311-1107,
+3121,14167,,GuideOne National Insurance Company,1111 Ashworth Road,West Des Moines,IA,50265-3538,POINT (-93.719132 41.584614)
+2832,22454,800-422-0794,Mendakota Insurance Company,"3343 Perimeter Hill, Suite 214",Nashville,TN,37211,POINT (-86.694558 36.084899)
+2741,28304,,Federated Service Insurance Company,121 East Park Square,Owatonna,MN,55060,POINT (-93.225466 44.084027)
+2622,31135,,Great American Security Insurance Company,301 E. Fourth Street,Cincinnati,OH,45202-4201,POINT (-84.507376 39.100759)
+0516,21849,,American Automobile Insurance Company,"225 W. Washington St., Suite 1800",Chicago,IL,60606,POINT (-87.634988 41.883208)
+1694,23469,800-759-9008,American Modern Home Insurance Company,P. O. Box 5323,Cincinnati,OH,45201-5323,
+1344,21008,,Country Preferred Insurance Company,PO Box 2100,Bloomington,IL,61702-2100,
+2799,25895,,United States Liability Insurance Company,"1190 Devon Park Drive, PO Box 6700",Wayne,PA,19087-2191,POINT (-75.396673 40.080739)
+3248,16203,,CM Select Insurance Company,"3000 Schuster Lane, PO Box 357",Merrill,WI,54452,POINT (-89.659702 45.190278)
+3084,36927,,Colony Specialty Insurance Company,PO Box 469011,San Antonio,TX,78246-9011,
+2921,19530,,Hallmark National Insurance Company,5420 Lyndon B. Johnson Frwy,Dallas,TX,75240-2345,POINT (-96.817518 32.923085)
+0744,23663,,National American Insurance Company,P. O. Box 9,Chandler,OK,74834,
+1996,14184,,"ACUITY, A Mutual Insurance Company",2800 S. Taylor Drive,Sheboygan,WI,53081,POINT (-87.755254 43.726244)
+2788,28460,,Sentry Casualty Company,1800 North Point Drive,Stevens Point,WI,54481,POINT (-89.572644 44.541214)
+0685,22713,,Insurance Company of North America,PO Box 1000,Philadelphia,PA,19106,
+2664,37885,,XL Specialty Insurance Company,70 Seaview Avenue,Stamford,CT,06902,POINT (-73.523237 41.041676)
+2260,38636,,Partner Reinsurance Company of the U.S.,"200 First Stamford Place, Suite 400",Stamford,CT,06902,POINT (-73.547823 41.04522)
+2328,25240,800-942-6557,NAU Country Insurance Company,7333 Sunwood Drive,Ramsey,MN,55303,POINT (-93.453319 45.232366)
+3129,15911,,Berkley Casualty Company,3490 Independence Dr.,Birmingham,AL,35209,POINT (-86.782392 33.471521)
+3019,26182,,Harleysville Worcester Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2877,31470,,NorGUARD Insurance Company,PO Box AH,Wilkes-Barre,PA,18703-0020,
+2849,10239,,SECURA Supreme Insurance Company,PO Box 819,Appleton,WI,54912-0819,
+0678,23817,,Illinois National Insurance Co.,"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+2220,41769,,Travelers Casualty Company (The),One Tower Square,Hartford,CT,06183,
+2915,32905,,Property-Owners Insurance Company,PO Box 30660,Lansing,MI,48909-8160,
+2897,13285,,Allegheny Casualty Company,"4200 Six Forks Rd., Suite 1400",Raleigh,NC,27609,POINT (-78.639427 35.835675)
+2730,14516,(800) 347-7930,Harleysville Lake States Insurance Company,"One West Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2749,27871,,Western Agricultural Insurance Company,5400 University Avenue,West Des Moines,IA,50266-5997,POINT (-93.779306 41.600454)
+1760,31003,800-235-2942,Tri-State Insurance Company of Minnesota,PO Box 1594,Des Moines,IA,50306-1594,
+2639,25127,,State Auto Property & Casualty Insurance Company,518 East Broad St.,Columbus,OH,43215-3976,POINT (-82.986563 39.963871)
+1896,34649,,Centre Insurance Company,"4 World Trade Center, 53rd Floor",New York,NY,10007-2366,
+2776,24376,,Spinnaker Insurance Company,"1 Pluckemin Way, Suite 102",Bedminister Township,NJ,07921,POINT (-74.642986 40.649563)
+1492,22667,,ACE American Insurance Company,PO Box 1000,Philadelphia,PA,19106,
+1253,19631,,American Road Insurance Company (The),"One American Road, MD 7600",Dearborn,MI,48126-2701,
+2194,33480,,Clermont Insurance Company,"301 Route 17 North, Suite 900",Rutherford,NJ,07070,
+3106,10885,,Key Risk Insurance Company,PO Box 49129,Greensboro,NC,27419,
+0658,20303,,Great Northern Insurance Company,202B Hall's Mill Road,Whitehouse Station,NJ,08889,POINT (-74.764901 40.644875)
+2861,42447,,National General Assurance Company,PO Box 3199,Winston-Salem,NC,27102,
+2575,40460,,Sagamore Insurance Company,"111 Congressional Blvd., Suite 500",Carmel,IN,46032,POINT (-86.153469 39.958281)
+2442,37141,,Southern General Insurance Company,P. O. Box 28155,Atlanta,GA,30358,
+1141,25496,,StarStone National Insurance Company,"Harborside Financial Center, Plaza 5, Suite 2600",Jersey City,NJ,07311,
+2283,15725,,Cameron Mutual Insurance Company,PO Box 768,Cameron,MO,64429,
+2141,15385,,OneCIS Insurance Company,"1601 Sawgrass Corporate Pkwy, Suite 400",Fort Lauderdale,FL,33323,POINT (-80.340459 26.143778)
+0511,19232,,Allstate Insurance Company,"3075 Sanders Rd., Suite G4E",Northbrook,IL,60062,POINT (-87.873947 42.093908)
+0622,19194,,Farmers Alliance Mutual Insurance Company,1122 North Main St.,McPherson,KS,67460,POINT (-97.666941 38.381127)
+2126,24171,,Netherlands Insurance Company (The),175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+3082,10641,,Endurance American Insurance Company,"4 Manhattanville Road, 3rd Floor",Purchase,NY,10577,POINT (-73.71799 41.02335)
+1724,22683,,Teachers Insurance Company,1 Horace Mann Plaza,Springfield,IL,62715,POINT (-89.64359 39.80163)
+1980,20052,866-720-7861,National Liability & Fire Insurance Company,"1314 Douglas Street, Suite 1400",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+1660,19828,,Argonaut-Midwest Insurance Company,PO Box 469011,San Antonio,TX,78246-9011,
+2351,43575,,Indemnity Insurance Company of North America,PO Box 1000,Philadelphia,PA,19106,
+2302,43044,,Response Insurance Company,"200 East Randolph Street, Ste 3300",Chicago,IL,60601,POINT (-87.621619 41.884493)
+2364,38628,800-776-4737,Progressive Northern Insurance Company,6300 Wilson Mills Road,Cleveland,OH,44143-2109,POINT (-81.450826 41.538891)
+2010,27928,623-492-3110,AMEX Assurance Company,20022 N 31st Ave,Phoenix,AZ,85027,POINT (-112.125943 33.666919)
+2689,35602,800-421-2368,Obsidian Insurance Company,57 West 57th Street,New York,NY,10019,POINT (-73.976913 40.764204)
+2944,31348,,Crum & Forster Indemnity Company,PO Box 1973,Morristown,NJ,07960-1973,
+0885,25887,,United States Fidelity and Guaranty Company,One Tower Square,Hartford,CT,06183,
+0915,20397,,Vigilant Insurance Company,202B Hall's Mill Road,Whitehouse Station,NJ,08889,POINT (-74.764901 40.644875)
+1926,30945,,Plaza Insurance Company,518 East Broad Street,Columbus,OH,43215,POINT (-82.986563 39.963871)
+2715,19259,800-777-9656,Selective Insurance Company of South Carolina,40 Wantage Avenue,Branchville,NJ,07890,POINT (-74.74656 41.152318)
+2859,34940,866-300-6433,Omni Indemnity Company,"1400 Union Meeting Road, Suite 250",Blue Bell,PA,19422,POINT (-75.285084 40.148645)
+2876,14702,,EastGUARD Insurance Company,PO Box AH,Wilkes-Barre,PA,18703-0020,
+0547,21865,,Associated Indemnity Corporation,"1465 N. McDowell Blvd., Suite 100",Petaluma,CA,94954,POINT (-122.669374 38.280346)
+1400,23264,,Inland Insurance Company,P. O. Box 80468,Lincoln,NE,68501,
+2972,22985,,Sequoia Insurance Company,PO Box 1510,Monterey,CA,93942,
+2466,25011,,Wesco Insurance Company,"59 Maiden Lane, 43rd Floor",New York,NY,10038,POINT (-74.008478 40.708501)
+1627,12297,,Petroleum Casualty Company,22777 Springwoods Village Parkway,Spring,TX,77389,POINT (-95.444355 30.099623)
+2750,10019,877-514-3542,Greystone Insurance Company,300 First Stamford Place,Stamford,CT,06902,POINT (-73.546913 41.045519)
+1839,41840,,Allmerica Financial Benefit Insurance Company,440 Lincoln Street,Worcester,MA,01653,POINT (-71.780784 42.291928)
+2119,25984,,Graphic Arts Mutual Insurance Company,P. O. Box 530,Utica,NY,13503,
+0789,19399,,AIU Insurance Company,"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+2237,41483,,Farmington Casualty Company,One Tower Square,Hartford,CT,06183,
+0582,25615,,Charter Oak Fire Insurance Company (The),One Tower Square,Hartford,CT,06115,
+1709,25674,,Travelers Property Casualty Company of America,One Tower Square,Hartford,CT,06183,
+1876,13927,,Homesite Insurance Company of the Midwest,"One Federal Street, Suite 400",Boston,MA,02110,
+2862,13307,,Lexon Insurance Company,"10002 Shelbyville Road, Suite 100",Louisville,KY,40223,POINT (-85.568089 38.245721)
+1204,19410,,Commerce and Industry Insurance Company,"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+1282,19690,,American Economy Insurance Company,175 Berkeley St.,Boston,MA,02116,POINT (-71.072399 42.349966)
+0553,18988,,Auto-Owners Insurance Company,P. O. Box 30660,Lansing,MI,48909,
+3138,10945,,Tokio Marine America Insurance Company,"Three Bala Plaza East, Suite 400",Bala Cynwyd,PA,19004-1403,
+2690,28932,(800) 431-1270,Markel American Insurance Company,4521 Highwoods Parkway,Glen Allen,VA,23060,POINT (-77.578345 37.662466)
+2840,41335,,City National Insurance Company,1900 L. Don Dodson Dr.,Bedford,TX,76021,POINT (-97.14012 32.84179)
+3284,30279,,"Boston Indemnity Company, Inc.","800 Gessner Rd., Suite 600",Houston,TX,77024,POINT (-95.544397 29.777413)
+3119,16764,,Miami Mutual Insurance Company,1 Insurance Square,Celina,OH,45822-1690,
+2233,42757,,Agri General Insurance Company,"9200 Northpark Drive, #350",Johnston,IA,50131-3007,POINT (-93.752131 41.654519)
+2870,10166,866-206-5851,Accident Fund Insurance Company of America,PO Box 40790,Lansing,MI,48901-7990,
+2869,17965,,American Sentinel Insurance Company,PO Box 61140,Harrisburg,PA,17106-1140,
+2855,36560,,SafePort Insurance Company,"4200 Six Forks Rd., Suite 1400",Raleigh,NC,27609,POINT (-78.639427 35.835675)
+0644,24732,,General Insurance Company of America,175 Berkeley St.,Boston,MA,02116,POINT (-71.072399 42.349966)
+2567,33162,800-627-0000,Bankers Insurance Company,11101 Roosevelt Blvd. N,St. Petersburg,FL,33716,POINT (-82.651772 27.873606)
+0624,19275,800-692-6326,"American Family Mutual Insurance Company, S.I.",6000 American Parkway,Madison,WI,53783,POINT (-89.285375 43.155727)
+3243,10288,,Integrity Select Insurance Company,671 S. High Street,Columbus,OH,43206,POINT (-82.998044 39.948796)
+0416,21741,,Esurance Insurance Company of New Jersey,"3075 Sanders Road, Suite G4E",Northbrook,IL,60062-7127,POINT (-87.873947 42.093908)
+1568,21482,,Factory Mutual Insurance Company,P. O. Box 7500,Johnston,RI,02919,
+1741,26662,,Milford Casualty Insurance Company,PO Box 650771,Dallas,TX,75265-0771,
+3139,39900,,Peninsula Indemnity Company,"1195 River Road, P.O. Box 302",Marietta,PA,17547-0302,POINT (-76.549013 40.062676)
+2670,40975,800-733-0635,Dentists Insurance Company (The),P. O. Box 1582,Sacramento,CA,95812,
+1509,21423,,Union Insurance Company of Providence,P. O. Box 712,Des Moines,IA,50306-0712,
+2593,42552,,NOVA Casualty Company,440 Lincoln Street,Worcester,MA0165,06095,POINT (-72.797644 41.65327)
+3201,13587,,First Chicago Insurance Company,6540 South Cicero Avenue,Bedford Park,IL,60638-5838,POINT (-87.742236 41.773941)
+0743,23647,,Ironshore Indemnity Inc.,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+0517,20508,,Valley Forge Insurance Company,151 N. Franklin St,Chicago,IL,60606,POINT (-87.635367 41.884568)
+3039,41343,,HDI Global Insurance Company,"161 N. Clark Street, 48th Floor",Chicago,IL,60601,POINT (-87.630937 41.884708)
+0407,23132,800-369-4784,R.V.I. America Insurance Company,"177 Broad Street, 9th Floor",Stamford,CT,06901,POINT (-73.540815 41.055505)
+2356,42994,800-776-4737,Progressive Classic Insurance Company,6300 Wilson Mills Road,Mayfield Village,OH,44143-2182,POINT (-81.450826 41.538891)
+2837,31380,800-969-1827,American Surety Company,"250 East 96th Street, Suite 202",Indianapolis,IN,46240,POINT (-86.154067 39.927067)
+0836,20583,800-622-1840,XL Reinsurance America Inc.,"Seaview House, 70 Seaview Ave.",Stamford,CT,06902-6040,
+2027,36463,,Discover Property & Casualty Insurance Company,One Tower Square,Hartford,CT,06183,
+1902,35882,,GEICO General Insurance Company,One Geico Plaza,Washington,DC,20076,
+0508,20273,,Cedar Insurance Company,"628 Hebron Avenue, Suite 106",Glastonbury,CT,06033,POINT (-72.588865 41.714452)
+2917,10322,,Grange Indemnity Insurance Company,PO Box 1218,Columbus,OH,43216-1218,
+2418,16578,888-333-2490,Stillwater Property and Casualty Insurance Company,"4905 Belfort Rd., Suite 110",Jacksonville,FL,32256,POINT (-81.58308 30.245403)
+0748,20087,,National Indemnity Company,"1314 Douglas Street, Suite 1400",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+2483,26654,800-776-3386,Great Northwest Insurance Company,"445 Minnesota Street, Suite 730",St Paul,MN,55101,POINT (-93.093857 44.948695)
+2198,41653,,Milbank Insurance Company,518 E. Broad Street,Columbus,OH,43215,POINT (-82.986563 39.963871)
+2627,33650,,Mendota Insurance Company,"3343 Perimeter Hill Dr., Suite 214",Nashville,TN,37211,POINT (-86.694558 36.084899)
+2569,22730,800-294-9242,Allied World Insurance Company,"199 Water Street, 16th Floor",New York,NY,10038,POINT (-74.004621 40.707097)
+2531,23280,,Cincinnati Indemnity Company (The),P. O. Box 145496,Cincinnati,OH,45250-5496,
+3227,16024,,Federated Reserve Insurance Company,121 East Park Square,Owatonna,MN,55060,POINT (-93.225466 44.084027)
+1199,10464,,Canal Insurance Company,P. O. Box 7,Greenville,SC,29602,
+1858,20222,,All America Insurance Company,800 South Washington St.,Van Wert,OH,45891,POINT (-84.583012 40.860967)
+0518,10111,,American Bankers Insurance Company of Florida,11222 Quail Roost Drive,Miami,FL,33157,POINT (-80.37376 25.59497)
+2971,10784,866-387-4500,Maxum Casualty Insurance Company,3655 NorthPoint Parkway,Alpharetta,GA,30005,POINT (-84.441797 34.039643)
+0600,20443,877-262-2727,Continental Casualty Company,151 N. Franklin St.,Chicago,IL,60606,POINT (-87.635367 41.884568)
+2057,27812,,Columbia Insurance Company,"1314 Douglas Street, Suite 1400",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+2682,33898,,Aegis Security Insurance Company,P. O. Box 3153,Harrisburg,PA,17105-3153,
+2769,23507,,Mid-American Fire & Casualty Co.,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+3018,10351,800-732-1486,First Dakota Indemnity Company,PO Box 89310,Sioux Falls,SD,57106,
+2642,27847,,Insurance Company of the West,P. O. Box 509039,San Diego,CA,92150-9039,
+1508,24791,,St. Paul Mercury Insurance Company,One Tower Square,Hartford,CT,06183,
+3030,35505,800-837-9062,Rockwood Casualty Insurance Company,654 Main Street,Rockwood,PA,15557,POINT (-79.153318 39.914781)
+2739,36307,,Gray Insurance Company (The),P. O. Box 6202,Metairie,LA,70009-6202,
+2504,42048,,Diamond State Insurance Company,"Three Bala Plaza East, Suite 300",Bala Cynwyd,PA,19004,
+0441,15032,,GuideOne Insurance Company,1111 Ashworth Road,West Des Moines,IA,50265-3538,POINT (-93.719132 41.584614)
+3052,29033,,Atain Insurance Company,"30833 Northwestern Highway, Suite 220",Farmington Hills,MI,48334,POINT (-83.330994 42.51333)
+3235,16045,,Everest Premier Insurance Company,PO Box 830,Liberty Corner,NJ,07938-0830,
+0854,12750,,Evergreen National Indemnity Company,"6140 Parkland Blvd., Suite 321",Mayfield Heights,OH,44124,POINT (-81.455895 41.505642)
+0745,20796,800-245-2425,21st Century Premier Insurance Company,"21st Century Plaza, 3 Beaver Valley Road",Wilmington,DE,19803,
+0939,11231,,Generali (United States Branch),"7 World Trade Center, 33rd Floor",New York,NY,10007,
+3100,39462,,Berkley Assurance Company,7233 E. Butherus Drive,Scottsdale,AZ,85260,POINT (-111.924181 33.622662)
+0559,20109,800-475-4477,BITCO National Insurance Company,3700 Market Square Circle,Davenport,IA,52807-2309,
+0666,19682,,Hartford Fire Insurance Company,One Hartford Plaza,Hartford,CT,06155,
+2933,18333,,Peerless Indemnity Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+3160,31453,800-332-7977,Financial Pacific Insurance Company,118 Second Avenue SE,Cedar Rapids,IA,52407-3909,POINT (-91.668096 41.977646)
+2928,35246,800-395-5934,Illinois Insurance Company,PO Box 3646,Omaha,NE,68103-0646,
+2252,19712,,American States Insurance Company of Texas,175 Berkeley Street,Boston,MA,98185,POINT (-71.072399 42.349966)
+2450,37206,,Contractors Bonding and Insurance Company,9025 N. Lindbergh Drive,Peoria,IL,61615,POINT (-89.610322 40.79734)
+3265,32506,,Monroe Guaranty Insurance Company,6300 University Parkway,Sarasota,FL,34240,POINT (-82.435564 27.38635)
+1701,21105,,North River Insurance Company (The),305 Madison Ave.,Morristown,NJ,07962,POINT (-74.450789 40.782815)
+3170,35416,,U.S. Underwriters Insurance Company,1190 Devon Park,Wayne,PA,19087,POINT (-75.395779 40.080596)
+2666,23876,,Mapfre Insurance Company,211 Main Street,Webster,MA,01570,POINT (-71.88297 42.049256)
+2181,41238,,Trans Pacific Insurance Company,"Three Bala Plaza East, Suite 400",Bala Cynwyd,PA,19004,
+2873,11127,800-321-7015,Professional Solutions Insurance Company,P. O. Box 9118,Des Moines,IA,50306-9118,
+1992,26042,,Wausau Underwriters Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2718,13269,,Zenith Insurance Company,21255 Califa St.,Woodland Hills,CA,91367,POINT (-118.594837 34.177133)
+2368,11150,,Arch Insurance Company,"210 Hudson Street, Suite 300",Jersey City,NJ,07311-1107,
+2251,14249,,Founders Insurance Company,"1350 East Touhy Avenue, Suite 200W",Des Plaines,IL,60018,POINT (-87.890134 42.009572)
+2136,39950,800-422-4272,Metropolitan General Insurance Company,700 Quaker Lane,Warwick,RI,02886-6669,POINT (-71.500068 41.678771)
+2164,36447,,LM General Insurance Company,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+3053,10916,,SureTec Insurance Company,2103 City West Blvd # 1300,Houston,TX,77042,
+2439,42307,(855) 628-4467,Navigators Insurance Company,400 Atlantic Street,Stamford,CT,06901,POINT (-73.53952 41.050493)
+3120,36064,,Hanover American Insurance Company (The),440 Lincoln St.,Worcester,MA,01653-0002,POINT (-71.780784 42.291928)
+1664,22543,800-558-3405,SECURA Insurance Company,P. O. Box 819,Appleton,WI,54912-0819,
+3092,13126,800-374-7798,Midwest Builders' Casualty Mutual Company,"1100 Walnut Street, Suite 3010",Kansas City,MO,64106,POINT (-94.582039 39.100542)
+1211,19216,800-777-2249,Southern Insurance Company,PO Box 809076,Dallas,TX,75380-9076,
+0682,21776,,Previsor Insurance Company,101 N. Keene Street Suite C,Columbia,MO,65201,POINT (-92.290578 38.950606)
+2590,36170,,Travelers Casualty Company of Connecticut,One Tower Square,Hartford,CT,06183,
+1322,25453,800-882-2822,Nationwide Insurance Company of America,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2325,27855,,Zurich American Insurance Company of Illinois,"1299 Zurich Way, 5th Floor",Schaumburg,IL,60196,
+1807,10391,,Berkshire Hathaway Direct Insurance Company,"1314 Douglas Street, Suite 1400",Omaha,NE,68102-1944,POINT (-95.93386 41.258631)
+2492,38156,800-456-1919,Alpha Property & Casualty Insurance Company,"8360 LBJ Freeway, Suite 400",Dallas,TX,75243,
+2329,22950,,ACSTAR Insurance Company,30 South Road,Farmington,CT,06032,POINT (-72.800651 41.725873)
+2770,10052,,Chubb National Insurance Company,202B Hall's Mill Road,Whithouse Station,NJ,08889,
+2813,26492,,Courtesy Insurance Company,500 Jim Moran Blvd.,Deerfield Beach,FL,33442,POINT (-80.11919 26.323392)
+2285,39942,,American National General Insurance Company,"1949 E. Sunshine, Corporate Ctr.",Springfield,MO,65899,
+0530,19380,,American Home Assurance Company,"1271 Ave of the Americas, FL 37",New York,NY,10020-1304,POINT (-73.980137 40.760305)
+1805,31887,,Coface North America Insurance Company,c/o DLA Piper,Boston,MA,02110-1447,
+2880,11054,,Fletcher Reinsurance Company,"475 Kilvert Street, Suite 330",Warwick,RI,02886,POINT (-71.453017 41.729189)
+2984,12528,800-274-3531,Wadena Insurance Company,P.O. Box 1336,Des Moines,IA,50306-1336,
+0746,11991,800 423-7675,National Casualty Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+2463,29793,800-242-7611,Pacific Star Insurance Company,PO Box 509020,San Diego,CA,92150-9020,
+2304,26700,,Insurance Company of Illinois,175 Berkeley St.,Boston,MA,02116,POINT (-71.072399 42.349966)
+1108,15199,,Standard Property and Casualty Insurance Company,1028 South Grand Ave. West,Springfield,IL,62704,POINT (-89.669072 39.786928)
+2891,10984,,Ansur America Insurance Company,One Mutual Avenue,Frankenmuth,MI,48787-0001,
+0550,13412,,Austin Mutual Insurance Company,PO Box 1420,Maple Grove,MN,55369,
+1652,21628,,"Farmers Insurance Company, Inc.","Farmers Ins Group, Regulatory Affairs Dept.",Grand Rapids,MI,49501,
+0615,21458,,Employers Insurance Company of Wausau,175 Berkeley Street,Boston,MA,02116,POINT (-71.072399 42.349966)
+2313,16144,800-362-2041,Grinnell Select Insurance Company,"4215 Highway 146, P.O. Box 790",Grinnell,IA,50112-0790,POINT (-92.727228 41.684603)
+0781,24104,,Ohio Farmers Insurance Company,P. O. Box 5001,Westfield Center,OH,44251-5001,
+3010,35696,,Harleysville Preferred Insurance Company,"One Nationwide Blvd, FSSC-RR",Columbus,OH,43215,
+0908,38245,,BCS Insurance Company,"2 Mid America Plaza, Suite 200",Oakbrook Terrace,IL,60181,POINT (-87.958782 41.849542)
+2943,14788,,NGM Insurance Company,"4601 Touchton Road East, Suite 3400",Jacksonville,FL,32245-3600,POINT (-81.549085 30.262285)
+3081,11206,,"Housing Enterprise Insurance Company, Inc.",189 Commerce Court,Cheshire,CT,06410,POINT (-72.89586 41.542638)
+2134,40142,,American Zurich Insurance Company,"1400 American Lane, Tower 1, 19th Floor",Schaumburg,IL,60196-1056,POINT (-88.04366 42.047412)
+0539,22136,,Great American Insurance Company of New York,301 E. Fourth Street,Cincinnati,OH,45202-4201,POINT (-84.507376 39.100759)
+2912,41106,,Triumphe Casualty Company,3250 Interstate Drive,Richfield,OH,44286,POINT (-81.63098 41.225978)
+2734,34690,,Property and Casualty Insurance Company of Hartford,One Hartford Plaza,Hartford,CT,06155-0001,
+3013,13692,,Donegal Mutual Insurance Company,"1195 River Road, P.O. Box 302",Marietta,PA,17547-0302,POINT (-76.549013 40.062676)
+1784,13056,,RLI Insurance Company,9025 North Lindbergh Drive,Peoria,IL,61614,POINT (-89.610322 40.79734)
+0867,20494,,Transportation Insurance Company,151 N. Franklin St.,Chicago,IL,60606,POINT (-87.635367 41.884568)
+2732,10226,,Unitrin Direct Insurance Company,"200 East Randolph Street, Suite 3300",Chicago,IL,60601,POINT (-87.621619 41.884493)
+0942,24147,,Old Republic Insurance Company,"631 Excel Drive, Suite 200",Mt. Pleasant,PA,15666,POINT (-79.584838 40.191805)
+1670,21261,,Electric Insurance Company,75 Sam Fonzo Drive,Beverly,MA,01915,POINT (-70.904715 42.57925)
+2241,38776,,SiriusPoint America Insurance Company,"140 Broadway, 32nd Floor",New York,NY,10005,POINT (-74.010646 40.709042)
+2858,39098,,Omni Insurance Company,"1400 Union Meeting Road, Suite 250",Blue Bell,PA,19422,POINT (-75.285084 40.148645)
+2857,20141,800 226-3224,National Trust Insurance Company,6300 University Parkway,Sarasota,FL,34240-8424,POINT (-82.435564 27.38635)
+3259,18468,,Indemnity National Insurance Company,238 Bedford Way,Franklin,TN,37064,POINT (-86.837247 35.907055)
+2163,24120,,Westfield National Insurance Company,"One Park Circle, P. O. Box 5001",Westfield Center,OH,44251-5001,
+3031,11551,,Endurance Assurance Corporation,"4 Manhattanville Road, 3rd Floor",Purchase,NY,10577,POINT (-73.71799 41.02335)
+2001,24678,,Arrowood Indemnity Company,3600 Arco Corporate Drive,Charlotte,NC,28273,POINT (-80.946659 35.149725)
